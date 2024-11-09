@@ -1,0 +1,4010 @@
+[
+    {
+      "CountryName": "Afghanistan",
+      "Year": 2009,
+      "CurrentYearTotalTradeValue": 806882.012,
+      "PreviousYearTotalTradeValue": 1080131.188,
+      "GrowthPercentage": -25.3,
+      "AverageGrowthPercentage": 5.51
+    },
+    {
+      "CountryName": "Afghanistan",
+      "Year": 2010,
+      "CurrentYearTotalTradeValue": 776967.274,
+      "PreviousYearTotalTradeValue": 806882.012,
+      "GrowthPercentage": -3.71,
+      "AverageGrowthPercentage": 5.51
+    },
+    {
+      "CountryName": "Afghanistan",
+      "Year": 2011,
+      "CurrentYearTotalTradeValue": 751701.87,
+      "PreviousYearTotalTradeValue": 776967.274,
+      "GrowthPercentage": -3.25,
+      "AverageGrowthPercentage": 5.51
+    },
+    {
+      "CountryName": "Afghanistan",
+      "Year": 2012,
+      "CurrentYearTotalTradeValue": 857805.42,
+      "PreviousYearTotalTradeValue": 751701.87,
+      "GrowthPercentage": 14.12,
+      "AverageGrowthPercentage": 5.51
+    },
+    {
+      "CountryName": "Afghanistan",
+      "Year": 2013,
+      "CurrentYearTotalTradeValue": 1029945.966,
+      "PreviousYearTotalTradeValue": 857805.42,
+      "GrowthPercentage": 20.07,
+      "AverageGrowthPercentage": 5.51
+    },
+    {
+      "CountryName": "Afghanistan",
+      "Year": 2014,
+      "CurrentYearTotalTradeValue": 1141068.014,
+      "PreviousYearTotalTradeValue": 1029945.966,
+      "GrowthPercentage": 10.79,
+      "AverageGrowthPercentage": 5.51
+    },
+    {
+      "CountryName": "Afghanistan",
+      "Year": 2015,
+      "CurrentYearTotalTradeValue": 1142809.936,
+      "PreviousYearTotalTradeValue": 1141068.014,
+      "GrowthPercentage": 0.15,
+      "AverageGrowthPercentage": 5.51
+    },
+    {
+      "CountryName": "Afghanistan",
+      "Year": 2016,
+      "CurrentYearTotalTradeValue": 1192910.671,
+      "PreviousYearTotalTradeValue": 1142809.936,
+      "GrowthPercentage": 4.38,
+      "AverageGrowthPercentage": 5.51
+    },
+    {
+      "CountryName": "Afghanistan",
+      "Year": 2017,
+      "CurrentYearTotalTradeValue": 1663853.545,
+      "PreviousYearTotalTradeValue": 1192910.671,
+      "GrowthPercentage": 39.48,
+      "AverageGrowthPercentage": 5.51
+    },
+    {
+      "CountryName": "Afghanistan",
+      "Year": 2018,
+      "CurrentYearTotalTradeValue": 1750482.796,
+      "PreviousYearTotalTradeValue": 1663853.545,
+      "GrowthPercentage": 5.21,
+      "AverageGrowthPercentage": 5.51
+    },
+    {
+      "CountryName": "Afghanistan",
+      "Year": 2019,
+      "CurrentYearTotalTradeValue": 1727666.631,
+      "PreviousYearTotalTradeValue": 1750482.796,
+      "GrowthPercentage": -1.3,
+      "AverageGrowthPercentage": 5.51
+    },
+    {
+      "CountryName": "Albania",
+      "Year": 1997,
+      "CurrentYearTotalTradeValue": 275362.021,
+      "PreviousYearTotalTradeValue": 422280.797,
+      "GrowthPercentage": -34.79,
+      "AverageGrowthPercentage": 25.56
+    },
+    {
+      "CountryName": "Albania",
+      "Year": 1998,
+      "CurrentYearTotalTradeValue": 415307.604,
+      "PreviousYearTotalTradeValue": 275362.021,
+      "GrowthPercentage": 50.82,
+      "AverageGrowthPercentage": 25.56
+    },
+    {
+      "CountryName": "Albania",
+      "Year": 1999,
+      "CurrentYearTotalTradeValue": 702195.648,
+      "PreviousYearTotalTradeValue": 415307.604,
+      "GrowthPercentage": 69.08,
+      "AverageGrowthPercentage": 25.56
+    },
+    {
+      "CountryName": "Albania",
+      "Year": 2000,
+      "CurrentYearTotalTradeValue": 522951.56,
+      "PreviousYearTotalTradeValue": 702195.648,
+      "GrowthPercentage": -25.53,
+      "AverageGrowthPercentage": 25.56
+    },
+    {
+      "CountryName": "Albania",
+      "Year": 2001,
+      "CurrentYearTotalTradeValue": 609861.401,
+      "PreviousYearTotalTradeValue": 522951.56,
+      "GrowthPercentage": 16.62,
+      "AverageGrowthPercentage": 25.56
+    },
+    {
+      "CountryName": "Albania",
+      "Year": 2002,
+      "CurrentYearTotalTradeValue": 660482.994,
+      "PreviousYearTotalTradeValue": 609861.401,
+      "GrowthPercentage": 8.3,
+      "AverageGrowthPercentage": 25.56
+    },
+    {
+      "CountryName": "Albania",
+      "Year": 2003,
+      "CurrentYearTotalTradeValue": 894441.093,
+      "PreviousYearTotalTradeValue": 660482.994,
+      "GrowthPercentage": 35.42,
+      "AverageGrowthPercentage": 25.56
+    },
+    {
+      "CountryName": "Albania",
+      "Year": 2004,
+      "CurrentYearTotalTradeValue": 1205306.718,
+      "PreviousYearTotalTradeValue": 894441.093,
+      "GrowthPercentage": 34.76,
+      "AverageGrowthPercentage": 25.56
+    },
+    {
+      "CountryName": "Albania",
+      "Year": 2005,
+      "CurrentYearTotalTradeValue": 393098.873,
+      "PreviousYearTotalTradeValue": 1205306.718,
+      "GrowthPercentage": -67.39,
+      "AverageGrowthPercentage": 25.56
+    },
+    {
+      "CountryName": "Albania",
+      "Year": 2006,
+      "CurrentYearTotalTradeValue": 476665.189,
+      "PreviousYearTotalTradeValue": 393098.873,
+      "GrowthPercentage": 21.26,
+      "AverageGrowthPercentage": 25.56
+    },
+    {
+      "CountryName": "Albania",
+      "Year": 2007,
+      "CurrentYearTotalTradeValue": 2155380.715,
+      "PreviousYearTotalTradeValue": 476665.189,
+      "GrowthPercentage": 352.18,
+      "AverageGrowthPercentage": 25.56
+    },
+    {
+      "CountryName": "Albania",
+      "Year": 2008,
+      "CurrentYearTotalTradeValue": 1088107.114,
+      "PreviousYearTotalTradeValue": 2155380.715,
+      "GrowthPercentage": -49.52,
+      "AverageGrowthPercentage": 25.56
+    },
+    {
+      "CountryName": "Albania",
+      "Year": 2009,
+      "CurrentYearTotalTradeValue": 2175829.799,
+      "PreviousYearTotalTradeValue": 1088107.114,
+      "GrowthPercentage": 99.96,
+      "AverageGrowthPercentage": 25.56
+    },
+    {
+      "CountryName": "Albania",
+      "Year": 2010,
+      "CurrentYearTotalTradeValue": 3099911.449,
+      "PreviousYearTotalTradeValue": 2175829.799,
+      "GrowthPercentage": 42.47,
+      "AverageGrowthPercentage": 25.56
+    },
+    {
+      "CountryName": "Albania",
+      "Year": 2011,
+      "CurrentYearTotalTradeValue": 3896414.613,
+      "PreviousYearTotalTradeValue": 3099911.449,
+      "GrowthPercentage": 25.69,
+      "AverageGrowthPercentage": 25.56
+    },
+    {
+      "CountryName": "Albania",
+      "Year": 2012,
+      "CurrentYearTotalTradeValue": 3935837.89,
+      "PreviousYearTotalTradeValue": 3896414.613,
+      "GrowthPercentage": 1.01,
+      "AverageGrowthPercentage": 25.56
+    },
+    {
+      "CountryName": "Albania",
+      "Year": 2013,
+      "CurrentYearTotalTradeValue": 4663043.855,
+      "PreviousYearTotalTradeValue": 3935837.89,
+      "GrowthPercentage": 18.48,
+      "AverageGrowthPercentage": 25.56
+    },
+    {
+      "CountryName": "Albania",
+      "Year": 2014,
+      "CurrentYearTotalTradeValue": 4861447.289,
+      "PreviousYearTotalTradeValue": 4663043.855,
+      "GrowthPercentage": 4.25,
+      "AverageGrowthPercentage": 25.56
+    },
+    {
+      "CountryName": "Albania",
+      "Year": 2015,
+      "CurrentYearTotalTradeValue": 3859314.063,
+      "PreviousYearTotalTradeValue": 4861447.289,
+      "GrowthPercentage": -20.61,
+      "AverageGrowthPercentage": 25.56
+    },
+    {
+      "CountryName": "Albania",
+      "Year": 2016,
+      "CurrentYearTotalTradeValue": 3924234.833,
+      "PreviousYearTotalTradeValue": 3859314.063,
+      "GrowthPercentage": 1.68,
+      "AverageGrowthPercentage": 25.56
+    },
+    {
+      "CountryName": "Albania",
+      "Year": 2017,
+      "CurrentYearTotalTradeValue": 4604636.508,
+      "PreviousYearTotalTradeValue": 3924234.833,
+      "GrowthPercentage": 17.34,
+      "AverageGrowthPercentage": 25.56
+    },
+    {
+      "CountryName": "Albania",
+      "Year": 2018,
+      "CurrentYearTotalTradeValue": 5751719.553,
+      "PreviousYearTotalTradeValue": 4604636.508,
+      "GrowthPercentage": 24.91,
+      "AverageGrowthPercentage": 25.56
+    },
+    {
+      "CountryName": "Albania",
+      "Year": 2019,
+      "CurrentYearTotalTradeValue": 5438857.419,
+      "PreviousYearTotalTradeValue": 5751719.553,
+      "GrowthPercentage": -5.44,
+      "AverageGrowthPercentage": 25.56
+    },
+    {
+      "CountryName": "Albania",
+      "Year": 2020,
+      "CurrentYearTotalTradeValue": 5029471.129,
+      "PreviousYearTotalTradeValue": 5438857.419,
+      "GrowthPercentage": -7.53,
+      "AverageGrowthPercentage": 25.56
+    },
+    {
+      "CountryName": "Algeria",
+      "Year": 1993,
+      "CurrentYearTotalTradeValue": 20195330.563,
+      "PreviousYearTotalTradeValue": 22273603.927,
+      "GrowthPercentage": -9.33,
+      "AverageGrowthPercentage": 8.29
+    },
+    {
+      "CountryName": "Algeria",
+      "Year": 1994,
+      "CurrentYearTotalTradeValue": 17187612.514,
+      "PreviousYearTotalTradeValue": 20195330.563,
+      "GrowthPercentage": -14.89,
+      "AverageGrowthPercentage": 8.29
+    },
+    {
+      "CountryName": "Algeria",
+      "Year": 1995,
+      "CurrentYearTotalTradeValue": 18713360.621,
+      "PreviousYearTotalTradeValue": 17187612.514,
+      "GrowthPercentage": 8.88,
+      "AverageGrowthPercentage": 8.29
+    },
+    {
+      "CountryName": "Algeria",
+      "Year": 1996,
+      "CurrentYearTotalTradeValue": 22198443.624,
+      "PreviousYearTotalTradeValue": 18713360.621,
+      "GrowthPercentage": 18.62,
+      "AverageGrowthPercentage": 8.29
+    },
+    {
+      "CountryName": "Algeria",
+      "Year": 1997,
+      "CurrentYearTotalTradeValue": 27788247.064,
+      "PreviousYearTotalTradeValue": 22198443.624,
+      "GrowthPercentage": 25.18,
+      "AverageGrowthPercentage": 8.29
+    },
+    {
+      "CountryName": "Algeria",
+      "Year": 1998,
+      "CurrentYearTotalTradeValue": 19677175.855,
+      "PreviousYearTotalTradeValue": 27788247.064,
+      "GrowthPercentage": -29.19,
+      "AverageGrowthPercentage": 8.29
+    },
+    {
+      "CountryName": "Algeria",
+      "Year": 1999,
+      "CurrentYearTotalTradeValue": 25050553.264,
+      "PreviousYearTotalTradeValue": 19677175.855,
+      "GrowthPercentage": 27.31,
+      "AverageGrowthPercentage": 8.29
+    },
+    {
+      "CountryName": "Algeria",
+      "Year": 2000,
+      "CurrentYearTotalTradeValue": 44062575.288,
+      "PreviousYearTotalTradeValue": 25050553.264,
+      "GrowthPercentage": 75.89,
+      "AverageGrowthPercentage": 8.29
+    },
+    {
+      "CountryName": "Algeria",
+      "Year": 2001,
+      "CurrentYearTotalTradeValue": 38295238.382,
+      "PreviousYearTotalTradeValue": 44062575.288,
+      "GrowthPercentage": -13.09,
+      "AverageGrowthPercentage": 8.29
+    },
+    {
+      "CountryName": "Algeria",
+      "Year": 2002,
+      "CurrentYearTotalTradeValue": 37664818.51,
+      "PreviousYearTotalTradeValue": 38295238.382,
+      "GrowthPercentage": -1.65,
+      "AverageGrowthPercentage": 8.29
+    },
+    {
+      "CountryName": "Algeria",
+      "Year": 2003,
+      "CurrentYearTotalTradeValue": 49307311.582,
+      "PreviousYearTotalTradeValue": 37664818.51,
+      "GrowthPercentage": 30.91,
+      "AverageGrowthPercentage": 8.29
+    },
+    {
+      "CountryName": "Algeria",
+      "Year": 2004,
+      "CurrentYearTotalTradeValue": 64153583.4,
+      "PreviousYearTotalTradeValue": 49307311.582,
+      "GrowthPercentage": 30.11,
+      "AverageGrowthPercentage": 8.29
+    },
+    {
+      "CountryName": "Algeria",
+      "Year": 2005,
+      "CurrentYearTotalTradeValue": 92003470.966,
+      "PreviousYearTotalTradeValue": 64153583.4,
+      "GrowthPercentage": 43.41,
+      "AverageGrowthPercentage": 8.29
+    },
+    {
+      "CountryName": "Algeria",
+      "Year": 2006,
+      "CurrentYearTotalTradeValue": 109225443.568,
+      "PreviousYearTotalTradeValue": 92003470.966,
+      "GrowthPercentage": 18.72,
+      "AverageGrowthPercentage": 8.29
+    },
+    {
+      "CountryName": "Algeria",
+      "Year": 2007,
+      "CurrentYearTotalTradeValue": 120326320.692,
+      "PreviousYearTotalTradeValue": 109225443.568,
+      "GrowthPercentage": 10.16,
+      "AverageGrowthPercentage": 8.29
+    },
+    {
+      "CountryName": "Algeria",
+      "Year": 2008,
+      "CurrentYearTotalTradeValue": 158595183.026,
+      "PreviousYearTotalTradeValue": 120326320.692,
+      "GrowthPercentage": 31.8,
+      "AverageGrowthPercentage": 8.29
+    },
+    {
+      "CountryName": "Algeria",
+      "Year": 2009,
+      "CurrentYearTotalTradeValue": 90387840.482,
+      "PreviousYearTotalTradeValue": 158595183.026,
+      "GrowthPercentage": -43.01,
+      "AverageGrowthPercentage": 8.29
+    },
+    {
+      "CountryName": "Algeria",
+      "Year": 2010,
+      "CurrentYearTotalTradeValue": 114101947.146,
+      "PreviousYearTotalTradeValue": 90387840.482,
+      "GrowthPercentage": 26.24,
+      "AverageGrowthPercentage": 8.29
+    },
+    {
+      "CountryName": "Algeria",
+      "Year": 2011,
+      "CurrentYearTotalTradeValue": 146872612.18,
+      "PreviousYearTotalTradeValue": 114101947.146,
+      "GrowthPercentage": 28.72,
+      "AverageGrowthPercentage": 8.29
+    },
+    {
+      "CountryName": "Algeria",
+      "Year": 2012,
+      "CurrentYearTotalTradeValue": 143731497.988,
+      "PreviousYearTotalTradeValue": 146872612.18,
+      "GrowthPercentage": -2.14,
+      "AverageGrowthPercentage": 8.29
+    },
+    {
+      "CountryName": "Algeria",
+      "Year": 2013,
+      "CurrentYearTotalTradeValue": 131996275.187,
+      "PreviousYearTotalTradeValue": 143731497.988,
+      "GrowthPercentage": -8.16,
+      "AverageGrowthPercentage": 8.29
+    },
+    {
+      "CountryName": "Algeria",
+      "Year": 2014,
+      "CurrentYearTotalTradeValue": 120775378.611,
+      "PreviousYearTotalTradeValue": 131996275.187,
+      "GrowthPercentage": -8.5,
+      "AverageGrowthPercentage": 8.29
+    },
+    {
+      "CountryName": "Algeria",
+      "Year": 2015,
+      "CurrentYearTotalTradeValue": 69591902.982,
+      "PreviousYearTotalTradeValue": 120775378.611,
+      "GrowthPercentage": -42.38,
+      "AverageGrowthPercentage": 8.29
+    },
+    {
+      "CountryName": "Algeria",
+      "Year": 2016,
+      "CurrentYearTotalTradeValue": 59984202.943,
+      "PreviousYearTotalTradeValue": 69591902.982,
+      "GrowthPercentage": -13.81,
+      "AverageGrowthPercentage": 8.29
+    },
+    {
+      "CountryName": "Algeria",
+      "Year": 2017,
+      "CurrentYearTotalTradeValue": 70382234.835,
+      "PreviousYearTotalTradeValue": 59984202.943,
+      "GrowthPercentage": 17.33,
+      "AverageGrowthPercentage": 8.29
+    },
+    {
+      "CountryName": "Andorra",
+      "Year": 1996,
+      "CurrentYearTotalTradeValue": 92485.966,
+      "PreviousYearTotalTradeValue": 95606.279,
+      "GrowthPercentage": -3.26,
+      "AverageGrowthPercentage": 5.89
+    },
+    {
+      "CountryName": "Andorra",
+      "Year": 1997,
+      "CurrentYearTotalTradeValue": 96000.771,
+      "PreviousYearTotalTradeValue": 92485.966,
+      "GrowthPercentage": 3.8,
+      "AverageGrowthPercentage": 5.89
+    },
+    {
+      "CountryName": "Andorra",
+      "Year": 1998,
+      "CurrentYearTotalTradeValue": 115717.795,
+      "PreviousYearTotalTradeValue": 96000.771,
+      "GrowthPercentage": 20.54,
+      "AverageGrowthPercentage": 5.89
+    },
+    {
+      "CountryName": "Andorra",
+      "Year": 1999,
+      "CurrentYearTotalTradeValue": 85361.2,
+      "PreviousYearTotalTradeValue": 115717.795,
+      "GrowthPercentage": -26.23,
+      "AverageGrowthPercentage": 5.89
+    },
+    {
+      "CountryName": "Andorra",
+      "Year": 2000,
+      "CurrentYearTotalTradeValue": 90658.084,
+      "PreviousYearTotalTradeValue": 85361.2,
+      "GrowthPercentage": 6.21,
+      "AverageGrowthPercentage": 5.89
+    },
+    {
+      "CountryName": "Andorra",
+      "Year": 2001,
+      "CurrentYearTotalTradeValue": 104842.473,
+      "PreviousYearTotalTradeValue": 90658.084,
+      "GrowthPercentage": 15.65,
+      "AverageGrowthPercentage": 5.89
+    },
+    {
+      "CountryName": "Andorra",
+      "Year": 2002,
+      "CurrentYearTotalTradeValue": 127504.665,
+      "PreviousYearTotalTradeValue": 104842.473,
+      "GrowthPercentage": 21.62,
+      "AverageGrowthPercentage": 5.89
+    },
+    {
+      "CountryName": "Andorra",
+      "Year": 2003,
+      "CurrentYearTotalTradeValue": 180311.973,
+      "PreviousYearTotalTradeValue": 127504.665,
+      "GrowthPercentage": 41.42,
+      "AverageGrowthPercentage": 5.89
+    },
+    {
+      "CountryName": "Andorra",
+      "Year": 2004,
+      "CurrentYearTotalTradeValue": 246419.089,
+      "PreviousYearTotalTradeValue": 180311.973,
+      "GrowthPercentage": 36.66,
+      "AverageGrowthPercentage": 5.89
+    },
+    {
+      "CountryName": "Andorra",
+      "Year": 2005,
+      "CurrentYearTotalTradeValue": 285475.107,
+      "PreviousYearTotalTradeValue": 246419.089,
+      "GrowthPercentage": 15.85,
+      "AverageGrowthPercentage": 5.89
+    },
+    {
+      "CountryName": "Andorra",
+      "Year": 2006,
+      "CurrentYearTotalTradeValue": 330759.88,
+      "PreviousYearTotalTradeValue": 285475.107,
+      "GrowthPercentage": 15.86,
+      "AverageGrowthPercentage": 5.89
+    },
+    {
+      "CountryName": "Andorra",
+      "Year": 2007,
+      "CurrentYearTotalTradeValue": 301692.324,
+      "PreviousYearTotalTradeValue": 330759.88,
+      "GrowthPercentage": -8.79,
+      "AverageGrowthPercentage": 5.89
+    },
+    {
+      "CountryName": "Andorra",
+      "Year": 2008,
+      "CurrentYearTotalTradeValue": 278198.689,
+      "PreviousYearTotalTradeValue": 301692.324,
+      "GrowthPercentage": -7.79,
+      "AverageGrowthPercentage": 5.89
+    },
+    {
+      "CountryName": "Andorra",
+      "Year": 2009,
+      "CurrentYearTotalTradeValue": 200955.752,
+      "PreviousYearTotalTradeValue": 278198.689,
+      "GrowthPercentage": -27.77,
+      "AverageGrowthPercentage": 5.89
+    },
+    {
+      "CountryName": "Andorra",
+      "Year": 2010,
+      "CurrentYearTotalTradeValue": 184637.929,
+      "PreviousYearTotalTradeValue": 200955.752,
+      "GrowthPercentage": -8.12,
+      "AverageGrowthPercentage": 5.89
+    },
+    {
+      "CountryName": "Andorra",
+      "Year": 2011,
+      "CurrentYearTotalTradeValue": 228045.433,
+      "PreviousYearTotalTradeValue": 184637.929,
+      "GrowthPercentage": 23.51,
+      "AverageGrowthPercentage": 5.89
+    },
+    {
+      "CountryName": "Andorra",
+      "Year": 2012,
+      "CurrentYearTotalTradeValue": 211899.286,
+      "PreviousYearTotalTradeValue": 228045.433,
+      "GrowthPercentage": -7.08,
+      "AverageGrowthPercentage": 5.89
+    },
+    {
+      "CountryName": "Andorra",
+      "Year": 2013,
+      "CurrentYearTotalTradeValue": 197956.105,
+      "PreviousYearTotalTradeValue": 211899.286,
+      "GrowthPercentage": -6.58,
+      "AverageGrowthPercentage": 5.89
+    },
+    {
+      "CountryName": "Andorra",
+      "Year": 2014,
+      "CurrentYearTotalTradeValue": 190315.411,
+      "PreviousYearTotalTradeValue": 197956.105,
+      "GrowthPercentage": -3.86,
+      "AverageGrowthPercentage": 5.89
+    },
+    {
+      "CountryName": "Andorra",
+      "Year": 2015,
+      "CurrentYearTotalTradeValue": 179003.873,
+      "PreviousYearTotalTradeValue": 190315.411,
+      "GrowthPercentage": -5.94,
+      "AverageGrowthPercentage": 5.89
+    },
+    {
+      "CountryName": "Andorra",
+      "Year": 2016,
+      "CurrentYearTotalTradeValue": 193825.915,
+      "PreviousYearTotalTradeValue": 179003.873,
+      "GrowthPercentage": 8.28,
+      "AverageGrowthPercentage": 5.89
+    },
+    {
+      "CountryName": "Andorra",
+      "Year": 2017,
+      "CurrentYearTotalTradeValue": 235931.219,
+      "PreviousYearTotalTradeValue": 193825.915,
+      "GrowthPercentage": 21.72,
+      "AverageGrowthPercentage": 5.89
+    },
+    {
+      "CountryName": "Andorra",
+      "Year": 2018,
+      "CurrentYearTotalTradeValue": 258896.298,
+      "PreviousYearTotalTradeValue": 235931.219,
+      "GrowthPercentage": 9.73,
+      "AverageGrowthPercentage": 5.89
+    },
+    {
+      "CountryName": "Angola",
+      "Year": 1991,
+      "CurrentYearTotalTradeValue": 6819340.741,
+      "PreviousYearTotalTradeValue": 7820656.016,
+      "GrowthPercentage": -12.8,
+      "AverageGrowthPercentage": 0
+    },
+    {
+      "CountryName": "Angola",
+      "Year": 2010,
+      "CurrentYearTotalTradeValue": 105224229.521,
+      "PreviousYearTotalTradeValue": 81278823.462,
+      "GrowthPercentage": 29.46,
+      "AverageGrowthPercentage": 0
+    },
+    {
+      "CountryName": "Angola",
+      "Year": 2011,
+      "CurrentYearTotalTradeValue": 132854780.441,
+      "PreviousYearTotalTradeValue": 105224229.521,
+      "GrowthPercentage": 26.26,
+      "AverageGrowthPercentage": 0
+    },
+    {
+      "CountryName": "Angola",
+      "Year": 2012,
+      "CurrentYearTotalTradeValue": 141726152.829,
+      "PreviousYearTotalTradeValue": 132854780.441,
+      "GrowthPercentage": 6.68,
+      "AverageGrowthPercentage": 0
+    },
+    {
+      "CountryName": "Angola",
+      "Year": 2013,
+      "CurrentYearTotalTradeValue": 135425053.091,
+      "PreviousYearTotalTradeValue": 141726152.829,
+      "GrowthPercentage": -4.45,
+      "AverageGrowthPercentage": 0
+    },
+    {
+      "CountryName": "Angola",
+      "Year": 2014,
+      "CurrentYearTotalTradeValue": 117344738.38,
+      "PreviousYearTotalTradeValue": 135425053.091,
+      "GrowthPercentage": -13.35,
+      "AverageGrowthPercentage": 0
+    },
+    {
+      "CountryName": "Angola",
+      "Year": 2015,
+      "CurrentYearTotalTradeValue": 67849874.959,
+      "PreviousYearTotalTradeValue": 117344738.38,
+      "GrowthPercentage": -42.18,
+      "AverageGrowthPercentage": 0
+    },
+    {
+      "CountryName": "Angola",
+      "Year": 2016,
+      "CurrentYearTotalTradeValue": 56114999.049,
+      "PreviousYearTotalTradeValue": 67849874.959,
+      "GrowthPercentage": -17.3,
+      "AverageGrowthPercentage": 0
+    },
+    {
+      "CountryName": "Angola",
+      "Year": 2017,
+      "CurrentYearTotalTradeValue": 69809762.22,
+      "PreviousYearTotalTradeValue": 56114999.049,
+      "GrowthPercentage": 24.4,
+      "AverageGrowthPercentage": 0
+    },
+    {
+      "CountryName": "Angola",
+      "Year": 2018,
+      "CurrentYearTotalTradeValue": 84193472.621,
+      "PreviousYearTotalTradeValue": 69809762.22,
+      "GrowthPercentage": 20.6,
+      "AverageGrowthPercentage": 0
+    },
+    {
+      "CountryName": "Angola",
+      "Year": 2019,
+      "CurrentYearTotalTradeValue": 69638481.15,
+      "PreviousYearTotalTradeValue": 84193472.621,
+      "GrowthPercentage": -17.29,
+      "AverageGrowthPercentage": 0
+    },
+    {
+      "CountryName": "Anguila",
+      "Year": 2001,
+      "CurrentYearTotalTradeValue": 6401.861,
+      "PreviousYearTotalTradeValue": 8002.591,
+      "GrowthPercentage": -20,
+      "AverageGrowthPercentage": 8.15
+    },
+    {
+      "CountryName": "Anguila",
+      "Year": 2002,
+      "CurrentYearTotalTradeValue": 8688.995,
+      "PreviousYearTotalTradeValue": 6401.861,
+      "GrowthPercentage": 35.73,
+      "AverageGrowthPercentage": 8.15
+    },
+    {
+      "CountryName": "Anguila",
+      "Year": 2003,
+      "CurrentYearTotalTradeValue": 8477.993,
+      "PreviousYearTotalTradeValue": 8688.995,
+      "GrowthPercentage": -2.43,
+      "AverageGrowthPercentage": 8.15
+    },
+    {
+      "CountryName": "Anguila",
+      "Year": 2004,
+      "CurrentYearTotalTradeValue": 11496.175,
+      "PreviousYearTotalTradeValue": 8477.993,
+      "GrowthPercentage": 35.6,
+      "AverageGrowthPercentage": 8.15
+    },
+    {
+      "CountryName": "Anguila",
+      "Year": 2007,
+      "CurrentYearTotalTradeValue": 18370.601,
+      "PreviousYearTotalTradeValue": 24475.415,
+      "GrowthPercentage": -24.94,
+      "AverageGrowthPercentage": 8.15
+    },
+    {
+      "CountryName": "Anguila",
+      "Year": 2008,
+      "CurrentYearTotalTradeValue": 22949.081,
+      "PreviousYearTotalTradeValue": 18370.601,
+      "GrowthPercentage": 24.92,
+      "AverageGrowthPercentage": 8.15
+    },
+    {
+      "CountryName": "Antigua and Barbuda",
+      "Year": 2000,
+      "CurrentYearTotalTradeValue": 6043.659,
+      "PreviousYearTotalTradeValue": 6786.66,
+      "GrowthPercentage": -10.95,
+      "AverageGrowthPercentage": 3.88
+    },
+    {
+      "CountryName": "Antigua and Barbuda",
+      "Year": 2010,
+      "CurrentYearTotalTradeValue": 4853.591,
+      "PreviousYearTotalTradeValue": 5207.75,
+      "GrowthPercentage": -6.8,
+      "AverageGrowthPercentage": 3.88
+    },
+    {
+      "CountryName": "Antigua and Barbuda",
+      "Year": 2011,
+      "CurrentYearTotalTradeValue": 6658.185,
+      "PreviousYearTotalTradeValue": 4853.591,
+      "GrowthPercentage": 37.18,
+      "AverageGrowthPercentage": 3.88
+    },
+    {
+      "CountryName": "Antigua and Barbuda",
+      "Year": 2012,
+      "CurrentYearTotalTradeValue": 7891.931,
+      "PreviousYearTotalTradeValue": 6658.185,
+      "GrowthPercentage": 18.53,
+      "AverageGrowthPercentage": 3.88
+    },
+    {
+      "CountryName": "Antigua and Barbuda",
+      "Year": 2013,
+      "CurrentYearTotalTradeValue": 8217.437,
+      "PreviousYearTotalTradeValue": 7891.931,
+      "GrowthPercentage": 4.12,
+      "AverageGrowthPercentage": 3.88
+    },
+    {
+      "CountryName": "Antigua and Barbuda",
+      "Year": 2014,
+      "CurrentYearTotalTradeValue": 10520.62,
+      "PreviousYearTotalTradeValue": 8217.437,
+      "GrowthPercentage": 28.03,
+      "AverageGrowthPercentage": 3.88
+    },
+    {
+      "CountryName": "Antigua and Barbuda",
+      "Year": 2015,
+      "CurrentYearTotalTradeValue": 4457.592,
+      "PreviousYearTotalTradeValue": 10520.62,
+      "GrowthPercentage": -57.63,
+      "AverageGrowthPercentage": 3.88
+    },
+    {
+      "CountryName": "Antigua and Barbuda",
+      "Year": 2016,
+      "CurrentYearTotalTradeValue": 3582.285,
+      "PreviousYearTotalTradeValue": 4457.592,
+      "GrowthPercentage": -19.64,
+      "AverageGrowthPercentage": 3.88
+    },
+    {
+      "CountryName": "Antigua and Barbuda",
+      "Year": 2017,
+      "CurrentYearTotalTradeValue": 4408.928,
+      "PreviousYearTotalTradeValue": 3582.285,
+      "GrowthPercentage": 23.08,
+      "AverageGrowthPercentage": 3.88
+    },
+    {
+      "CountryName": "Antigua and Barbuda",
+      "Year": 2018,
+      "CurrentYearTotalTradeValue": 6548.881,
+      "PreviousYearTotalTradeValue": 4408.928,
+      "GrowthPercentage": 48.54,
+      "AverageGrowthPercentage": 3.88
+    },
+    {
+      "CountryName": "Antigua and Barbuda",
+      "Year": 2019,
+      "CurrentYearTotalTradeValue": 5120.626,
+      "PreviousYearTotalTradeValue": 6548.881,
+      "GrowthPercentage": -21.81,
+      "AverageGrowthPercentage": 3.88
+    },
+    {
+      "CountryName": "Argentina",
+      "Year": 1993,
+      "CurrentYearTotalTradeValue": 26235490.435,
+      "PreviousYearTotalTradeValue": 24469877.055,
+      "GrowthPercentage": 7.22,
+      "AverageGrowthPercentage": 6.41
+    },
+    {
+      "CountryName": "Argentina",
+      "Year": 1994,
+      "CurrentYearTotalTradeValue": 31677303.013,
+      "PreviousYearTotalTradeValue": 26235490.435,
+      "GrowthPercentage": 20.74,
+      "AverageGrowthPercentage": 6.41
+    },
+    {
+      "CountryName": "Argentina",
+      "Year": 1995,
+      "CurrentYearTotalTradeValue": 41925149.041,
+      "PreviousYearTotalTradeValue": 31677303.013,
+      "GrowthPercentage": 32.35,
+      "AverageGrowthPercentage": 6.41
+    },
+    {
+      "CountryName": "Argentina",
+      "Year": 1996,
+      "CurrentYearTotalTradeValue": 47619255.724,
+      "PreviousYearTotalTradeValue": 41925149.041,
+      "GrowthPercentage": 13.58,
+      "AverageGrowthPercentage": 6.41
+    },
+    {
+      "CountryName": "Argentina",
+      "Year": 1997,
+      "CurrentYearTotalTradeValue": 52861640.712,
+      "PreviousYearTotalTradeValue": 47619255.724,
+      "GrowthPercentage": 11.01,
+      "AverageGrowthPercentage": 6.41
+    },
+    {
+      "CountryName": "Argentina",
+      "Year": 1998,
+      "CurrentYearTotalTradeValue": 52867341.535,
+      "PreviousYearTotalTradeValue": 52861640.712,
+      "GrowthPercentage": 0.01,
+      "AverageGrowthPercentage": 6.41
+    },
+    {
+      "CountryName": "Argentina",
+      "Year": 1999,
+      "CurrentYearTotalTradeValue": 46665320.156,
+      "PreviousYearTotalTradeValue": 52867341.535,
+      "GrowthPercentage": -11.73,
+      "AverageGrowthPercentage": 6.41
+    },
+    {
+      "CountryName": "Argentina",
+      "Year": 2000,
+      "CurrentYearTotalTradeValue": 52682058.386,
+      "PreviousYearTotalTradeValue": 46665320.156,
+      "GrowthPercentage": 12.89,
+      "AverageGrowthPercentage": 6.41
+    },
+    {
+      "CountryName": "Argentina",
+      "Year": 2001,
+      "CurrentYearTotalTradeValue": 53220110.67,
+      "PreviousYearTotalTradeValue": 52682058.386,
+      "GrowthPercentage": 1.02,
+      "AverageGrowthPercentage": 6.41
+    },
+    {
+      "CountryName": "Argentina",
+      "Year": 2002,
+      "CurrentYearTotalTradeValue": 51418742.22,
+      "PreviousYearTotalTradeValue": 53220110.67,
+      "GrowthPercentage": -3.38,
+      "AverageGrowthPercentage": 6.41
+    },
+    {
+      "CountryName": "Argentina",
+      "Year": 2003,
+      "CurrentYearTotalTradeValue": 59877504,
+      "PreviousYearTotalTradeValue": 51418742.22,
+      "GrowthPercentage": 16.45,
+      "AverageGrowthPercentage": 6.41
+    },
+    {
+      "CountryName": "Argentina",
+      "Year": 2004,
+      "CurrentYearTotalTradeValue": 69151411.044,
+      "PreviousYearTotalTradeValue": 59877504,
+      "GrowthPercentage": 15.49,
+      "AverageGrowthPercentage": 6.41
+    },
+    {
+      "CountryName": "Argentina",
+      "Year": 2005,
+      "CurrentYearTotalTradeValue": 80212772.184,
+      "PreviousYearTotalTradeValue": 69151411.044,
+      "GrowthPercentage": 16,
+      "AverageGrowthPercentage": 6.41
+    },
+    {
+      "CountryName": "Argentina",
+      "Year": 2006,
+      "CurrentYearTotalTradeValue": 93092448.162,
+      "PreviousYearTotalTradeValue": 80212772.184,
+      "GrowthPercentage": 16.06,
+      "AverageGrowthPercentage": 6.41
+    },
+    {
+      "CountryName": "Argentina",
+      "Year": 2007,
+      "CurrentYearTotalTradeValue": 111559159.672,
+      "PreviousYearTotalTradeValue": 93092448.162,
+      "GrowthPercentage": 19.84,
+      "AverageGrowthPercentage": 6.41
+    },
+    {
+      "CountryName": "Argentina",
+      "Year": 2008,
+      "CurrentYearTotalTradeValue": 140037701.622,
+      "PreviousYearTotalTradeValue": 111559159.672,
+      "GrowthPercentage": 25.53,
+      "AverageGrowthPercentage": 6.41
+    },
+    {
+      "CountryName": "Argentina",
+      "Year": 2009,
+      "CurrentYearTotalTradeValue": 111344237.2,
+      "PreviousYearTotalTradeValue": 140037701.622,
+      "GrowthPercentage": -20.49,
+      "AverageGrowthPercentage": 6.41
+    },
+    {
+      "CountryName": "Argentina",
+      "Year": 2010,
+      "CurrentYearTotalTradeValue": 136348893.152,
+      "PreviousYearTotalTradeValue": 111344237.2,
+      "GrowthPercentage": 22.46,
+      "AverageGrowthPercentage": 6.41
+    },
+    {
+      "CountryName": "Argentina",
+      "Year": 2011,
+      "CurrentYearTotalTradeValue": 165962182.564,
+      "PreviousYearTotalTradeValue": 136348893.152,
+      "GrowthPercentage": 21.72,
+      "AverageGrowthPercentage": 6.41
+    },
+    {
+      "CountryName": "Argentina",
+      "Year": 2012,
+      "CurrentYearTotalTradeValue": 159964759.166,
+      "PreviousYearTotalTradeValue": 165962182.564,
+      "GrowthPercentage": -3.61,
+      "AverageGrowthPercentage": 6.41
+    },
+    {
+      "CountryName": "Argentina",
+      "Year": 2013,
+      "CurrentYearTotalTradeValue": 151925962.724,
+      "PreviousYearTotalTradeValue": 159964759.166,
+      "GrowthPercentage": -5.03,
+      "AverageGrowthPercentage": 6.41
+    },
+    {
+      "CountryName": "Argentina",
+      "Year": 2014,
+      "CurrentYearTotalTradeValue": 136808693.237,
+      "PreviousYearTotalTradeValue": 151925962.724,
+      "GrowthPercentage": -9.95,
+      "AverageGrowthPercentage": 6.41
+    },
+    {
+      "CountryName": "Argentina",
+      "Year": 2015,
+      "CurrentYearTotalTradeValue": 113567905.007,
+      "PreviousYearTotalTradeValue": 136808693.237,
+      "GrowthPercentage": -16.99,
+      "AverageGrowthPercentage": 6.41
+    },
+    {
+      "CountryName": "Argentina",
+      "Year": 2016,
+      "CurrentYearTotalTradeValue": 115758692.474,
+      "PreviousYearTotalTradeValue": 113567905.007,
+      "GrowthPercentage": 1.93,
+      "AverageGrowthPercentage": 6.41
+    },
+    {
+      "CountryName": "Argentina",
+      "Year": 2017,
+      "CurrentYearTotalTradeValue": 116768389.934,
+      "PreviousYearTotalTradeValue": 115758692.474,
+      "GrowthPercentage": 0.87,
+      "AverageGrowthPercentage": 6.41
+    },
+    {
+      "CountryName": "Argentina",
+      "Year": 2018,
+      "CurrentYearTotalTradeValue": 123116714.839,
+      "PreviousYearTotalTradeValue": 116768389.934,
+      "GrowthPercentage": 5.44,
+      "AverageGrowthPercentage": 6.41
+    },
+    {
+      "CountryName": "Argentina",
+      "Year": 2019,
+      "CurrentYearTotalTradeValue": 130228255.323,
+      "PreviousYearTotalTradeValue": 123116714.839,
+      "GrowthPercentage": 5.78,
+      "AverageGrowthPercentage": 6.41
+    },
+    {
+      "CountryName": "Argentina",
+      "Year": 2020,
+      "CurrentYearTotalTradeValue": 109767644.895,
+      "PreviousYearTotalTradeValue": 130228255.323,
+      "GrowthPercentage": -15.71,
+      "AverageGrowthPercentage": 6.41
+    },
+    {
+      "CountryName": "Armenia",
+      "Year": 2000,
+      "CurrentYearTotalTradeValue": 407773.518,
+      "PreviousYearTotalTradeValue": 463332.474,
+      "GrowthPercentage": -11.99,
+      "AverageGrowthPercentage": 14.47
+    },
+    {
+      "CountryName": "Armenia",
+      "Year": 2001,
+      "CurrentYearTotalTradeValue": 423975.275,
+      "PreviousYearTotalTradeValue": 407773.518,
+      "GrowthPercentage": 3.97,
+      "AverageGrowthPercentage": 14.47
+    },
+    {
+      "CountryName": "Armenia",
+      "Year": 2002,
+      "CurrentYearTotalTradeValue": 845546.644,
+      "PreviousYearTotalTradeValue": 423975.275,
+      "GrowthPercentage": 99.43,
+      "AverageGrowthPercentage": 14.47
+    },
+    {
+      "CountryName": "Armenia",
+      "Year": 2003,
+      "CurrentYearTotalTradeValue": 1119226.06,
+      "PreviousYearTotalTradeValue": 845546.644,
+      "GrowthPercentage": 32.37,
+      "AverageGrowthPercentage": 14.47
+    },
+    {
+      "CountryName": "Armenia",
+      "Year": 2004,
+      "CurrentYearTotalTradeValue": 1247901.468,
+      "PreviousYearTotalTradeValue": 1119226.06,
+      "GrowthPercentage": 11.5,
+      "AverageGrowthPercentage": 14.47
+    },
+    {
+      "CountryName": "Armenia",
+      "Year": 2005,
+      "CurrentYearTotalTradeValue": 1611149.335,
+      "PreviousYearTotalTradeValue": 1247901.468,
+      "GrowthPercentage": 29.11,
+      "AverageGrowthPercentage": 14.47
+    },
+    {
+      "CountryName": "Armenia",
+      "Year": 2006,
+      "CurrentYearTotalTradeValue": 1714049.535,
+      "PreviousYearTotalTradeValue": 1611149.335,
+      "GrowthPercentage": 6.39,
+      "AverageGrowthPercentage": 14.47
+    },
+    {
+      "CountryName": "Armenia",
+      "Year": 2007,
+      "CurrentYearTotalTradeValue": 1630140.424,
+      "PreviousYearTotalTradeValue": 1714049.535,
+      "GrowthPercentage": -4.9,
+      "AverageGrowthPercentage": 14.47
+    },
+    {
+      "CountryName": "Armenia",
+      "Year": 2008,
+      "CurrentYearTotalTradeValue": 1813564.24,
+      "PreviousYearTotalTradeValue": 1630140.424,
+      "GrowthPercentage": 11.25,
+      "AverageGrowthPercentage": 14.47
+    },
+    {
+      "CountryName": "Armenia",
+      "Year": 2009,
+      "CurrentYearTotalTradeValue": 1171309.992,
+      "PreviousYearTotalTradeValue": 1813564.24,
+      "GrowthPercentage": -35.41,
+      "AverageGrowthPercentage": 14.47
+    },
+    {
+      "CountryName": "Armenia",
+      "Year": 2010,
+      "CurrentYearTotalTradeValue": 1735950.282,
+      "PreviousYearTotalTradeValue": 1171309.992,
+      "GrowthPercentage": 48.21,
+      "AverageGrowthPercentage": 14.47
+    },
+    {
+      "CountryName": "Armenia",
+      "Year": 2011,
+      "CurrentYearTotalTradeValue": 2209055.353,
+      "PreviousYearTotalTradeValue": 1735950.282,
+      "GrowthPercentage": 27.25,
+      "AverageGrowthPercentage": 14.47
+    },
+    {
+      "CountryName": "Armenia",
+      "Year": 2012,
+      "CurrentYearTotalTradeValue": 2560129.036,
+      "PreviousYearTotalTradeValue": 2209055.353,
+      "GrowthPercentage": 15.89,
+      "AverageGrowthPercentage": 14.47
+    },
+    {
+      "CountryName": "Armenia",
+      "Year": 2013,
+      "CurrentYearTotalTradeValue": 2718087.806,
+      "PreviousYearTotalTradeValue": 2560129.036,
+      "GrowthPercentage": 6.17,
+      "AverageGrowthPercentage": 14.47
+    },
+    {
+      "CountryName": "Armenia",
+      "Year": 2014,
+      "CurrentYearTotalTradeValue": 2740206.012,
+      "PreviousYearTotalTradeValue": 2718087.806,
+      "GrowthPercentage": 0.81,
+      "AverageGrowthPercentage": 14.47
+    },
+    {
+      "CountryName": "Armenia",
+      "Year": 2015,
+      "CurrentYearTotalTradeValue": 2624508.791,
+      "PreviousYearTotalTradeValue": 2740206.012,
+      "GrowthPercentage": -4.22,
+      "AverageGrowthPercentage": 14.47
+    },
+    {
+      "CountryName": "Armenia",
+      "Year": 2016,
+      "CurrentYearTotalTradeValue": 3287782.467,
+      "PreviousYearTotalTradeValue": 2624508.791,
+      "GrowthPercentage": 25.27,
+      "AverageGrowthPercentage": 14.47
+    },
+    {
+      "CountryName": "Armenia",
+      "Year": 2017,
+      "CurrentYearTotalTradeValue": 4009155.492,
+      "PreviousYearTotalTradeValue": 3287782.467,
+      "GrowthPercentage": 21.94,
+      "AverageGrowthPercentage": 14.47
+    },
+    {
+      "CountryName": "Armenia",
+      "Year": 2018,
+      "CurrentYearTotalTradeValue": 4350410.312,
+      "PreviousYearTotalTradeValue": 4009155.492,
+      "GrowthPercentage": 8.51,
+      "AverageGrowthPercentage": 14.47
+    },
+    {
+      "CountryName": "Armenia",
+      "Year": 2019,
+      "CurrentYearTotalTradeValue": 4811846.782,
+      "PreviousYearTotalTradeValue": 4350410.312,
+      "GrowthPercentage": 10.61,
+      "AverageGrowthPercentage": 14.47
+    },
+    {
+      "CountryName": "Armenia",
+      "Year": 2020,
+      "CurrentYearTotalTradeValue": 4697977.962,
+      "PreviousYearTotalTradeValue": 4811846.782,
+      "GrowthPercentage": -2.37,
+      "AverageGrowthPercentage": 14.47
+    },
+    {
+      "CountryName": "Armenia",
+      "Year": 2021,
+      "CurrentYearTotalTradeValue": 5572060.041,
+      "PreviousYearTotalTradeValue": 4697977.962,
+      "GrowthPercentage": 18.61,
+      "AverageGrowthPercentage": 14.47
+    },
+    {
+      "CountryName": "Aruba",
+      "Year": 2001,
+      "CurrentYearTotalTradeValue": 297712.283,
+      "PreviousYearTotalTradeValue": 345998.182,
+      "GrowthPercentage": -13.96,
+      "AverageGrowthPercentage": 10.76
+    },
+    {
+      "CountryName": "Aruba",
+      "Year": 2002,
+      "CurrentYearTotalTradeValue": 256517.725,
+      "PreviousYearTotalTradeValue": 297712.283,
+      "GrowthPercentage": -13.84,
+      "AverageGrowthPercentage": 10.76
+    },
+    {
+      "CountryName": "Aruba",
+      "Year": 2003,
+      "CurrentYearTotalTradeValue": 164381.003,
+      "PreviousYearTotalTradeValue": 256517.725,
+      "GrowthPercentage": -35.92,
+      "AverageGrowthPercentage": 10.76
+    },
+    {
+      "CountryName": "Aruba",
+      "Year": 2004,
+      "CurrentYearTotalTradeValue": 159364.052,
+      "PreviousYearTotalTradeValue": 164381.003,
+      "GrowthPercentage": -3.05,
+      "AverageGrowthPercentage": 10.76
+    },
+    {
+      "CountryName": "Aruba",
+      "Year": 2005,
+      "CurrentYearTotalTradeValue": 48593.349,
+      "PreviousYearTotalTradeValue": 159364.052,
+      "GrowthPercentage": -69.51,
+      "AverageGrowthPercentage": 10.76
+    },
+    {
+      "CountryName": "Aruba",
+      "Year": 2006,
+      "CurrentYearTotalTradeValue": 217929.604,
+      "PreviousYearTotalTradeValue": 48593.349,
+      "GrowthPercentage": 348.48,
+      "AverageGrowthPercentage": 10.76
+    },
+    {
+      "CountryName": "Aruba",
+      "Year": 2007,
+      "CurrentYearTotalTradeValue": 195785.506,
+      "PreviousYearTotalTradeValue": 217929.604,
+      "GrowthPercentage": -10.16,
+      "AverageGrowthPercentage": 10.76
+    },
+    {
+      "CountryName": "Aruba",
+      "Year": 2008,
+      "CurrentYearTotalTradeValue": 201738.645,
+      "PreviousYearTotalTradeValue": 195785.506,
+      "GrowthPercentage": 3.04,
+      "AverageGrowthPercentage": 10.76
+    },
+    {
+      "CountryName": "Aruba",
+      "Year": 2009,
+      "CurrentYearTotalTradeValue": 271494.158,
+      "PreviousYearTotalTradeValue": 201738.645,
+      "GrowthPercentage": 34.58,
+      "AverageGrowthPercentage": 10.76
+    },
+    {
+      "CountryName": "Aruba",
+      "Year": 2010,
+      "CurrentYearTotalTradeValue": 249046.436,
+      "PreviousYearTotalTradeValue": 271494.158,
+      "GrowthPercentage": -8.27,
+      "AverageGrowthPercentage": 10.76
+    },
+    {
+      "CountryName": "Aruba",
+      "Year": 2011,
+      "CurrentYearTotalTradeValue": 302719.267,
+      "PreviousYearTotalTradeValue": 249046.436,
+      "GrowthPercentage": 21.55,
+      "AverageGrowthPercentage": 10.76
+    },
+    {
+      "CountryName": "Aruba",
+      "Year": 2012,
+      "CurrentYearTotalTradeValue": 346121.666,
+      "PreviousYearTotalTradeValue": 302719.267,
+      "GrowthPercentage": 14.34,
+      "AverageGrowthPercentage": 10.76
+    },
+    {
+      "CountryName": "Aruba",
+      "Year": 2013,
+      "CurrentYearTotalTradeValue": 335522.54,
+      "PreviousYearTotalTradeValue": 346121.666,
+      "GrowthPercentage": -3.06,
+      "AverageGrowthPercentage": 10.76
+    },
+    {
+      "CountryName": "Aruba",
+      "Year": 2014,
+      "CurrentYearTotalTradeValue": 232428.52,
+      "PreviousYearTotalTradeValue": 335522.54,
+      "GrowthPercentage": -30.73,
+      "AverageGrowthPercentage": 10.76
+    },
+    {
+      "CountryName": "Aruba",
+      "Year": 2015,
+      "CurrentYearTotalTradeValue": 159764.41,
+      "PreviousYearTotalTradeValue": 232428.52,
+      "GrowthPercentage": -31.26,
+      "AverageGrowthPercentage": 10.76
+    },
+    {
+      "CountryName": "Aruba",
+      "Year": 2016,
+      "CurrentYearTotalTradeValue": 190792.982,
+      "PreviousYearTotalTradeValue": 159764.41,
+      "GrowthPercentage": 19.42,
+      "AverageGrowthPercentage": 10.76
+    },
+    {
+      "CountryName": "Aruba",
+      "Year": 2017,
+      "CurrentYearTotalTradeValue": 178158.693,
+      "PreviousYearTotalTradeValue": 190792.982,
+      "GrowthPercentage": -6.62,
+      "AverageGrowthPercentage": 10.76
+    },
+    {
+      "CountryName": "Aruba",
+      "Year": 2018,
+      "CurrentYearTotalTradeValue": 139525.475,
+      "PreviousYearTotalTradeValue": 178158.693,
+      "GrowthPercentage": -21.68,
+      "AverageGrowthPercentage": 10.76
+    },
+    {
+      "CountryName": "Aruba",
+      "Year": 2019,
+      "CurrentYearTotalTradeValue": 167254.1,
+      "PreviousYearTotalTradeValue": 139525.475,
+      "GrowthPercentage": 19.87,
+      "AverageGrowthPercentage": 10.76
+    },
+    {
+      "CountryName": "Aruba",
+      "Year": 2020,
+      "CurrentYearTotalTradeValue": 131861.794,
+      "PreviousYearTotalTradeValue": 167254.1,
+      "GrowthPercentage": -21.16,
+      "AverageGrowthPercentage": 10.76
+    },
+    {
+      "CountryName": "Aruba",
+      "Year": 2021,
+      "CurrentYearTotalTradeValue": 176694.017,
+      "PreviousYearTotalTradeValue": 131861.794,
+      "GrowthPercentage": 34,
+      "AverageGrowthPercentage": 10.76
+    },
+    {
+      "CountryName": "Australia",
+      "Year": 1989,
+      "CurrentYearTotalTradeValue": 68840017.128,
+      "PreviousYearTotalTradeValue": 62339015.94,
+      "GrowthPercentage": 10.43,
+      "AverageGrowthPercentage": 8.5
+    },
+    {
+      "CountryName": "Australia",
+      "Year": 1990,
+      "CurrentYearTotalTradeValue": 74755602.074,
+      "PreviousYearTotalTradeValue": 68840017.128,
+      "GrowthPercentage": 8.59,
+      "AverageGrowthPercentage": 8.5
+    },
+    {
+      "CountryName": "Australia",
+      "Year": 1991,
+      "CurrentYearTotalTradeValue": 78175530.662,
+      "PreviousYearTotalTradeValue": 74755602.074,
+      "GrowthPercentage": 4.57,
+      "AverageGrowthPercentage": 8.5
+    },
+    {
+      "CountryName": "Australia",
+      "Year": 1992,
+      "CurrentYearTotalTradeValue": 80453919.312,
+      "PreviousYearTotalTradeValue": 78175530.662,
+      "GrowthPercentage": 2.91,
+      "AverageGrowthPercentage": 8.5
+    },
+    {
+      "CountryName": "Australia",
+      "Year": 1993,
+      "CurrentYearTotalTradeValue": 79705724.74,
+      "PreviousYearTotalTradeValue": 80453919.312,
+      "GrowthPercentage": -0.93,
+      "AverageGrowthPercentage": 8.5
+    },
+    {
+      "CountryName": "Australia",
+      "Year": 1994,
+      "CurrentYearTotalTradeValue": 90178450.944,
+      "PreviousYearTotalTradeValue": 79705724.74,
+      "GrowthPercentage": 13.14,
+      "AverageGrowthPercentage": 8.5
+    },
+    {
+      "CountryName": "Australia",
+      "Year": 1995,
+      "CurrentYearTotalTradeValue": 100769357.342,
+      "PreviousYearTotalTradeValue": 90178450.944,
+      "GrowthPercentage": 11.74,
+      "AverageGrowthPercentage": 8.5
+    },
+    {
+      "CountryName": "Australia",
+      "Year": 1996,
+      "CurrentYearTotalTradeValue": 114689019.37,
+      "PreviousYearTotalTradeValue": 100769357.342,
+      "GrowthPercentage": 13.81,
+      "AverageGrowthPercentage": 8.5
+    },
+    {
+      "CountryName": "Australia",
+      "Year": 1997,
+      "CurrentYearTotalTradeValue": 119682115.702,
+      "PreviousYearTotalTradeValue": 114689019.37,
+      "GrowthPercentage": 4.35,
+      "AverageGrowthPercentage": 8.5
+    },
+    {
+      "CountryName": "Australia",
+      "Year": 1998,
+      "CurrentYearTotalTradeValue": 105605232.078,
+      "PreviousYearTotalTradeValue": 119682115.702,
+      "GrowthPercentage": -11.76,
+      "AverageGrowthPercentage": 8.5
+    },
+    {
+      "CountryName": "Australia",
+      "Year": 1999,
+      "CurrentYearTotalTradeValue": 102159751.914,
+      "PreviousYearTotalTradeValue": 105605232.078,
+      "GrowthPercentage": -3.26,
+      "AverageGrowthPercentage": 8.5
+    },
+    {
+      "CountryName": "Australia",
+      "Year": 2000,
+      "CurrentYearTotalTradeValue": 127532668.498,
+      "PreviousYearTotalTradeValue": 102159751.914,
+      "GrowthPercentage": 24.84,
+      "AverageGrowthPercentage": 8.5
+    },
+    {
+      "CountryName": "Australia",
+      "Year": 2001,
+      "CurrentYearTotalTradeValue": 126576377.222,
+      "PreviousYearTotalTradeValue": 127532668.498,
+      "GrowthPercentage": -0.75,
+      "AverageGrowthPercentage": 8.5
+    },
+    {
+      "CountryName": "Australia",
+      "Year": 2002,
+      "CurrentYearTotalTradeValue": 129968334.531,
+      "PreviousYearTotalTradeValue": 126576377.222,
+      "GrowthPercentage": 2.68,
+      "AverageGrowthPercentage": 8.5
+    },
+    {
+      "CountryName": "Australia",
+      "Year": 2003,
+      "CurrentYearTotalTradeValue": 140576470.811,
+      "PreviousYearTotalTradeValue": 129968334.531,
+      "GrowthPercentage": 8.16,
+      "AverageGrowthPercentage": 8.5
+    },
+    {
+      "CountryName": "Australia",
+      "Year": 2004,
+      "CurrentYearTotalTradeValue": 172968075.504,
+      "PreviousYearTotalTradeValue": 140576470.811,
+      "GrowthPercentage": 23.04,
+      "AverageGrowthPercentage": 8.5
+    },
+    {
+      "CountryName": "Australia",
+      "Year": 2005,
+      "CurrentYearTotalTradeValue": 212022101.371,
+      "PreviousYearTotalTradeValue": 172968075.504,
+      "GrowthPercentage": 22.58,
+      "AverageGrowthPercentage": 8.5
+    },
+    {
+      "CountryName": "Australia",
+      "Year": 2006,
+      "CurrentYearTotalTradeValue": 246648945.469,
+      "PreviousYearTotalTradeValue": 212022101.371,
+      "GrowthPercentage": 16.33,
+      "AverageGrowthPercentage": 8.5
+    },
+    {
+      "CountryName": "Australia",
+      "Year": 2007,
+      "CurrentYearTotalTradeValue": 282363024.801,
+      "PreviousYearTotalTradeValue": 246648945.469,
+      "GrowthPercentage": 14.48,
+      "AverageGrowthPercentage": 8.5
+    },
+    {
+      "CountryName": "Australia",
+      "Year": 2008,
+      "CurrentYearTotalTradeValue": 373706027.174,
+      "PreviousYearTotalTradeValue": 282363024.801,
+      "GrowthPercentage": 32.35,
+      "AverageGrowthPercentage": 8.5
+    },
+    {
+      "CountryName": "Australia",
+      "Year": 2009,
+      "CurrentYearTotalTradeValue": 307799151.9,
+      "PreviousYearTotalTradeValue": 373706027.174,
+      "GrowthPercentage": -17.64,
+      "AverageGrowthPercentage": 8.5
+    },
+    {
+      "CountryName": "Australia",
+      "Year": 2010,
+      "CurrentYearTotalTradeValue": 424217452.595,
+      "PreviousYearTotalTradeValue": 307799151.9,
+      "GrowthPercentage": 37.82,
+      "AverageGrowthPercentage": 8.5
+    },
+    {
+      "CountryName": "Australia",
+      "Year": 2011,
+      "CurrentYearTotalTradeValue": 538846770.925,
+      "PreviousYearTotalTradeValue": 424217452.595,
+      "GrowthPercentage": 27.02,
+      "AverageGrowthPercentage": 8.5
+    },
+    {
+      "CountryName": "Australia",
+      "Year": 2012,
+      "CurrentYearTotalTradeValue": 512485825.978,
+      "PreviousYearTotalTradeValue": 538846770.925,
+      "GrowthPercentage": -4.89,
+      "AverageGrowthPercentage": 8.5
+    },
+    {
+      "CountryName": "Australia",
+      "Year": 2013,
+      "CurrentYearTotalTradeValue": 504310210.56,
+      "PreviousYearTotalTradeValue": 512485825.978,
+      "GrowthPercentage": -1.6,
+      "AverageGrowthPercentage": 8.5
+    },
+    {
+      "CountryName": "Australia",
+      "Year": 2014,
+      "CurrentYearTotalTradeValue": 480889367.734,
+      "PreviousYearTotalTradeValue": 504310210.56,
+      "GrowthPercentage": -4.64,
+      "AverageGrowthPercentage": 8.5
+    },
+    {
+      "CountryName": "Australia",
+      "Year": 2015,
+      "CurrentYearTotalTradeValue": 375584302.945,
+      "PreviousYearTotalTradeValue": 480889367.734,
+      "GrowthPercentage": -21.9,
+      "AverageGrowthPercentage": 8.5
+    },
+    {
+      "CountryName": "Australia",
+      "Year": 2016,
+      "CurrentYearTotalTradeValue": 379259949.125,
+      "PreviousYearTotalTradeValue": 375584302.945,
+      "GrowthPercentage": 0.98,
+      "AverageGrowthPercentage": 8.5
+    },
+    {
+      "CountryName": "Australia",
+      "Year": 2017,
+      "CurrentYearTotalTradeValue": 461073473.183,
+      "PreviousYearTotalTradeValue": 379259949.125,
+      "GrowthPercentage": 21.57,
+      "AverageGrowthPercentage": 8.5
+    },
+    {
+      "CountryName": "Australia",
+      "Year": 2018,
+      "CurrentYearTotalTradeValue": 505551032.44,
+      "PreviousYearTotalTradeValue": 461073473.183,
+      "GrowthPercentage": 9.65,
+      "AverageGrowthPercentage": 8.5
+    },
+    {
+      "CountryName": "Australia",
+      "Year": 2019,
+      "CurrentYearTotalTradeValue": 532754451.232,
+      "PreviousYearTotalTradeValue": 505551032.44,
+      "GrowthPercentage": 5.38,
+      "AverageGrowthPercentage": 8.5
+    },
+    {
+      "CountryName": "Australia",
+      "Year": 2020,
+      "CurrentYearTotalTradeValue": 490091929.67,
+      "PreviousYearTotalTradeValue": 532754451.232,
+      "GrowthPercentage": -8.01,
+      "AverageGrowthPercentage": 8.5
+    },
+    {
+      "CountryName": "Australia",
+      "Year": 2021,
+      "CurrentYearTotalTradeValue": 684072206.538,
+      "PreviousYearTotalTradeValue": 490091929.67,
+      "GrowthPercentage": 39.58,
+      "AverageGrowthPercentage": 8.5
+    },
+    {
+      "CountryName": "Austria",
+      "Year": 1989,
+      "CurrentYearTotalTradeValue": 64858303.955,
+      "PreviousYearTotalTradeValue": 62175416.473,
+      "GrowthPercentage": 4.32,
+      "AverageGrowthPercentage": 5.94
+    },
+    {
+      "CountryName": "Austria",
+      "Year": 1990,
+      "CurrentYearTotalTradeValue": 83761445.1500001,
+      "PreviousYearTotalTradeValue": 64858303.955,
+      "GrowthPercentage": 29.15,
+      "AverageGrowthPercentage": 5.94
+    },
+    {
+      "CountryName": "Austria",
+      "Year": 1991,
+      "CurrentYearTotalTradeValue": 82171619.074,
+      "PreviousYearTotalTradeValue": 83761445.1500001,
+      "GrowthPercentage": -1.9,
+      "AverageGrowthPercentage": 5.94
+    },
+    {
+      "CountryName": "Austria",
+      "Year": 1992,
+      "CurrentYearTotalTradeValue": 88869608.05,
+      "PreviousYearTotalTradeValue": 82171619.074,
+      "GrowthPercentage": 8.15,
+      "AverageGrowthPercentage": 5.94
+    },
+    {
+      "CountryName": "Austria",
+      "Year": 1993,
+      "CurrentYearTotalTradeValue": 80318151.366,
+      "PreviousYearTotalTradeValue": 88869608.05,
+      "GrowthPercentage": -9.62,
+      "AverageGrowthPercentage": 5.94
+    },
+    {
+      "CountryName": "Austria",
+      "Year": 1994,
+      "CurrentYearTotalTradeValue": 90144367.7169999,
+      "PreviousYearTotalTradeValue": 80318151.366,
+      "GrowthPercentage": 12.23,
+      "AverageGrowthPercentage": 5.94
+    },
+    {
+      "CountryName": "Austria",
+      "Year": 1995,
+      "CurrentYearTotalTradeValue": 115165864.27,
+      "PreviousYearTotalTradeValue": 90144367.7169999,
+      "GrowthPercentage": 27.76,
+      "AverageGrowthPercentage": 5.94
+    },
+    {
+      "CountryName": "Austria",
+      "Year": 1996,
+      "CurrentYearTotalTradeValue": 115660913.327,
+      "PreviousYearTotalTradeValue": 115165864.27,
+      "GrowthPercentage": 0.43,
+      "AverageGrowthPercentage": 5.94
+    },
+    {
+      "CountryName": "Austria",
+      "Year": 1997,
+      "CurrentYearTotalTradeValue": 113427439.918,
+      "PreviousYearTotalTradeValue": 115660913.327,
+      "GrowthPercentage": -1.93,
+      "AverageGrowthPercentage": 5.94
+    },
+    {
+      "CountryName": "Austria",
+      "Year": 1998,
+      "CurrentYearTotalTradeValue": 121713665.19,
+      "PreviousYearTotalTradeValue": 113427439.918,
+      "GrowthPercentage": 7.31,
+      "AverageGrowthPercentage": 5.94
+    },
+    {
+      "CountryName": "Austria",
+      "Year": 1999,
+      "CurrentYearTotalTradeValue": 118543109.31,
+      "PreviousYearTotalTradeValue": 121713665.19,
+      "GrowthPercentage": -2.6,
+      "AverageGrowthPercentage": 5.94
+    },
+    {
+      "CountryName": "Austria",
+      "Year": 2000,
+      "CurrentYearTotalTradeValue": 127349398.129,
+      "PreviousYearTotalTradeValue": 118543109.31,
+      "GrowthPercentage": 7.43,
+      "AverageGrowthPercentage": 5.94
+    },
+    {
+      "CountryName": "Austria",
+      "Year": 2001,
+      "CurrentYearTotalTradeValue": 132984847.704,
+      "PreviousYearTotalTradeValue": 127349398.129,
+      "GrowthPercentage": 4.43,
+      "AverageGrowthPercentage": 5.94
+    },
+    {
+      "CountryName": "Austria",
+      "Year": 2002,
+      "CurrentYearTotalTradeValue": 146225329.538,
+      "PreviousYearTotalTradeValue": 132984847.704,
+      "GrowthPercentage": 9.96,
+      "AverageGrowthPercentage": 5.94
+    },
+    {
+      "CountryName": "Austria",
+      "Year": 2003,
+      "CurrentYearTotalTradeValue": 178513534.72,
+      "PreviousYearTotalTradeValue": 146225329.538,
+      "GrowthPercentage": 22.08,
+      "AverageGrowthPercentage": 5.94
+    },
+    {
+      "CountryName": "Austria",
+      "Year": 2004,
+      "CurrentYearTotalTradeValue": 221659514.715,
+      "PreviousYearTotalTradeValue": 178513534.72,
+      "GrowthPercentage": 24.17,
+      "AverageGrowthPercentage": 5.94
+    },
+    {
+      "CountryName": "Austria",
+      "Year": 2005,
+      "CurrentYearTotalTradeValue": 235443424.335,
+      "PreviousYearTotalTradeValue": 221659514.715,
+      "GrowthPercentage": 6.22,
+      "AverageGrowthPercentage": 5.94
+    },
+    {
+      "CountryName": "Austria",
+      "Year": 2006,
+      "CurrentYearTotalTradeValue": 268339062.645,
+      "PreviousYearTotalTradeValue": 235443424.335,
+      "GrowthPercentage": 13.97,
+      "AverageGrowthPercentage": 5.94
+    },
+    {
+      "CountryName": "Austria",
+      "Year": 2007,
+      "CurrentYearTotalTradeValue": 313176813.126,
+      "PreviousYearTotalTradeValue": 268339062.645,
+      "GrowthPercentage": 16.71,
+      "AverageGrowthPercentage": 5.94
+    },
+    {
+      "CountryName": "Austria",
+      "Year": 2008,
+      "CurrentYearTotalTradeValue": 344455903.497,
+      "PreviousYearTotalTradeValue": 313176813.126,
+      "GrowthPercentage": 9.99,
+      "AverageGrowthPercentage": 5.94
+    },
+    {
+      "CountryName": "Austria",
+      "Year": 2009,
+      "CurrentYearTotalTradeValue": 262774496.005,
+      "PreviousYearTotalTradeValue": 344455903.497,
+      "GrowthPercentage": -23.71,
+      "AverageGrowthPercentage": 5.94
+    },
+    {
+      "CountryName": "Austria",
+      "Year": 2010,
+      "CurrentYearTotalTradeValue": 289764004.021,
+      "PreviousYearTotalTradeValue": 262774496.005,
+      "GrowthPercentage": 10.27,
+      "AverageGrowthPercentage": 5.94
+    },
+    {
+      "CountryName": "Austria",
+      "Year": 2011,
+      "CurrentYearTotalTradeValue": 339022865.088,
+      "PreviousYearTotalTradeValue": 289764004.021,
+      "GrowthPercentage": 17,
+      "AverageGrowthPercentage": 5.94
+    },
+    {
+      "CountryName": "Austria",
+      "Year": 2012,
+      "CurrentYearTotalTradeValue": 317641438.666,
+      "PreviousYearTotalTradeValue": 339022865.088,
+      "GrowthPercentage": -6.31,
+      "AverageGrowthPercentage": 5.94
+    },
+    {
+      "CountryName": "Austria",
+      "Year": 2013,
+      "CurrentYearTotalTradeValue": 332547820.516,
+      "PreviousYearTotalTradeValue": 317641438.666,
+      "GrowthPercentage": 4.69,
+      "AverageGrowthPercentage": 5.94
+    },
+    {
+      "CountryName": "Austria",
+      "Year": 2014,
+      "CurrentYearTotalTradeValue": 339425718.995,
+      "PreviousYearTotalTradeValue": 332547820.516,
+      "GrowthPercentage": 2.07,
+      "AverageGrowthPercentage": 5.94
+    },
+    {
+      "CountryName": "Austria",
+      "Year": 2015,
+      "CurrentYearTotalTradeValue": 290551060.635,
+      "PreviousYearTotalTradeValue": 339425718.995,
+      "GrowthPercentage": -14.4,
+      "AverageGrowthPercentage": 5.94
+    },
+    {
+      "CountryName": "Austria",
+      "Year": 2016,
+      "CurrentYearTotalTradeValue": 289401380.424,
+      "PreviousYearTotalTradeValue": 290551060.635,
+      "GrowthPercentage": -0.4,
+      "AverageGrowthPercentage": 5.94
+    },
+    {
+      "CountryName": "Austria",
+      "Year": 2017,
+      "CurrentYearTotalTradeValue": 319941061.606,
+      "PreviousYearTotalTradeValue": 289401380.424,
+      "GrowthPercentage": 10.55,
+      "AverageGrowthPercentage": 5.94
+    },
+    {
+      "CountryName": "Austria",
+      "Year": 2018,
+      "CurrentYearTotalTradeValue": 353983941.239,
+      "PreviousYearTotalTradeValue": 319941061.606,
+      "GrowthPercentage": 10.64,
+      "AverageGrowthPercentage": 5.94
+    },
+    {
+      "CountryName": "Austria",
+      "Year": 2019,
+      "CurrentYearTotalTradeValue": 343064109.928,
+      "PreviousYearTotalTradeValue": 353983941.239,
+      "GrowthPercentage": -3.08,
+      "AverageGrowthPercentage": 5.94
+    },
+    {
+      "CountryName": "Austria",
+      "Year": 2020,
+      "CurrentYearTotalTradeValue": 324290258.035,
+      "PreviousYearTotalTradeValue": 343064109.928,
+      "GrowthPercentage": -5.47,
+      "AverageGrowthPercentage": 5.94
+    },
+    {
+      "CountryName": "Azerbaijan",
+      "Year": 1997,
+      "CurrentYearTotalTradeValue": 1562617.966,
+      "PreviousYearTotalTradeValue": 1262489.714,
+      "GrowthPercentage": 23.77,
+      "AverageGrowthPercentage": 39.9
+    },
+    {
+      "CountryName": "Azerbaijan",
+      "Year": 1998,
+      "CurrentYearTotalTradeValue": 1212298.854,
+      "PreviousYearTotalTradeValue": 1562617.966,
+      "GrowthPercentage": -22.42,
+      "AverageGrowthPercentage": 39.9
+    },
+    {
+      "CountryName": "Azerbaijan",
+      "Year": 1999,
+      "CurrentYearTotalTradeValue": 1858451.074,
+      "PreviousYearTotalTradeValue": 1212298.854,
+      "GrowthPercentage": 53.3,
+      "AverageGrowthPercentage": 39.9
+    },
+    {
+      "CountryName": "Azerbaijan",
+      "Year": 2000,
+      "CurrentYearTotalTradeValue": 3490503.872,
+      "PreviousYearTotalTradeValue": 1858451.074,
+      "GrowthPercentage": 87.82,
+      "AverageGrowthPercentage": 39.9
+    },
+    {
+      "CountryName": "Azerbaijan",
+      "Year": 2001,
+      "CurrentYearTotalTradeValue": 4628564.688,
+      "PreviousYearTotalTradeValue": 3490503.872,
+      "GrowthPercentage": 32.6,
+      "AverageGrowthPercentage": 39.9
+    },
+    {
+      "CountryName": "Azerbaijan",
+      "Year": 2002,
+      "CurrentYearTotalTradeValue": 4335000.17,
+      "PreviousYearTotalTradeValue": 4628564.688,
+      "GrowthPercentage": -6.34,
+      "AverageGrowthPercentage": 39.9
+    },
+    {
+      "CountryName": "Azerbaijan",
+      "Year": 2003,
+      "CurrentYearTotalTradeValue": 5183438.783,
+      "PreviousYearTotalTradeValue": 4335000.17,
+      "GrowthPercentage": 19.57,
+      "AverageGrowthPercentage": 39.9
+    },
+    {
+      "CountryName": "Azerbaijan",
+      "Year": 2004,
+      "CurrentYearTotalTradeValue": 7230899.652,
+      "PreviousYearTotalTradeValue": 5183438.783,
+      "GrowthPercentage": 39.5,
+      "AverageGrowthPercentage": 39.9
+    },
+    {
+      "CountryName": "Azerbaijan",
+      "Year": 2005,
+      "CurrentYearTotalTradeValue": 8694302.415,
+      "PreviousYearTotalTradeValue": 7230899.652,
+      "GrowthPercentage": 20.24,
+      "AverageGrowthPercentage": 39.9
+    },
+    {
+      "CountryName": "Azerbaijan",
+      "Year": 2006,
+      "CurrentYearTotalTradeValue": 12744329.983,
+      "PreviousYearTotalTradeValue": 8694302.415,
+      "GrowthPercentage": 46.58,
+      "AverageGrowthPercentage": 39.9
+    },
+    {
+      "CountryName": "Azerbaijan",
+      "Year": 2007,
+      "CurrentYearTotalTradeValue": 12116638.199,
+      "PreviousYearTotalTradeValue": 12744329.983,
+      "GrowthPercentage": -4.93,
+      "AverageGrowthPercentage": 39.9
+    },
+    {
+      "CountryName": "Azerbaijan",
+      "Year": 2008,
+      "CurrentYearTotalTradeValue": 95512458.721,
+      "PreviousYearTotalTradeValue": 12116638.199,
+      "GrowthPercentage": 688.28,
+      "AverageGrowthPercentage": 39.9
+    },
+    {
+      "CountryName": "Azerbaijan",
+      "Year": 2009,
+      "CurrentYearTotalTradeValue": 29377455.38,
+      "PreviousYearTotalTradeValue": 95512458.721,
+      "GrowthPercentage": -69.24,
+      "AverageGrowthPercentage": 39.9
+    },
+    {
+      "CountryName": "Azerbaijan",
+      "Year": 2010,
+      "CurrentYearTotalTradeValue": 42556839.965,
+      "PreviousYearTotalTradeValue": 29377455.38,
+      "GrowthPercentage": 44.86,
+      "AverageGrowthPercentage": 39.9
+    },
+    {
+      "CountryName": "Azerbaijan",
+      "Year": 2011,
+      "CurrentYearTotalTradeValue": 52960377.673,
+      "PreviousYearTotalTradeValue": 42556839.965,
+      "GrowthPercentage": 24.45,
+      "AverageGrowthPercentage": 39.9
+    },
+    {
+      "CountryName": "Azerbaijan",
+      "Year": 2012,
+      "CurrentYearTotalTradeValue": 47654372.159,
+      "PreviousYearTotalTradeValue": 52960377.673,
+      "GrowthPercentage": -10.02,
+      "AverageGrowthPercentage": 39.9
+    },
+    {
+      "CountryName": "Azerbaijan",
+      "Year": 2013,
+      "CurrentYearTotalTradeValue": 47808216.026,
+      "PreviousYearTotalTradeValue": 47654372.159,
+      "GrowthPercentage": 0.32,
+      "AverageGrowthPercentage": 39.9
+    },
+    {
+      "CountryName": "Azerbaijan",
+      "Year": 2014,
+      "CurrentYearTotalTradeValue": 43503474.288,
+      "PreviousYearTotalTradeValue": 47808216.026,
+      "GrowthPercentage": -9,
+      "AverageGrowthPercentage": 39.9
+    },
+    {
+      "CountryName": "Azerbaijan",
+      "Year": 2015,
+      "CurrentYearTotalTradeValue": 25292587.353,
+      "PreviousYearTotalTradeValue": 43503474.288,
+      "GrowthPercentage": -41.86,
+      "AverageGrowthPercentage": 39.9
+    },
+    {
+      "CountryName": "Azerbaijan",
+      "Year": 2016,
+      "CurrentYearTotalTradeValue": 26761637.132,
+      "PreviousYearTotalTradeValue": 25292587.353,
+      "GrowthPercentage": 5.81,
+      "AverageGrowthPercentage": 39.9
+    },
+    {
+      "CountryName": "Azerbaijan",
+      "Year": 2017,
+      "CurrentYearTotalTradeValue": 30612036.605,
+      "PreviousYearTotalTradeValue": 26761637.132,
+      "GrowthPercentage": 14.39,
+      "AverageGrowthPercentage": 39.9
+    },
+    {
+      "CountryName": "Azerbaijan",
+      "Year": 2018,
+      "CurrentYearTotalTradeValue": 38978136.408,
+      "PreviousYearTotalTradeValue": 30612036.605,
+      "GrowthPercentage": 27.33,
+      "AverageGrowthPercentage": 39.9
+    },
+    {
+      "CountryName": "Azerbaijan",
+      "Year": 2019,
+      "CurrentYearTotalTradeValue": 39270405.202,
+      "PreviousYearTotalTradeValue": 38978136.408,
+      "GrowthPercentage": 0.75,
+      "AverageGrowthPercentage": 39.9
+    },
+    {
+      "CountryName": "Azerbaijan",
+      "Year": 2020,
+      "CurrentYearTotalTradeValue": 27465274.525,
+      "PreviousYearTotalTradeValue": 39270405.202,
+      "GrowthPercentage": -30.06,
+      "AverageGrowthPercentage": 39.9
+    },
+    {
+      "CountryName": "Azerbaijan",
+      "Year": 2021,
+      "CurrentYearTotalTradeValue": 44413342.233,
+      "PreviousYearTotalTradeValue": 27465274.525,
+      "GrowthPercentage": 61.71,
+      "AverageGrowthPercentage": 39.9
+    },
+    {
+      "CountryName": "Bahamas, The",
+      "Year": 1998,
+      "CurrentYearTotalTradeValue": 276440.24,
+      "PreviousYearTotalTradeValue": 203997.03,
+      "GrowthPercentage": 35.51,
+      "AverageGrowthPercentage": 10.45
+    },
+    {
+      "CountryName": "Bahamas, The",
+      "Year": 1999,
+      "CurrentYearTotalTradeValue": 388321.411,
+      "PreviousYearTotalTradeValue": 276440.24,
+      "GrowthPercentage": 40.47,
+      "AverageGrowthPercentage": 10.45
+    },
+    {
+      "CountryName": "Bahamas, The",
+      "Year": 2000,
+      "CurrentYearTotalTradeValue": 488475.438,
+      "PreviousYearTotalTradeValue": 388321.411,
+      "GrowthPercentage": 25.79,
+      "AverageGrowthPercentage": 10.45
+    },
+    {
+      "CountryName": "Bahamas, The",
+      "Year": 2001,
+      "CurrentYearTotalTradeValue": 457094.382,
+      "PreviousYearTotalTradeValue": 488475.438,
+      "GrowthPercentage": -6.42,
+      "AverageGrowthPercentage": 10.45
+    },
+    {
+      "CountryName": "Bahamas, The",
+      "Year": 2002,
+      "CurrentYearTotalTradeValue": 458036.418,
+      "PreviousYearTotalTradeValue": 457094.382,
+      "GrowthPercentage": 0.21,
+      "AverageGrowthPercentage": 10.45
+    },
+    {
+      "CountryName": "Bahamas, The",
+      "Year": 2003,
+      "CurrentYearTotalTradeValue": 528230.28,
+      "PreviousYearTotalTradeValue": 458036.418,
+      "GrowthPercentage": 15.32,
+      "AverageGrowthPercentage": 10.45
+    },
+    {
+      "CountryName": "Bahamas, The",
+      "Year": 2004,
+      "CurrentYearTotalTradeValue": 480455.208,
+      "PreviousYearTotalTradeValue": 528230.28,
+      "GrowthPercentage": -9.04,
+      "AverageGrowthPercentage": 10.45
+    },
+    {
+      "CountryName": "Bahamas, The",
+      "Year": 2005,
+      "CurrentYearTotalTradeValue": 541698.246,
+      "PreviousYearTotalTradeValue": 480455.208,
+      "GrowthPercentage": 12.75,
+      "AverageGrowthPercentage": 10.45
+    },
+    {
+      "CountryName": "Bahamas, The",
+      "Year": 2006,
+      "CurrentYearTotalTradeValue": 611110.906,
+      "PreviousYearTotalTradeValue": 541698.246,
+      "GrowthPercentage": 12.81,
+      "AverageGrowthPercentage": 10.45
+    },
+    {
+      "CountryName": "Bahamas, The",
+      "Year": 2007,
+      "CurrentYearTotalTradeValue": 758179.316,
+      "PreviousYearTotalTradeValue": 611110.906,
+      "GrowthPercentage": 24.07,
+      "AverageGrowthPercentage": 10.45
+    },
+    {
+      "CountryName": "Bahamas, The",
+      "Year": 2008,
+      "CurrentYearTotalTradeValue": 819270.22,
+      "PreviousYearTotalTradeValue": 758179.316,
+      "GrowthPercentage": 8.06,
+      "AverageGrowthPercentage": 10.45
+    },
+    {
+      "CountryName": "Bahamas, The",
+      "Year": 2009,
+      "CurrentYearTotalTradeValue": 667413.828,
+      "PreviousYearTotalTradeValue": 819270.22,
+      "GrowthPercentage": -18.54,
+      "AverageGrowthPercentage": 10.45
+    },
+    {
+      "CountryName": "Bahamas, The",
+      "Year": 2010,
+      "CurrentYearTotalTradeValue": 607115.45,
+      "PreviousYearTotalTradeValue": 667413.828,
+      "GrowthPercentage": -9.03,
+      "AverageGrowthPercentage": 10.45
+    },
+    {
+      "CountryName": "Bahamas, The",
+      "Year": 2011,
+      "CurrentYearTotalTradeValue": 652886.786,
+      "PreviousYearTotalTradeValue": 607115.45,
+      "GrowthPercentage": 7.54,
+      "AverageGrowthPercentage": 10.45
+    },
+    {
+      "CountryName": "Bahamas, The",
+      "Year": 2012,
+      "CurrentYearTotalTradeValue": 675072.446,
+      "PreviousYearTotalTradeValue": 652886.786,
+      "GrowthPercentage": 3.4,
+      "AverageGrowthPercentage": 10.45
+    },
+    {
+      "CountryName": "Bahamas, The",
+      "Year": 2013,
+      "CurrentYearTotalTradeValue": 728847.708,
+      "PreviousYearTotalTradeValue": 675072.446,
+      "GrowthPercentage": 7.97,
+      "AverageGrowthPercentage": 10.45
+    },
+    {
+      "CountryName": "Bahamas, The",
+      "Year": 2014,
+      "CurrentYearTotalTradeValue": 708581.186,
+      "PreviousYearTotalTradeValue": 728847.708,
+      "GrowthPercentage": -2.78,
+      "AverageGrowthPercentage": 10.45
+    },
+    {
+      "CountryName": "Bahamas, The",
+      "Year": 2015,
+      "CurrentYearTotalTradeValue": 447631.226,
+      "PreviousYearTotalTradeValue": 708581.186,
+      "GrowthPercentage": -36.83,
+      "AverageGrowthPercentage": 10.45
+    },
+    {
+      "CountryName": "Bahamas, The",
+      "Year": 2016,
+      "CurrentYearTotalTradeValue": 805424.844,
+      "PreviousYearTotalTradeValue": 447631.226,
+      "GrowthPercentage": 79.93,
+      "AverageGrowthPercentage": 10.45
+    },
+    {
+      "CountryName": "Bahamas, The",
+      "Year": 2017,
+      "CurrentYearTotalTradeValue": 946644.551,
+      "PreviousYearTotalTradeValue": 805424.844,
+      "GrowthPercentage": 17.53,
+      "AverageGrowthPercentage": 10.45
+    },
+    {
+      "CountryName": "Bahamas, The",
+      "Year": 2018,
+      "CurrentYearTotalTradeValue": 1048385.848,
+      "PreviousYearTotalTradeValue": 946644.551,
+      "GrowthPercentage": 10.75,
+      "AverageGrowthPercentage": 10.45
+    },
+    {
+      "CountryName": "Bahrain",
+      "Year": 1995,
+      "CurrentYearTotalTradeValue": 6836249.877,
+      "PreviousYearTotalTradeValue": 6001364.897,
+      "GrowthPercentage": 13.91,
+      "AverageGrowthPercentage": 6.32
+    },
+    {
+      "CountryName": "Bahrain",
+      "Year": 1996,
+      "CurrentYearTotalTradeValue": 2988919.174,
+      "PreviousYearTotalTradeValue": 6836249.877,
+      "GrowthPercentage": -56.28,
+      "AverageGrowthPercentage": 6.32
+    },
+    {
+      "CountryName": "Bahrain",
+      "Year": 2001,
+      "CurrentYearTotalTradeValue": 10999546.291,
+      "PreviousYearTotalTradeValue": 12225969.782,
+      "GrowthPercentage": -10.03,
+      "AverageGrowthPercentage": 6.32
+    },
+    {
+      "CountryName": "Bahrain",
+      "Year": 2002,
+      "CurrentYearTotalTradeValue": 11407747.979,
+      "PreviousYearTotalTradeValue": 10999546.291,
+      "GrowthPercentage": 3.71,
+      "AverageGrowthPercentage": 6.32
+    },
+    {
+      "CountryName": "Bahrain",
+      "Year": 2003,
+      "CurrentYearTotalTradeValue": 12908497.597,
+      "PreviousYearTotalTradeValue": 11407747.979,
+      "GrowthPercentage": 13.16,
+      "AverageGrowthPercentage": 6.32
+    },
+    {
+      "CountryName": "Bahrain",
+      "Year": 2004,
+      "CurrentYearTotalTradeValue": 14700033,
+      "PreviousYearTotalTradeValue": 12908497.597,
+      "GrowthPercentage": 13.88,
+      "AverageGrowthPercentage": 6.32
+    },
+    {
+      "CountryName": "Bahrain",
+      "Year": 2005,
+      "CurrentYearTotalTradeValue": 19926019.668,
+      "PreviousYearTotalTradeValue": 14700033,
+      "GrowthPercentage": 35.55,
+      "AverageGrowthPercentage": 6.32
+    },
+    {
+      "CountryName": "Bahrain",
+      "Year": 2006,
+      "CurrentYearTotalTradeValue": 22882608.402,
+      "PreviousYearTotalTradeValue": 19926019.668,
+      "GrowthPercentage": 14.84,
+      "AverageGrowthPercentage": 6.32
+    },
+    {
+      "CountryName": "Bahrain",
+      "Year": 2007,
+      "CurrentYearTotalTradeValue": 26740630.504,
+      "PreviousYearTotalTradeValue": 22882608.402,
+      "GrowthPercentage": 16.86,
+      "AverageGrowthPercentage": 6.32
+    },
+    {
+      "CountryName": "Bahrain",
+      "Year": 2008,
+      "CurrentYearTotalTradeValue": 25149984.259,
+      "PreviousYearTotalTradeValue": 26740630.504,
+      "GrowthPercentage": -5.95,
+      "AverageGrowthPercentage": 6.32
+    },
+    {
+      "CountryName": "Bahrain",
+      "Year": 2009,
+      "CurrentYearTotalTradeValue": 15816600.159,
+      "PreviousYearTotalTradeValue": 25149984.259,
+      "GrowthPercentage": -37.11,
+      "AverageGrowthPercentage": 6.32
+    },
+    {
+      "CountryName": "Bahrain",
+      "Year": 2010,
+      "CurrentYearTotalTradeValue": 30997835.197,
+      "PreviousYearTotalTradeValue": 15816600.159,
+      "GrowthPercentage": 95.98,
+      "AverageGrowthPercentage": 6.32
+    },
+    {
+      "CountryName": "Bahrain",
+      "Year": 2011,
+      "CurrentYearTotalTradeValue": 43303221.814,
+      "PreviousYearTotalTradeValue": 30997835.197,
+      "GrowthPercentage": 39.7,
+      "AverageGrowthPercentage": 6.32
+    },
+    {
+      "CountryName": "Bahrain",
+      "Year": 2012,
+      "CurrentYearTotalTradeValue": 30942832.017,
+      "PreviousYearTotalTradeValue": 43303221.814,
+      "GrowthPercentage": -28.54,
+      "AverageGrowthPercentage": 6.32
+    },
+    {
+      "CountryName": "Bahrain",
+      "Year": 2013,
+      "CurrentYearTotalTradeValue": 34380991.804,
+      "PreviousYearTotalTradeValue": 30942832.017,
+      "GrowthPercentage": 11.11,
+      "AverageGrowthPercentage": 6.32
+    },
+    {
+      "CountryName": "Bahrain",
+      "Year": 2014,
+      "CurrentYearTotalTradeValue": 43167508.937,
+      "PreviousYearTotalTradeValue": 34380991.804,
+      "GrowthPercentage": 25.56,
+      "AverageGrowthPercentage": 6.32
+    },
+    {
+      "CountryName": "Bahrain",
+      "Year": 2015,
+      "CurrentYearTotalTradeValue": 20499971.505,
+      "PreviousYearTotalTradeValue": 43167508.937,
+      "GrowthPercentage": -52.51,
+      "AverageGrowthPercentage": 6.32
+    },
+    {
+      "CountryName": "Bahrain",
+      "Year": 2016,
+      "CurrentYearTotalTradeValue": 17269195.091,
+      "PreviousYearTotalTradeValue": 20499971.505,
+      "GrowthPercentage": -15.76,
+      "AverageGrowthPercentage": 6.32
+    },
+    {
+      "CountryName": "Bahrain",
+      "Year": 2017,
+      "CurrentYearTotalTradeValue": 22176551.552,
+      "PreviousYearTotalTradeValue": 17269195.091,
+      "GrowthPercentage": 28.42,
+      "AverageGrowthPercentage": 6.32
+    },
+    {
+      "CountryName": "Bahrain",
+      "Year": 2018,
+      "CurrentYearTotalTradeValue": 25957727.912,
+      "PreviousYearTotalTradeValue": 22176551.552,
+      "GrowthPercentage": 17.05,
+      "AverageGrowthPercentage": 6.32
+    },
+    {
+      "CountryName": "Bahrain",
+      "Year": 2019,
+      "CurrentYearTotalTradeValue": 28334526.268,
+      "PreviousYearTotalTradeValue": 25957727.912,
+      "GrowthPercentage": 9.16,
+      "AverageGrowthPercentage": 6.32
+    },
+    {
+      "CountryName": "Bangladesh",
+      "Year": 1990,
+      "CurrentYearTotalTradeValue": 3112880.849,
+      "PreviousYearTotalTradeValue": 2656015.417,
+      "GrowthPercentage": 17.2,
+      "AverageGrowthPercentage": 14.24
+    },
+    {
+      "CountryName": "Bangladesh",
+      "Year": 1991,
+      "CurrentYearTotalTradeValue": 3380413.718,
+      "PreviousYearTotalTradeValue": 3112880.849,
+      "GrowthPercentage": 8.59,
+      "AverageGrowthPercentage": 14.24
+    },
+    {
+      "CountryName": "Bangladesh",
+      "Year": 1992,
+      "CurrentYearTotalTradeValue": 3883214.348,
+      "PreviousYearTotalTradeValue": 3380413.718,
+      "GrowthPercentage": 14.87,
+      "AverageGrowthPercentage": 14.24
+    },
+    {
+      "CountryName": "Bangladesh",
+      "Year": 1993,
+      "CurrentYearTotalTradeValue": 4506187.343,
+      "PreviousYearTotalTradeValue": 3883214.348,
+      "GrowthPercentage": 16.04,
+      "AverageGrowthPercentage": 14.24
+    },
+    {
+      "CountryName": "Bangladesh",
+      "Year": 1994,
+      "CurrentYearTotalTradeValue": 4966653.905,
+      "PreviousYearTotalTradeValue": 4506187.343,
+      "GrowthPercentage": 10.22,
+      "AverageGrowthPercentage": 14.24
+    },
+    {
+      "CountryName": "Bangladesh",
+      "Year": 1995,
+      "CurrentYearTotalTradeValue": 6814482.343,
+      "PreviousYearTotalTradeValue": 4966653.905,
+      "GrowthPercentage": 37.2,
+      "AverageGrowthPercentage": 14.24
+    },
+    {
+      "CountryName": "Bangladesh",
+      "Year": 1996,
+      "CurrentYearTotalTradeValue": 7077019.698,
+      "PreviousYearTotalTradeValue": 6814482.343,
+      "GrowthPercentage": 3.85,
+      "AverageGrowthPercentage": 14.24
+    },
+    {
+      "CountryName": "Bangladesh",
+      "Year": 1997,
+      "CurrentYearTotalTradeValue": 8034911.166,
+      "PreviousYearTotalTradeValue": 7077019.698,
+      "GrowthPercentage": 13.54,
+      "AverageGrowthPercentage": 14.24
+    },
+    {
+      "CountryName": "Bangladesh",
+      "Year": 1998,
+      "CurrentYearTotalTradeValue": 10113828.886,
+      "PreviousYearTotalTradeValue": 8034911.166,
+      "GrowthPercentage": 25.87,
+      "AverageGrowthPercentage": 14.24
+    },
+    {
+      "CountryName": "Bangladesh",
+      "Year": 2001,
+      "CurrentYearTotalTradeValue": 10777494.278,
+      "PreviousYearTotalTradeValue": 10986452.863,
+      "GrowthPercentage": -1.9,
+      "AverageGrowthPercentage": 14.24
+    },
+    {
+      "CountryName": "Bangladesh",
+      "Year": 2002,
+      "CurrentYearTotalTradeValue": 10834545.071,
+      "PreviousYearTotalTradeValue": 10777494.278,
+      "GrowthPercentage": 0.53,
+      "AverageGrowthPercentage": 14.24
+    },
+    {
+      "CountryName": "Bangladesh",
+      "Year": 2003,
+      "CurrentYearTotalTradeValue": 12806851.246,
+      "PreviousYearTotalTradeValue": 10834545.071,
+      "GrowthPercentage": 18.2,
+      "AverageGrowthPercentage": 14.24
+    },
+    {
+      "CountryName": "Bangladesh",
+      "Year": 2004,
+      "CurrentYearTotalTradeValue": 16534964.043,
+      "PreviousYearTotalTradeValue": 12806851.246,
+      "GrowthPercentage": 29.11,
+      "AverageGrowthPercentage": 14.24
+    },
+    {
+      "CountryName": "Bangladesh",
+      "Year": 2005,
+      "CurrentYearTotalTradeValue": 18663166.726,
+      "PreviousYearTotalTradeValue": 16534964.043,
+      "GrowthPercentage": 12.87,
+      "AverageGrowthPercentage": 14.24
+    },
+    {
+      "CountryName": "Bangladesh",
+      "Year": 2006,
+      "CurrentYearTotalTradeValue": 23393400.99,
+      "PreviousYearTotalTradeValue": 18663166.726,
+      "GrowthPercentage": 25.35,
+      "AverageGrowthPercentage": 14.24
+    },
+    {
+      "CountryName": "Bangladesh",
+      "Year": 2007,
+      "CurrentYearTotalTradeValue": 26285905.855,
+      "PreviousYearTotalTradeValue": 23393400.99,
+      "GrowthPercentage": 12.36,
+      "AverageGrowthPercentage": 14.24
+    },
+    {
+      "CountryName": "Bangladesh",
+      "Year": 2008,
+      "CurrentYearTotalTradeValue": 31013438.358,
+      "PreviousYearTotalTradeValue": 26285905.855,
+      "GrowthPercentage": 17.99,
+      "AverageGrowthPercentage": 14.24
+    },
+    {
+      "CountryName": "Bangladesh",
+      "Year": 2009,
+      "CurrentYearTotalTradeValue": 31117267.986,
+      "PreviousYearTotalTradeValue": 31013438.358,
+      "GrowthPercentage": 0.33,
+      "AverageGrowthPercentage": 14.24
+    },
+    {
+      "CountryName": "Bangladesh",
+      "Year": 2010,
+      "CurrentYearTotalTradeValue": 38461965.117,
+      "PreviousYearTotalTradeValue": 31117267.986,
+      "GrowthPercentage": 23.6,
+      "AverageGrowthPercentage": 14.24
+    },
+    {
+      "CountryName": "Bangladesh",
+      "Year": 2011,
+      "CurrentYearTotalTradeValue": 48627488.48,
+      "PreviousYearTotalTradeValue": 38461965.117,
+      "GrowthPercentage": 26.43,
+      "AverageGrowthPercentage": 14.24
+    },
+    {
+      "CountryName": "Bangladesh",
+      "Year": 2012,
+      "CurrentYearTotalTradeValue": 49027001.662,
+      "PreviousYearTotalTradeValue": 48627488.48,
+      "GrowthPercentage": 0.82,
+      "AverageGrowthPercentage": 14.24
+    },
+    {
+      "CountryName": "Bangladesh",
+      "Year": 2013,
+      "CurrentYearTotalTradeValue": 49074682.014,
+      "PreviousYearTotalTradeValue": 49027001.662,
+      "GrowthPercentage": 0.1,
+      "AverageGrowthPercentage": 14.24
+    },
+    {
+      "CountryName": "Barbados",
+      "Year": 1993,
+      "CurrentYearTotalTradeValue": 270714.227,
+      "PreviousYearTotalTradeValue": 265486.065,
+      "GrowthPercentage": 1.97,
+      "AverageGrowthPercentage": 3.69
+    },
+    {
+      "CountryName": "Barbados",
+      "Year": 1994,
+      "CurrentYearTotalTradeValue": 269046.201,
+      "PreviousYearTotalTradeValue": 270714.227,
+      "GrowthPercentage": -0.62,
+      "AverageGrowthPercentage": 3.69
+    },
+    {
+      "CountryName": "Barbados",
+      "Year": 1995,
+      "CurrentYearTotalTradeValue": 336909.956,
+      "PreviousYearTotalTradeValue": 269046.201,
+      "GrowthPercentage": 25.22,
+      "AverageGrowthPercentage": 3.69
+    },
+    {
+      "CountryName": "Barbados",
+      "Year": 1996,
+      "CurrentYearTotalTradeValue": 424890.247,
+      "PreviousYearTotalTradeValue": 336909.956,
+      "GrowthPercentage": 26.11,
+      "AverageGrowthPercentage": 3.69
+    },
+    {
+      "CountryName": "Barbados",
+      "Year": 1997,
+      "CurrentYearTotalTradeValue": 420927.102,
+      "PreviousYearTotalTradeValue": 424890.247,
+      "GrowthPercentage": -0.93,
+      "AverageGrowthPercentage": 3.69
+    },
+    {
+      "CountryName": "Barbados",
+      "Year": 1998,
+      "CurrentYearTotalTradeValue": 390754.764,
+      "PreviousYearTotalTradeValue": 420927.102,
+      "GrowthPercentage": -7.17,
+      "AverageGrowthPercentage": 3.69
+    },
+    {
+      "CountryName": "Barbados",
+      "Year": 1999,
+      "CurrentYearTotalTradeValue": 393067.25,
+      "PreviousYearTotalTradeValue": 390754.764,
+      "GrowthPercentage": 0.59,
+      "AverageGrowthPercentage": 3.69
+    },
+    {
+      "CountryName": "Barbados",
+      "Year": 2000,
+      "CurrentYearTotalTradeValue": 380309.018,
+      "PreviousYearTotalTradeValue": 393067.25,
+      "GrowthPercentage": -3.25,
+      "AverageGrowthPercentage": 3.69
+    },
+    {
+      "CountryName": "Barbados",
+      "Year": 2001,
+      "CurrentYearTotalTradeValue": 352661.126,
+      "PreviousYearTotalTradeValue": 380309.018,
+      "GrowthPercentage": -7.27,
+      "AverageGrowthPercentage": 3.69
+    },
+    {
+      "CountryName": "Barbados",
+      "Year": 2002,
+      "CurrentYearTotalTradeValue": 322688.38,
+      "PreviousYearTotalTradeValue": 352661.126,
+      "GrowthPercentage": -8.5,
+      "AverageGrowthPercentage": 3.69
+    },
+    {
+      "CountryName": "Barbados",
+      "Year": 2003,
+      "CurrentYearTotalTradeValue": 329422.193,
+      "PreviousYearTotalTradeValue": 322688.38,
+      "GrowthPercentage": 2.09,
+      "AverageGrowthPercentage": 3.69
+    },
+    {
+      "CountryName": "Barbados",
+      "Year": 2004,
+      "CurrentYearTotalTradeValue": 346859.923,
+      "PreviousYearTotalTradeValue": 329422.193,
+      "GrowthPercentage": 5.29,
+      "AverageGrowthPercentage": 3.69
+    },
+    {
+      "CountryName": "Barbados",
+      "Year": 2005,
+      "CurrentYearTotalTradeValue": 423202.663,
+      "PreviousYearTotalTradeValue": 346859.923,
+      "GrowthPercentage": 22.01,
+      "AverageGrowthPercentage": 3.69
+    },
+    {
+      "CountryName": "Barbados",
+      "Year": 2006,
+      "CurrentYearTotalTradeValue": 491665.259,
+      "PreviousYearTotalTradeValue": 423202.663,
+      "GrowthPercentage": 16.18,
+      "AverageGrowthPercentage": 3.69
+    },
+    {
+      "CountryName": "Barbados",
+      "Year": 2007,
+      "CurrentYearTotalTradeValue": 598847.847,
+      "PreviousYearTotalTradeValue": 491665.259,
+      "GrowthPercentage": 21.8,
+      "AverageGrowthPercentage": 3.69
+    },
+    {
+      "CountryName": "Barbados",
+      "Year": 2008,
+      "CurrentYearTotalTradeValue": 526073.347,
+      "PreviousYearTotalTradeValue": 598847.847,
+      "GrowthPercentage": -12.15,
+      "AverageGrowthPercentage": 3.69
+    },
+    {
+      "CountryName": "Barbados",
+      "Year": 2009,
+      "CurrentYearTotalTradeValue": 439557.953,
+      "PreviousYearTotalTradeValue": 526073.347,
+      "GrowthPercentage": -16.45,
+      "AverageGrowthPercentage": 3.69
+    },
+    {
+      "CountryName": "Barbados",
+      "Year": 2010,
+      "CurrentYearTotalTradeValue": 472457.116,
+      "PreviousYearTotalTradeValue": 439557.953,
+      "GrowthPercentage": 7.48,
+      "AverageGrowthPercentage": 3.69
+    },
+    {
+      "CountryName": "Barbados",
+      "Year": 2011,
+      "CurrentYearTotalTradeValue": 534104.734,
+      "PreviousYearTotalTradeValue": 472457.116,
+      "GrowthPercentage": 13.05,
+      "AverageGrowthPercentage": 3.69
+    },
+    {
+      "CountryName": "Barbados",
+      "Year": 2012,
+      "CurrentYearTotalTradeValue": 592867.223,
+      "PreviousYearTotalTradeValue": 534104.734,
+      "GrowthPercentage": 11,
+      "AverageGrowthPercentage": 3.69
+    },
+    {
+      "CountryName": "Barbados",
+      "Year": 2013,
+      "CurrentYearTotalTradeValue": 534172.537,
+      "PreviousYearTotalTradeValue": 592867.223,
+      "GrowthPercentage": -9.9,
+      "AverageGrowthPercentage": 3.69
+    },
+    {
+      "CountryName": "Barbados",
+      "Year": 2014,
+      "CurrentYearTotalTradeValue": 566873.492,
+      "PreviousYearTotalTradeValue": 534172.537,
+      "GrowthPercentage": 6.12,
+      "AverageGrowthPercentage": 3.69
+    },
+    {
+      "CountryName": "Barbados",
+      "Year": 2015,
+      "CurrentYearTotalTradeValue": 505696.171,
+      "PreviousYearTotalTradeValue": 566873.492,
+      "GrowthPercentage": -10.79,
+      "AverageGrowthPercentage": 3.69
+    },
+    {
+      "CountryName": "Barbados",
+      "Year": 2016,
+      "CurrentYearTotalTradeValue": 524072.489,
+      "PreviousYearTotalTradeValue": 505696.171,
+      "GrowthPercentage": 3.63,
+      "AverageGrowthPercentage": 3.69
+    },
+    {
+      "CountryName": "Barbados",
+      "Year": 2017,
+      "CurrentYearTotalTradeValue": 509831.695,
+      "PreviousYearTotalTradeValue": 524072.489,
+      "GrowthPercentage": -2.72,
+      "AverageGrowthPercentage": 3.69
+    },
+    {
+      "CountryName": "Barbados",
+      "Year": 2018,
+      "CurrentYearTotalTradeValue": 510648.007,
+      "PreviousYearTotalTradeValue": 509831.695,
+      "GrowthPercentage": 0.16,
+      "AverageGrowthPercentage": 3.69
+    },
+    {
+      "CountryName": "Barbados",
+      "Year": 2019,
+      "CurrentYearTotalTradeValue": 888170.738,
+      "PreviousYearTotalTradeValue": 510648.007,
+      "GrowthPercentage": 73.93,
+      "AverageGrowthPercentage": 3.69
+    },
+    {
+      "CountryName": "Barbados",
+      "Year": 2020,
+      "CurrentYearTotalTradeValue": 449445.496,
+      "PreviousYearTotalTradeValue": 888170.738,
+      "GrowthPercentage": -49.4,
+      "AverageGrowthPercentage": 3.69
+    },
+    {
+      "CountryName": "Barbados",
+      "Year": 2021,
+      "CurrentYearTotalTradeValue": 447041.025,
+      "PreviousYearTotalTradeValue": 449445.496,
+      "GrowthPercentage": -0.53,
+      "AverageGrowthPercentage": 3.69
+    },
+    {
+      "CountryName": "Belarus",
+      "Year": 1999,
+      "CurrentYearTotalTradeValue": 11817854.872,
+      "PreviousYearTotalTradeValue": 14139435.381,
+      "GrowthPercentage": -16.42,
+      "AverageGrowthPercentage": 10.33
+    },
+    {
+      "CountryName": "Belarus",
+      "Year": 2000,
+      "CurrentYearTotalTradeValue": 14662118,
+      "PreviousYearTotalTradeValue": 11817854.872,
+      "GrowthPercentage": 24.07,
+      "AverageGrowthPercentage": 10.33
+    },
+    {
+      "CountryName": "Belarus",
+      "Year": 2001,
+      "CurrentYearTotalTradeValue": 14901288,
+      "PreviousYearTotalTradeValue": 14662118,
+      "GrowthPercentage": 1.63,
+      "AverageGrowthPercentage": 10.33
+    },
+    {
+      "CountryName": "Belarus",
+      "Year": 2002,
+      "CurrentYearTotalTradeValue": 16041824,
+      "PreviousYearTotalTradeValue": 14901288,
+      "GrowthPercentage": 7.65,
+      "AverageGrowthPercentage": 10.33
+    },
+    {
+      "CountryName": "Belarus",
+      "Year": 2003,
+      "CurrentYearTotalTradeValue": 19891176.8,
+      "PreviousYearTotalTradeValue": 16041824,
+      "GrowthPercentage": 24,
+      "AverageGrowthPercentage": 10.33
+    },
+    {
+      "CountryName": "Belarus",
+      "Year": 2004,
+      "CurrentYearTotalTradeValue": 27503399.2,
+      "PreviousYearTotalTradeValue": 19891176.8,
+      "GrowthPercentage": 38.27,
+      "AverageGrowthPercentage": 10.33
+    },
+    {
+      "CountryName": "Belarus",
+      "Year": 2005,
+      "CurrentYearTotalTradeValue": 31954441.4,
+      "PreviousYearTotalTradeValue": 27503399.2,
+      "GrowthPercentage": 16.18,
+      "AverageGrowthPercentage": 10.33
+    },
+    {
+      "CountryName": "Belarus",
+      "Year": 2006,
+      "CurrentYearTotalTradeValue": 39477086.8,
+      "PreviousYearTotalTradeValue": 31954441.4,
+      "GrowthPercentage": 23.54,
+      "AverageGrowthPercentage": 10.33
+    },
+    {
+      "CountryName": "Belarus",
+      "Year": 2007,
+      "CurrentYearTotalTradeValue": 48550488,
+      "PreviousYearTotalTradeValue": 39477086.8,
+      "GrowthPercentage": 22.98,
+      "AverageGrowthPercentage": 10.33
+    },
+    {
+      "CountryName": "Belarus",
+      "Year": 2008,
+      "CurrentYearTotalTradeValue": 65141561,
+      "PreviousYearTotalTradeValue": 48550488,
+      "GrowthPercentage": 34.17,
+      "AverageGrowthPercentage": 10.33
+    },
+    {
+      "CountryName": "Belarus",
+      "Year": 2009,
+      "CurrentYearTotalTradeValue": 42608345.8,
+      "PreviousYearTotalTradeValue": 65141561,
+      "GrowthPercentage": -34.59,
+      "AverageGrowthPercentage": 10.33
+    },
+    {
+      "CountryName": "Belarus",
+      "Year": 2010,
+      "CurrentYearTotalTradeValue": 50566924.6,
+      "PreviousYearTotalTradeValue": 42608345.8,
+      "GrowthPercentage": 18.68,
+      "AverageGrowthPercentage": 10.33
+    },
+    {
+      "CountryName": "Belarus",
+      "Year": 2011,
+      "CurrentYearTotalTradeValue": 82837344,
+      "PreviousYearTotalTradeValue": 50566924.6,
+      "GrowthPercentage": 63.82,
+      "AverageGrowthPercentage": 10.33
+    },
+    {
+      "CountryName": "Belarus",
+      "Year": 2012,
+      "CurrentYearTotalTradeValue": 92119870,
+      "PreviousYearTotalTradeValue": 82837344,
+      "GrowthPercentage": 11.21,
+      "AverageGrowthPercentage": 10.33
+    },
+    {
+      "CountryName": "Belarus",
+      "Year": 2013,
+      "CurrentYearTotalTradeValue": 74406070.6,
+      "PreviousYearTotalTradeValue": 92119870,
+      "GrowthPercentage": -19.23,
+      "AverageGrowthPercentage": 10.33
+    },
+    {
+      "CountryName": "Belarus",
+      "Year": 2014,
+      "CurrentYearTotalTradeValue": 72161073.6,
+      "PreviousYearTotalTradeValue": 74406070.6,
+      "GrowthPercentage": -3.02,
+      "AverageGrowthPercentage": 10.33
+    },
+    {
+      "CountryName": "Belarus",
+      "Year": 2015,
+      "CurrentYearTotalTradeValue": 53320789.2,
+      "PreviousYearTotalTradeValue": 72161073.6,
+      "GrowthPercentage": -26.11,
+      "AverageGrowthPercentage": 10.33
+    },
+    {
+      "CountryName": "Belarus",
+      "Year": 2016,
+      "CurrentYearTotalTradeValue": 47074709,
+      "PreviousYearTotalTradeValue": 53320789.2,
+      "GrowthPercentage": -11.71,
+      "AverageGrowthPercentage": 10.33
+    },
+    {
+      "CountryName": "Belarus",
+      "Year": 2017,
+      "CurrentYearTotalTradeValue": 58479987.8,
+      "PreviousYearTotalTradeValue": 47074709,
+      "GrowthPercentage": 24.23,
+      "AverageGrowthPercentage": 10.33
+    },
+    {
+      "CountryName": "Belarus",
+      "Year": 2018,
+      "CurrentYearTotalTradeValue": 67452282.8,
+      "PreviousYearTotalTradeValue": 58479987.8,
+      "GrowthPercentage": 15.34,
+      "AverageGrowthPercentage": 10.33
+    },
+    {
+      "CountryName": "Belarus",
+      "Year": 2019,
+      "CurrentYearTotalTradeValue": 65910244.8,
+      "PreviousYearTotalTradeValue": 67452282.8,
+      "GrowthPercentage": -2.29,
+      "AverageGrowthPercentage": 10.33
+    },
+    {
+      "CountryName": "Belarus",
+      "Year": 2020,
+      "CurrentYearTotalTradeValue": 58358882,
+      "PreviousYearTotalTradeValue": 65910244.8,
+      "GrowthPercentage": -11.46,
+      "AverageGrowthPercentage": 10.33
+    },
+    {
+      "CountryName": "Belarus",
+      "Year": 2021,
+      "CurrentYearTotalTradeValue": 79778045.6,
+      "PreviousYearTotalTradeValue": 58358882,
+      "GrowthPercentage": 36.7,
+      "AverageGrowthPercentage": 10.33
+    },
+    {
+      "CountryName": "Belgium",
+      "Year": 2000,
+      "CurrentYearTotalTradeValue": 375677809.479,
+      "PreviousYearTotalTradeValue": 357733656.494,
+      "GrowthPercentage": 5.02,
+      "AverageGrowthPercentage": 3.79
+    },
+    {
+      "CountryName": "Belgium",
+      "Year": 2001,
+      "CurrentYearTotalTradeValue": 380618973.952,
+      "PreviousYearTotalTradeValue": 375677809.479,
+      "GrowthPercentage": 1.32,
+      "AverageGrowthPercentage": 3.79
+    },
+    {
+      "CountryName": "Belgium",
+      "Year": 2002,
+      "CurrentYearTotalTradeValue": 431606010.857,
+      "PreviousYearTotalTradeValue": 380618973.952,
+      "GrowthPercentage": 13.4,
+      "AverageGrowthPercentage": 3.79
+    },
+    {
+      "CountryName": "Belgium",
+      "Year": 2003,
+      "CurrentYearTotalTradeValue": 511107321.756,
+      "PreviousYearTotalTradeValue": 431606010.857,
+      "GrowthPercentage": 18.42,
+      "AverageGrowthPercentage": 3.79
+    },
+    {
+      "CountryName": "Belgium",
+      "Year": 2004,
+      "CurrentYearTotalTradeValue": 615380839.297,
+      "PreviousYearTotalTradeValue": 511107321.756,
+      "GrowthPercentage": 20.4,
+      "AverageGrowthPercentage": 3.79
+    },
+    {
+      "CountryName": "Belgium",
+      "Year": 2005,
+      "CurrentYearTotalTradeValue": 671383556.115,
+      "PreviousYearTotalTradeValue": 615380839.297,
+      "GrowthPercentage": 9.1,
+      "AverageGrowthPercentage": 3.79
+    },
+    {
+      "CountryName": "Belgium",
+      "Year": 2006,
+      "CurrentYearTotalTradeValue": 733670984.702001,
+      "PreviousYearTotalTradeValue": 671383556.115,
+      "GrowthPercentage": 9.28,
+      "AverageGrowthPercentage": 3.79
+    },
+    {
+      "CountryName": "Belgium",
+      "Year": 2007,
+      "CurrentYearTotalTradeValue": 863487685.481,
+      "PreviousYearTotalTradeValue": 733670984.702001,
+      "GrowthPercentage": 17.69,
+      "AverageGrowthPercentage": 3.79
+    },
+    {
+      "CountryName": "Belgium",
+      "Year": 2008,
+      "CurrentYearTotalTradeValue": 943595640.193,
+      "PreviousYearTotalTradeValue": 863487685.481,
+      "GrowthPercentage": 9.28,
+      "AverageGrowthPercentage": 3.79
+    },
+    {
+      "CountryName": "Belgium",
+      "Year": 2009,
+      "CurrentYearTotalTradeValue": 741758387.255,
+      "PreviousYearTotalTradeValue": 943595640.193,
+      "GrowthPercentage": -21.39,
+      "AverageGrowthPercentage": 3.79
+    },
+    {
+      "CountryName": "Belgium",
+      "Year": 2010,
+      "CurrentYearTotalTradeValue": 549448490.301,
+      "PreviousYearTotalTradeValue": 741758387.255,
+      "GrowthPercentage": -25.93,
+      "AverageGrowthPercentage": 3.79
+    },
+    {
+      "CountryName": "Belgium",
+      "Year": 2011,
+      "CurrentYearTotalTradeValue": 655178047.313,
+      "PreviousYearTotalTradeValue": 549448490.301,
+      "GrowthPercentage": 19.24,
+      "AverageGrowthPercentage": 3.79
+    },
+    {
+      "CountryName": "Belgium",
+      "Year": 2012,
+      "CurrentYearTotalTradeValue": 610276641.632,
+      "PreviousYearTotalTradeValue": 655178047.313,
+      "GrowthPercentage": -6.85,
+      "AverageGrowthPercentage": 3.79
+    },
+    {
+      "CountryName": "Belgium",
+      "Year": 2013,
+      "CurrentYearTotalTradeValue": 636488470.7,
+      "PreviousYearTotalTradeValue": 610276641.632,
+      "GrowthPercentage": 4.3,
+      "AverageGrowthPercentage": 3.79
+    },
+    {
+      "CountryName": "Belgium",
+      "Year": 2014,
+      "CurrentYearTotalTradeValue": 638428276.464,
+      "PreviousYearTotalTradeValue": 636488470.7,
+      "GrowthPercentage": 0.3,
+      "AverageGrowthPercentage": 3.79
+    },
+    {
+      "CountryName": "Belgium",
+      "Year": 2015,
+      "CurrentYearTotalTradeValue": 506821411.981,
+      "PreviousYearTotalTradeValue": 638428276.464,
+      "GrowthPercentage": -20.61,
+      "AverageGrowthPercentage": 3.79
+    },
+    {
+      "CountryName": "Belgium",
+      "Year": 2016,
+      "CurrentYearTotalTradeValue": 542463833.142,
+      "PreviousYearTotalTradeValue": 506821411.981,
+      "GrowthPercentage": 7.03,
+      "AverageGrowthPercentage": 3.79
+    },
+    {
+      "CountryName": "Belgium",
+      "Year": 2017,
+      "CurrentYearTotalTradeValue": 593113044.053,
+      "PreviousYearTotalTradeValue": 542463833.142,
+      "GrowthPercentage": 9.34,
+      "AverageGrowthPercentage": 3.79
+    },
+    {
+      "CountryName": "Belgium",
+      "Year": 2018,
+      "CurrentYearTotalTradeValue": 646756877.52,
+      "PreviousYearTotalTradeValue": 593113044.053,
+      "GrowthPercentage": 9.04,
+      "AverageGrowthPercentage": 3.79
+    },
+    {
+      "CountryName": "Belgium",
+      "Year": 2019,
+      "CurrentYearTotalTradeValue": 623491147.56,
+      "PreviousYearTotalTradeValue": 646756877.52,
+      "GrowthPercentage": -3.6,
+      "AverageGrowthPercentage": 3.79
+    },
+    {
+      "CountryName": "Belgium",
+      "Year": 2020,
+      "CurrentYearTotalTradeValue": 592261175.956,
+      "PreviousYearTotalTradeValue": 623491147.56,
+      "GrowthPercentage": -5.01,
+      "AverageGrowthPercentage": 3.79
+    },
+    {
+      "CountryName": "Belgium",
+      "Year": 2021,
+      "CurrentYearTotalTradeValue": 672936784.834,
+      "PreviousYearTotalTradeValue": 592261175.956,
+      "GrowthPercentage": 13.62,
+      "AverageGrowthPercentage": 3.79
+    },
+    {
+      "CountryName": "Belgium-Luxembourg",
+      "Year": 1989,
+      "CurrentYearTotalTradeValue": 202519478.502,
+      "PreviousYearTotalTradeValue": 178836687.612,
+      "GrowthPercentage": 13.24,
+      "AverageGrowthPercentage": 7.45
+    },
+    {
+      "CountryName": "Belgium-Luxembourg",
+      "Year": 1990,
+      "CurrentYearTotalTradeValue": 236591992.64,
+      "PreviousYearTotalTradeValue": 202519478.502,
+      "GrowthPercentage": 16.82,
+      "AverageGrowthPercentage": 7.45
+    },
+    {
+      "CountryName": "Belgium-Luxembourg",
+      "Year": 1991,
+      "CurrentYearTotalTradeValue": 237120162.787,
+      "PreviousYearTotalTradeValue": 236591992.64,
+      "GrowthPercentage": 0.22,
+      "AverageGrowthPercentage": 7.45
+    },
+    {
+      "CountryName": "Belgium-Luxembourg",
+      "Year": 1992,
+      "CurrentYearTotalTradeValue": 246919098.634,
+      "PreviousYearTotalTradeValue": 237120162.787,
+      "GrowthPercentage": 4.13,
+      "AverageGrowthPercentage": 7.45
+    },
+    {
+      "CountryName": "Belgium-Luxembourg",
+      "Year": 1993,
+      "CurrentYearTotalTradeValue": 241723603.767,
+      "PreviousYearTotalTradeValue": 246919098.634,
+      "GrowthPercentage": -2.1,
+      "AverageGrowthPercentage": 7.45
+    },
+    {
+      "CountryName": "Belgium-Luxembourg",
+      "Year": 1994,
+      "CurrentYearTotalTradeValue": 274539477.004,
+      "PreviousYearTotalTradeValue": 241723603.767,
+      "GrowthPercentage": 13.58,
+      "AverageGrowthPercentage": 7.45
+    },
+    {
+      "CountryName": "Belgium-Luxembourg",
+      "Year": 1995,
+      "CurrentYearTotalTradeValue": 336307219.145,
+      "PreviousYearTotalTradeValue": 274539477.004,
+      "GrowthPercentage": 22.5,
+      "AverageGrowthPercentage": 7.45
+    },
+    {
+      "CountryName": "Belgium-Luxembourg",
+      "Year": 1996,
+      "CurrentYearTotalTradeValue": 336687176.382,
+      "PreviousYearTotalTradeValue": 336307219.145,
+      "GrowthPercentage": 0.11,
+      "AverageGrowthPercentage": 7.45
+    },
+    {
+      "CountryName": "Belgium-Luxembourg",
+      "Year": 1997,
+      "CurrentYearTotalTradeValue": 345399588.626,
+      "PreviousYearTotalTradeValue": 336687176.382,
+      "GrowthPercentage": 2.59,
+      "AverageGrowthPercentage": 7.45
+    },
+    {
+      "CountryName": "Belgium-Luxembourg",
+      "Year": 1998,
+      "CurrentYearTotalTradeValue": 357230881.726,
+      "PreviousYearTotalTradeValue": 345399588.626,
+      "GrowthPercentage": 3.43,
+      "AverageGrowthPercentage": 7.45
+    },
+    {
+      "CountryName": "Belize",
+      "Year": 1993,
+      "CurrentYearTotalTradeValue": 217968.927,
+      "PreviousYearTotalTradeValue": 221959.159,
+      "GrowthPercentage": -1.8,
+      "AverageGrowthPercentage": 4.94
+    },
+    {
+      "CountryName": "Belize",
+      "Year": 1994,
+      "CurrentYearTotalTradeValue": 238789.591,
+      "PreviousYearTotalTradeValue": 217968.927,
+      "GrowthPercentage": 9.55,
+      "AverageGrowthPercentage": 4.94
+    },
+    {
+      "CountryName": "Belize",
+      "Year": 1995,
+      "CurrentYearTotalTradeValue": 285840.403,
+      "PreviousYearTotalTradeValue": 238789.591,
+      "GrowthPercentage": 19.7,
+      "AverageGrowthPercentage": 4.94
+    },
+    {
+      "CountryName": "Belize",
+      "Year": 1996,
+      "CurrentYearTotalTradeValue": 307101.071,
+      "PreviousYearTotalTradeValue": 285840.403,
+      "GrowthPercentage": 7.44,
+      "AverageGrowthPercentage": 4.94
+    },
+    {
+      "CountryName": "Belize",
+      "Year": 1997,
+      "CurrentYearTotalTradeValue": 317874.705,
+      "PreviousYearTotalTradeValue": 307101.071,
+      "GrowthPercentage": 3.51,
+      "AverageGrowthPercentage": 4.94
+    },
+    {
+      "CountryName": "Belize",
+      "Year": 1998,
+      "CurrentYearTotalTradeValue": 292850.249,
+      "PreviousYearTotalTradeValue": 317874.705,
+      "GrowthPercentage": -7.87,
+      "AverageGrowthPercentage": 4.94
+    },
+    {
+      "CountryName": "Belize",
+      "Year": 1999,
+      "CurrentYearTotalTradeValue": 170927.735,
+      "PreviousYearTotalTradeValue": 292850.249,
+      "GrowthPercentage": -41.63,
+      "AverageGrowthPercentage": 4.94
+    },
+    {
+      "CountryName": "Belize",
+      "Year": 2000,
+      "CurrentYearTotalTradeValue": 371054.827,
+      "PreviousYearTotalTradeValue": 170927.735,
+      "GrowthPercentage": 117.08,
+      "AverageGrowthPercentage": 4.94
+    },
+    {
+      "CountryName": "Belize",
+      "Year": 2001,
+      "CurrentYearTotalTradeValue": 363777.94,
+      "PreviousYearTotalTradeValue": 371054.827,
+      "GrowthPercentage": -1.96,
+      "AverageGrowthPercentage": 4.94
+    },
+    {
+      "CountryName": "Belize",
+      "Year": 2002,
+      "CurrentYearTotalTradeValue": 328969.409,
+      "PreviousYearTotalTradeValue": 363777.94,
+      "GrowthPercentage": -9.57,
+      "AverageGrowthPercentage": 4.94
+    },
+    {
+      "CountryName": "Belize",
+      "Year": 2003,
+      "CurrentYearTotalTradeValue": 381542.055,
+      "PreviousYearTotalTradeValue": 328969.409,
+      "GrowthPercentage": 15.98,
+      "AverageGrowthPercentage": 4.94
+    },
+    {
+      "CountryName": "Belize",
+      "Year": 2004,
+      "CurrentYearTotalTradeValue": 409353.767,
+      "PreviousYearTotalTradeValue": 381542.055,
+      "GrowthPercentage": 7.29,
+      "AverageGrowthPercentage": 4.94
+    },
+    {
+      "CountryName": "Belize",
+      "Year": 2005,
+      "CurrentYearTotalTradeValue": 403688.165,
+      "PreviousYearTotalTradeValue": 409353.767,
+      "GrowthPercentage": -1.38,
+      "AverageGrowthPercentage": 4.94
+    },
+    {
+      "CountryName": "Belize",
+      "Year": 2006,
+      "CurrentYearTotalTradeValue": 536446.184,
+      "PreviousYearTotalTradeValue": 403688.165,
+      "GrowthPercentage": 32.89,
+      "AverageGrowthPercentage": 4.94
+    },
+    {
+      "CountryName": "Belize",
+      "Year": 2007,
+      "CurrentYearTotalTradeValue": 507702.512,
+      "PreviousYearTotalTradeValue": 536446.184,
+      "GrowthPercentage": -5.36,
+      "AverageGrowthPercentage": 4.94
+    },
+    {
+      "CountryName": "Belize",
+      "Year": 2008,
+      "CurrentYearTotalTradeValue": 590115.652,
+      "PreviousYearTotalTradeValue": 507702.512,
+      "GrowthPercentage": 16.23,
+      "AverageGrowthPercentage": 4.94
+    },
+    {
+      "CountryName": "Belize",
+      "Year": 2009,
+      "CurrentYearTotalTradeValue": 499319.788,
+      "PreviousYearTotalTradeValue": 590115.652,
+      "GrowthPercentage": -15.39,
+      "AverageGrowthPercentage": 4.94
+    },
+    {
+      "CountryName": "Belize",
+      "Year": 2010,
+      "CurrentYearTotalTradeValue": 564079.062,
+      "PreviousYearTotalTradeValue": 499319.788,
+      "GrowthPercentage": 12.97,
+      "AverageGrowthPercentage": 4.94
+    },
+    {
+      "CountryName": "Belize",
+      "Year": 2011,
+      "CurrentYearTotalTradeValue": 683492.254,
+      "PreviousYearTotalTradeValue": 564079.062,
+      "GrowthPercentage": 21.17,
+      "AverageGrowthPercentage": 4.94
+    },
+    {
+      "CountryName": "Belize",
+      "Year": 2012,
+      "CurrentYearTotalTradeValue": 678565.228,
+      "PreviousYearTotalTradeValue": 683492.254,
+      "GrowthPercentage": -0.72,
+      "AverageGrowthPercentage": 4.94
+    },
+    {
+      "CountryName": "Belize",
+      "Year": 2013,
+      "CurrentYearTotalTradeValue": 668632.935,
+      "PreviousYearTotalTradeValue": 678565.228,
+      "GrowthPercentage": -1.46,
+      "AverageGrowthPercentage": 4.94
+    },
+    {
+      "CountryName": "Belize",
+      "Year": 2014,
+      "CurrentYearTotalTradeValue": 614419.068,
+      "PreviousYearTotalTradeValue": 668632.935,
+      "GrowthPercentage": -8.11,
+      "AverageGrowthPercentage": 4.94
+    },
+    {
+      "CountryName": "Belize",
+      "Year": 2015,
+      "CurrentYearTotalTradeValue": 536452.612,
+      "PreviousYearTotalTradeValue": 614419.068,
+      "GrowthPercentage": -12.69,
+      "AverageGrowthPercentage": 4.94
+    },
+    {
+      "CountryName": "Belize",
+      "Year": 2016,
+      "CurrentYearTotalTradeValue": 401726.377,
+      "PreviousYearTotalTradeValue": 536452.612,
+      "GrowthPercentage": -25.11,
+      "AverageGrowthPercentage": 4.94
+    },
+    {
+      "CountryName": "Belize",
+      "Year": 2017,
+      "CurrentYearTotalTradeValue": 445585.453,
+      "PreviousYearTotalTradeValue": 401726.377,
+      "GrowthPercentage": 10.92,
+      "AverageGrowthPercentage": 4.94
+    },
+    {
+      "CountryName": "Belize",
+      "Year": 2018,
+      "CurrentYearTotalTradeValue": 393851.969,
+      "PreviousYearTotalTradeValue": 445585.453,
+      "GrowthPercentage": -11.61,
+      "AverageGrowthPercentage": 4.94
+    },
+    {
+      "CountryName": "Belize",
+      "Year": 2019,
+      "CurrentYearTotalTradeValue": 411982.624,
+      "PreviousYearTotalTradeValue": 393851.969,
+      "GrowthPercentage": 4.6,
+      "AverageGrowthPercentage": 4.94
+    },
+    {
+      "CountryName": "Belize",
+      "Year": 2020,
+      "CurrentYearTotalTradeValue": 365499.009,
+      "PreviousYearTotalTradeValue": 411982.624,
+      "GrowthPercentage": -11.28,
+      "AverageGrowthPercentage": 4.94
+    },
+    {
+      "CountryName": "Belize",
+      "Year": 2021,
+      "CurrentYearTotalTradeValue": 437970.011,
+      "PreviousYearTotalTradeValue": 365499.009,
+      "GrowthPercentage": 19.83,
+      "AverageGrowthPercentage": 4.94
+    },
+    {
+      "CountryName": "Benin",
+      "Year": 1999,
+      "CurrentYearTotalTradeValue": 451254.434,
+      "PreviousYearTotalTradeValue": 394395.703,
+      "GrowthPercentage": 14.42,
+      "AverageGrowthPercentage": 9.81
+    },
+    {
+      "CountryName": "Benin",
+      "Year": 2000,
+      "CurrentYearTotalTradeValue": 379590.293,
+      "PreviousYearTotalTradeValue": 451254.434,
+      "GrowthPercentage": -15.88,
+      "AverageGrowthPercentage": 9.81
+    },
+    {
+      "CountryName": "Benin",
+      "Year": 2001,
+      "CurrentYearTotalTradeValue": 408330.726,
+      "PreviousYearTotalTradeValue": 379590.293,
+      "GrowthPercentage": 7.57,
+      "AverageGrowthPercentage": 9.81
+    },
+    {
+      "CountryName": "Benin",
+      "Year": 2002,
+      "CurrentYearTotalTradeValue": 483437.867,
+      "PreviousYearTotalTradeValue": 408330.726,
+      "GrowthPercentage": 18.39,
+      "AverageGrowthPercentage": 9.81
+    },
+    {
+      "CountryName": "Benin",
+      "Year": 2003,
+      "CurrentYearTotalTradeValue": 492785.513,
+      "PreviousYearTotalTradeValue": 483437.867,
+      "GrowthPercentage": 1.93,
+      "AverageGrowthPercentage": 9.81
+    },
+    {
+      "CountryName": "Benin",
+      "Year": 2004,
+      "CurrentYearTotalTradeValue": 572661.747,
+      "PreviousYearTotalTradeValue": 492785.513,
+      "GrowthPercentage": 16.21,
+      "AverageGrowthPercentage": 9.81
+    },
+    {
+      "CountryName": "Benin",
+      "Year": 2005,
+      "CurrentYearTotalTradeValue": 533481.475,
+      "PreviousYearTotalTradeValue": 572661.747,
+      "GrowthPercentage": -6.84,
+      "AverageGrowthPercentage": 9.81
+    },
+    {
+      "CountryName": "Benin",
+      "Year": 2006,
+      "CurrentYearTotalTradeValue": 449186.166,
+      "PreviousYearTotalTradeValue": 533481.475,
+      "GrowthPercentage": -15.8,
+      "AverageGrowthPercentage": 9.81
+    },
+    {
+      "CountryName": "Benin",
+      "Year": 2007,
+      "CurrentYearTotalTradeValue": 548774.787,
+      "PreviousYearTotalTradeValue": 449186.166,
+      "GrowthPercentage": 22.17,
+      "AverageGrowthPercentage": 9.81
+    },
+    {
+      "CountryName": "Benin",
+      "Year": 2008,
+      "CurrentYearTotalTradeValue": 842127.605,
+      "PreviousYearTotalTradeValue": 548774.787,
+      "GrowthPercentage": 53.46,
+      "AverageGrowthPercentage": 9.81
+    },
+    {
+      "CountryName": "Benin",
+      "Year": 2009,
+      "CurrentYearTotalTradeValue": 850695.473,
+      "PreviousYearTotalTradeValue": 842127.605,
+      "GrowthPercentage": 1.02,
+      "AverageGrowthPercentage": 9.81
+    },
+    {
+      "CountryName": "Benin",
+      "Year": 2010,
+      "CurrentYearTotalTradeValue": 796476.271,
+      "PreviousYearTotalTradeValue": 850695.473,
+      "GrowthPercentage": -6.37,
+      "AverageGrowthPercentage": 9.81
+    },
+    {
+      "CountryName": "Benin",
+      "Year": 2011,
+      "CurrentYearTotalTradeValue": 510043.742,
+      "PreviousYearTotalTradeValue": 796476.271,
+      "GrowthPercentage": -35.96,
+      "AverageGrowthPercentage": 9.81
+    },
+    {
+      "CountryName": "Benin",
+      "Year": 2012,
+      "CurrentYearTotalTradeValue": 585922.952,
+      "PreviousYearTotalTradeValue": 510043.742,
+      "GrowthPercentage": 14.88,
+      "AverageGrowthPercentage": 9.81
+    },
+    {
+      "CountryName": "Benin",
+      "Year": 2013,
+      "CurrentYearTotalTradeValue": 809060.019,
+      "PreviousYearTotalTradeValue": 585922.952,
+      "GrowthPercentage": 38.08,
+      "AverageGrowthPercentage": 9.81
+    },
+    {
+      "CountryName": "Benin",
+      "Year": 2014,
+      "CurrentYearTotalTradeValue": 951451.13,
+      "PreviousYearTotalTradeValue": 809060.019,
+      "GrowthPercentage": 17.6,
+      "AverageGrowthPercentage": 9.81
+    },
+    {
+      "CountryName": "Benin",
+      "Year": 2015,
+      "CurrentYearTotalTradeValue": 878473.081,
+      "PreviousYearTotalTradeValue": 951451.13,
+      "GrowthPercentage": -7.67,
+      "AverageGrowthPercentage": 9.81
+    },
+    {
+      "CountryName": "Benin",
+      "Year": 2016,
+      "CurrentYearTotalTradeValue": 655533.416,
+      "PreviousYearTotalTradeValue": 878473.081,
+      "GrowthPercentage": -25.38,
+      "AverageGrowthPercentage": 9.81
+    },
+    {
+      "CountryName": "Benin",
+      "Year": 2017,
+      "CurrentYearTotalTradeValue": 1318721.299,
+      "PreviousYearTotalTradeValue": 655533.416,
+      "GrowthPercentage": 101.17,
+      "AverageGrowthPercentage": 9.81
+    },
+    {
+      "CountryName": "Benin",
+      "Year": 2018,
+      "CurrentYearTotalTradeValue": 1626727.883,
+      "PreviousYearTotalTradeValue": 1318721.299,
+      "GrowthPercentage": 23.36,
+      "AverageGrowthPercentage": 9.81
+    },
+    {
+      "CountryName": "Benin",
+      "Year": 2019,
+      "CurrentYearTotalTradeValue": 1512002.404,
+      "PreviousYearTotalTradeValue": 1626727.883,
+      "GrowthPercentage": -7.05,
+      "AverageGrowthPercentage": 9.81
+    },
+    {
+      "CountryName": "Benin",
+      "Year": 2020,
+      "CurrentYearTotalTradeValue": 1500384.105,
+      "PreviousYearTotalTradeValue": 1512002.404,
+      "GrowthPercentage": -0.77,
+      "AverageGrowthPercentage": 9.81
+    },
+    {
+      "CountryName": "Benin",
+      "Year": 2021,
+      "CurrentYearTotalTradeValue": 1755598.485,
+      "PreviousYearTotalTradeValue": 1500384.105,
+      "GrowthPercentage": 17.01,
+      "AverageGrowthPercentage": 9.81
+    },
+    {
+      "CountryName": "Bermuda",
+      "Year": 1995,
+      "CurrentYearTotalTradeValue": 125858.451,
+      "PreviousYearTotalTradeValue": 131070.109,
+      "GrowthPercentage": -3.98,
+      "AverageGrowthPercentage": 18.87
+    },
+    {
+      "CountryName": "Bermuda",
+      "Year": 2013,
+      "CurrentYearTotalTradeValue": 43410.163,
+      "PreviousYearTotalTradeValue": 19248.405,
+      "GrowthPercentage": 125.53,
+      "AverageGrowthPercentage": 18.87
+    },
+    {
+      "CountryName": "Bermuda",
+      "Year": 2014,
+      "CurrentYearTotalTradeValue": 23937.003,
+      "PreviousYearTotalTradeValue": 43410.163,
+      "GrowthPercentage": -44.86,
+      "AverageGrowthPercentage": 18.87
+    },
+    {
+      "CountryName": "Bermuda",
+      "Year": 2015,
+      "CurrentYearTotalTradeValue": 17244.859,
+      "PreviousYearTotalTradeValue": 23937.003,
+      "GrowthPercentage": -27.96,
+      "AverageGrowthPercentage": 18.87
+    },
+    {
+      "CountryName": "Bermuda",
+      "Year": 2016,
+      "CurrentYearTotalTradeValue": 16634.779,
+      "PreviousYearTotalTradeValue": 17244.859,
+      "GrowthPercentage": -3.54,
+      "AverageGrowthPercentage": 18.87
+    },
+    {
+      "CountryName": "Bermuda",
+      "Year": 2017,
+      "CurrentYearTotalTradeValue": 23484.333,
+      "PreviousYearTotalTradeValue": 16634.779,
+      "GrowthPercentage": 41.18,
+      "AverageGrowthPercentage": 18.87
+    },
+    {
+      "CountryName": "Bermuda",
+      "Year": 2018,
+      "CurrentYearTotalTradeValue": 45824.847,
+      "PreviousYearTotalTradeValue": 23484.333,
+      "GrowthPercentage": 95.13,
+      "AverageGrowthPercentage": 18.87
+    },
+    {
+      "CountryName": "Bermuda",
+      "Year": 2019,
+      "CurrentYearTotalTradeValue": 53665.106,
+      "PreviousYearTotalTradeValue": 45824.847,
+      "GrowthPercentage": 17.11,
+      "AverageGrowthPercentage": 18.87
+    },
+    {
+      "CountryName": "Bermuda",
+      "Year": 2020,
+      "CurrentYearTotalTradeValue": 38207.001,
+      "PreviousYearTotalTradeValue": 53665.106,
+      "GrowthPercentage": -28.8,
+      "AverageGrowthPercentage": 18.87
+    },
+    {
+      "CountryName": "Bhutan",
+      "Year": 1994,
+      "CurrentYearTotalTradeValue": 132765.8,
+      "PreviousYearTotalTradeValue": 131640.517,
+      "GrowthPercentage": 0.85,
+      "AverageGrowthPercentage": 12.62
+    },
+    {
+      "CountryName": "Bhutan",
+      "Year": 1999,
+      "CurrentYearTotalTradeValue": 231900.104,
+      "PreviousYearTotalTradeValue": 216925.935,
+      "GrowthPercentage": 6.9,
+      "AverageGrowthPercentage": 12.62
+    },
+    {
+      "CountryName": "Bhutan",
+      "Year": 2006,
+      "CurrentYearTotalTradeValue": 827772.816,
+      "PreviousYearTotalTradeValue": 516736.58,
+      "GrowthPercentage": 60.19,
+      "AverageGrowthPercentage": 12.62
+    },
+    {
+      "CountryName": "Bhutan",
+      "Year": 2007,
+      "CurrentYearTotalTradeValue": 1349047.152,
+      "PreviousYearTotalTradeValue": 827772.816,
+      "GrowthPercentage": 62.97,
+      "AverageGrowthPercentage": 12.62
+    },
+    {
+      "CountryName": "Bhutan",
+      "Year": 2008,
+      "CurrentYearTotalTradeValue": 1042830.767,
+      "PreviousYearTotalTradeValue": 1349047.152,
+      "GrowthPercentage": -22.7,
+      "AverageGrowthPercentage": 12.62
+    },
+    {
+      "CountryName": "Bhutan",
+      "Year": 2009,
+      "CurrentYearTotalTradeValue": 991692.379,
+      "PreviousYearTotalTradeValue": 1042830.767,
+      "GrowthPercentage": -4.9,
+      "AverageGrowthPercentage": 12.62
+    },
+    {
+      "CountryName": "Bhutan",
+      "Year": 2010,
+      "CurrentYearTotalTradeValue": 826964.878,
+      "PreviousYearTotalTradeValue": 991692.379,
+      "GrowthPercentage": -16.61,
+      "AverageGrowthPercentage": 12.62
+    },
+    {
+      "CountryName": "Bhutan",
+      "Year": 2011,
+      "CurrentYearTotalTradeValue": 905925.596,
+      "PreviousYearTotalTradeValue": 826964.878,
+      "GrowthPercentage": 9.55,
+      "AverageGrowthPercentage": 12.62
+    },
+    {
+      "CountryName": "Bhutan",
+      "Year": 2012,
+      "CurrentYearTotalTradeValue": 1062454.077,
+      "PreviousYearTotalTradeValue": 905925.596,
+      "GrowthPercentage": 17.28,
+      "AverageGrowthPercentage": 12.62
+    },
+    {
+      "CountryName": "Bolivia",
+      "Year": 1993,
+      "CurrentYearTotalTradeValue": 1617875.196,
+      "PreviousYearTotalTradeValue": 1530627.603,
+      "GrowthPercentage": 5.7,
+      "AverageGrowthPercentage": 11.84
+    },
+    {
+      "CountryName": "Bolivia",
+      "Year": 1994,
+      "CurrentYearTotalTradeValue": 2248461.078,
+      "PreviousYearTotalTradeValue": 1617875.196,
+      "GrowthPercentage": 38.98,
+      "AverageGrowthPercentage": 11.84
+    },
+    {
+      "CountryName": "Bolivia",
+      "Year": 1995,
+      "CurrentYearTotalTradeValue": 2362424.106,
+      "PreviousYearTotalTradeValue": 2248461.078,
+      "GrowthPercentage": 5.07,
+      "AverageGrowthPercentage": 11.84
+    },
+    {
+      "CountryName": "Bolivia",
+      "Year": 1996,
+      "CurrentYearTotalTradeValue": 2173886.744,
+      "PreviousYearTotalTradeValue": 2362424.106,
+      "GrowthPercentage": -7.98,
+      "AverageGrowthPercentage": 11.84
+    },
+    {
+      "CountryName": "Bolivia",
+      "Year": 1997,
+      "CurrentYearTotalTradeValue": 2544195.289,
+      "PreviousYearTotalTradeValue": 2173886.744,
+      "GrowthPercentage": 17.03,
+      "AverageGrowthPercentage": 11.84
+    },
+    {
+      "CountryName": "Bolivia",
+      "Year": 1998,
+      "CurrentYearTotalTradeValue": 2646538.748,
+      "PreviousYearTotalTradeValue": 2544195.289,
+      "GrowthPercentage": 4.02,
+      "AverageGrowthPercentage": 11.84
+    },
+    {
+      "CountryName": "Bolivia",
+      "Year": 1999,
+      "CurrentYearTotalTradeValue": 2803766.908,
+      "PreviousYearTotalTradeValue": 2646538.748,
+      "GrowthPercentage": 5.94,
+      "AverageGrowthPercentage": 11.84
+    },
+    {
+      "CountryName": "Bolivia",
+      "Year": 2000,
+      "CurrentYearTotalTradeValue": 2913348.146,
+      "PreviousYearTotalTradeValue": 2803766.908,
+      "GrowthPercentage": 3.91,
+      "AverageGrowthPercentage": 11.84
+    },
+    {
+      "CountryName": "Bolivia",
+      "Year": 2001,
+      "CurrentYearTotalTradeValue": 2705786.138,
+      "PreviousYearTotalTradeValue": 2913348.146,
+      "GrowthPercentage": -7.12,
+      "AverageGrowthPercentage": 11.84
+    },
+    {
+      "CountryName": "Bolivia",
+      "Year": 2002,
+      "CurrentYearTotalTradeValue": 2743302.814,
+      "PreviousYearTotalTradeValue": 2705786.138,
+      "GrowthPercentage": 1.39,
+      "AverageGrowthPercentage": 11.84
+    },
+    {
+      "CountryName": "Bolivia",
+      "Year": 2003,
+      "CurrentYearTotalTradeValue": 3301350.148,
+      "PreviousYearTotalTradeValue": 2743302.814,
+      "GrowthPercentage": 20.34,
+      "AverageGrowthPercentage": 11.84
+    }
+]

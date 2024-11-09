@@ -1,0 +1,1502 @@
+[
+    {
+      "ReporterISO3": "EUN",
+      "ReporterName": "European Union",
+      "PartnerISO3": "WLD",
+      "TotalTradeValue": 38988484498.558
+    },
+    {
+      "ReporterISO3": "CHN",
+      "ReporterName": "China",
+      "PartnerISO3": "WLD",
+      "TotalTradeValue": 32908898124.132004
+    },
+    {
+      "ReporterISO3": "DEU",
+      "ReporterName": "Germany",
+      "PartnerISO3": "WLD",
+      "TotalTradeValue": 32055853290.958996
+    },
+    {
+      "ReporterISO3": "USA",
+      "ReporterName": "United States",
+      "PartnerISO3": "WLD",
+      "TotalTradeValue": 29643801550.221004
+    },
+    {
+      "ReporterISO3": "JPN",
+      "ReporterName": "Japan",
+      "PartnerISO3": "WLD",
+      "TotalTradeValue": 18580694643.06
+    },
+    {
+      "ReporterISO3": "FRA",
+      "ReporterName": "France",
+      "PartnerISO3": "WLD",
+      "TotalTradeValue": 12961125964.774998
+    },
+    {
+      "ReporterISO3": "ITA",
+      "ReporterName": "Italy",
+      "PartnerISO3": "WLD",
+      "TotalTradeValue": 11931240244.661003
+    },
+    {
+      "ReporterISO3": "NLD",
+      "ReporterName": "Netherlands",
+      "PartnerISO3": "WLD",
+      "TotalTradeValue": 11842585146.824001
+    },
+    {
+      "ReporterISO3": "GBR",
+      "ReporterName": "United Kingdom",
+      "PartnerISO3": "WLD",
+      "TotalTradeValue": 11747082228.628
+    },
+    {
+      "ReporterISO3": "CAN",
+      "ReporterName": "Canada",
+      "PartnerISO3": "WLD",
+      "TotalTradeValue": 10022096751.354998
+    },
+    {
+      "ReporterISO3": "KOR",
+      "ReporterName": "Korea, Rep.",
+      "PartnerISO3": "WLD",
+      "TotalTradeValue": 9838926974.652
+    },
+    {
+      "ReporterISO3": "CAN",
+      "ReporterName": "Canada",
+      "PartnerISO3": "USA",
+      "TotalTradeValue": 7834518919.1570015
+    },
+    {
+      "ReporterISO3": "EUN",
+      "ReporterName": "European Union",
+      "PartnerISO3": "USA",
+      "TotalTradeValue": 7766951144.419999
+    },
+    {
+      "ReporterISO3": "MEX",
+      "ReporterName": "Mexico",
+      "PartnerISO3": "WLD",
+      "TotalTradeValue": 7651265499.942999
+    },
+    {
+      "ReporterISO3": "SGP",
+      "ReporterName": "Singapore",
+      "PartnerISO3": "WLD",
+      "TotalTradeValue": 7409837952.623001
+    },
+    {
+      "ReporterISO3": "RUS",
+      "ReporterName": "Russian Federation",
+      "PartnerISO3": "WLD",
+      "TotalTradeValue": 7315638379.691
+    },
+    {
+      "ReporterISO3": "BEL",
+      "ReporterName": "Belgium",
+      "PartnerISO3": "WLD",
+      "TotalTradeValue": 6946842533.523
+    },
+    {
+      "ReporterISO3": "ESP",
+      "ReporterName": "Spain",
+      "PartnerISO3": "WLD",
+      "TotalTradeValue": 6399317505.412
+    },
+    {
+      "ReporterISO3": "MEX",
+      "ReporterName": "Mexico",
+      "PartnerISO3": "USA",
+      "TotalTradeValue": 6208857747.605001
+    },
+    {
+      "ReporterISO3": "OAS",
+      "ReporterName": "Other Asia, nes",
+      "PartnerISO3": "WLD",
+      "TotalTradeValue": 6137615572.846
+    },
+    {
+      "ReporterISO3": "CHN",
+      "ReporterName": "China",
+      "PartnerISO3": "USA",
+      "TotalTradeValue": 5984075556.107999
+    },
+    {
+      "ReporterISO3": "CHE",
+      "ReporterName": "Switzerland",
+      "PartnerISO3": "WLD",
+      "TotalTradeValue": 5767277288.571999
+    },
+    {
+      "ReporterISO3": "USA",
+      "ReporterName": "United States",
+      "PartnerISO3": "CAN",
+      "TotalTradeValue": 5748448804.257001
+    },
+    {
+      "ReporterISO3": "IND",
+      "ReporterName": "India",
+      "PartnerISO3": "WLD",
+      "TotalTradeValue": 4903515842.956
+    },
+    {
+      "ReporterISO3": "SAU",
+      "ReporterName": "Saudi Arabia",
+      "PartnerISO3": "WLD",
+      "TotalTradeValue": 4897577912.415001
+    },
+    {
+      "ReporterISO3": "CHN",
+      "ReporterName": "China",
+      "PartnerISO3": "HKG",
+      "TotalTradeValue": 4737490488.602
+    },
+    {
+      "ReporterISO3": "MYS",
+      "ReporterName": "Malaysia",
+      "PartnerISO3": "WLD",
+      "TotalTradeValue": 4735813757.162001
+    },
+    {
+      "ReporterISO3": "AUS",
+      "ReporterName": "Australia",
+      "PartnerISO3": "WLD",
+      "TotalTradeValue": 4543325943.701998
+    },
+    {
+      "ReporterISO3": "JPN",
+      "ReporterName": "Japan",
+      "PartnerISO3": "USA",
+      "TotalTradeValue": 4169560188.7809987
+    },
+    {
+      "ReporterISO3": "THA",
+      "ReporterName": "Thailand",
+      "PartnerISO3": "WLD",
+      "TotalTradeValue": 4061381185.7939997
+    },
+    {
+      "ReporterISO3": "SWE",
+      "ReporterName": "Sweden",
+      "PartnerISO3": "WLD",
+      "TotalTradeValue": 3970562046.266
+    },
+    {
+      "ReporterISO3": "BRA",
+      "ReporterName": "Brazil",
+      "PartnerISO3": "WLD",
+      "TotalTradeValue": 3957614154.2
+    },
+    {
+      "ReporterISO3": "USA",
+      "ReporterName": "United States",
+      "PartnerISO3": "MEX",
+      "TotalTradeValue": 3729057697.92
+    },
+    {
+      "ReporterISO3": "POL",
+      "ReporterName": "Poland",
+      "PartnerISO3": "WLD",
+      "TotalTradeValue": 3693290712.1450005
+    },
+    {
+      "ReporterISO3": "AUT",
+      "ReporterName": "Austria",
+      "PartnerISO3": "WLD",
+      "TotalTradeValue": 3453682944.460001
+    },
+    {
+      "ReporterISO3": "HKG",
+      "ReporterName": "Hong Kong, China",
+      "PartnerISO3": "WLD",
+      "TotalTradeValue": 3419892479.35
+    },
+    {
+      "ReporterISO3": "EUN",
+      "ReporterName": "European Union",
+      "PartnerISO3": "CHN",
+      "TotalTradeValue": 3181798332.5199995
+    },
+    {
+      "ReporterISO3": "IDN",
+      "ReporterName": "Indonesia",
+      "PartnerISO3": "WLD",
+      "TotalTradeValue": 3180974403.12
+    },
+    {
+      "ReporterISO3": "EUN",
+      "ReporterName": "European Union",
+      "PartnerISO3": "CHE",
+      "TotalTradeValue": 3140552904.7250004
+    },
+    {
+      "ReporterISO3": "DEU",
+      "ReporterName": "Germany",
+      "PartnerISO3": "FRA",
+      "TotalTradeValue": 3050066667.342
+    },
+    {
+      "ReporterISO3": "ARE",
+      "ReporterName": "United Arab Emirates",
+      "PartnerISO3": "WLD",
+      "TotalTradeValue": 3045594694.448
+    },
+    {
+      "ReporterISO3": "CZE",
+      "ReporterName": "Czech Republic",
+      "PartnerISO3": "WLD",
+      "TotalTradeValue": 3031020568.392999
+    },
+    {
+      "ReporterISO3": "IRL",
+      "ReporterName": "Ireland",
+      "PartnerISO3": "WLD",
+      "TotalTradeValue": 3015658890.325
+    },
+    {
+      "ReporterISO3": "TUR",
+      "ReporterName": "Turkey",
+      "PartnerISO3": "WLD",
+      "TotalTradeValue": 2862959669.9289994
+    },
+    {
+      "ReporterISO3": "NLD",
+      "ReporterName": "Netherlands",
+      "PartnerISO3": "DEU",
+      "TotalTradeValue": 2843735270.5360003
+    },
+    {
+      "ReporterISO3": "NOR",
+      "ReporterName": "Norway",
+      "PartnerISO3": "WLD",
+      "TotalTradeValue": 2780999055.741
+    },
+    {
+      "ReporterISO3": "DEU",
+      "ReporterName": "Germany",
+      "PartnerISO3": "USA",
+      "TotalTradeValue": 2668492813.523
+    },
+    {
+      "ReporterISO3": "JPN",
+      "ReporterName": "Japan",
+      "PartnerISO3": "CHN",
+      "TotalTradeValue": 2590070167.9400005
+    },
+    {
+      "ReporterISO3": "DNK",
+      "ReporterName": "Denmark",
+      "PartnerISO3": "WLD",
+      "TotalTradeValue": 2543380013.5050006
+    },
+    {
+      "ReporterISO3": "CHN",
+      "ReporterName": "China",
+      "PartnerISO3": "JPN",
+      "TotalTradeValue": 2517665140.7799997
+    },
+    {
+      "ReporterISO3": "VNM",
+      "ReporterName": "Vietnam",
+      "PartnerISO3": "WLD",
+      "TotalTradeValue": 2272943167.566
+    },
+    {
+      "ReporterISO3": "DEU",
+      "ReporterName": "Germany",
+      "PartnerISO3": "GBR",
+      "TotalTradeValue": 2230590000.1349993
+    },
+    {
+      "ReporterISO3": "KOR",
+      "ReporterName": "Korea, Rep.",
+      "PartnerISO3": "CHN",
+      "TotalTradeValue": 2124247250.3680007
+    },
+    {
+      "ReporterISO3": "DEU",
+      "ReporterName": "Germany",
+      "PartnerISO3": "NLD",
+      "TotalTradeValue": 2090736023.0160005
+    },
+    {
+      "ReporterISO3": "HUN",
+      "ReporterName": "Hungary",
+      "PartnerISO3": "WLD",
+      "TotalTradeValue": 2087696325.052
+    },
+    {
+      "ReporterISO3": "EUN",
+      "ReporterName": "European Union",
+      "PartnerISO3": "RUS",
+      "TotalTradeValue": 2078601412.6120002
+    },
+    {
+      "ReporterISO3": "SAU",
+      "ReporterName": "Saudi Arabia",
+      "PartnerISO3": "UNS",
+      "TotalTradeValue": 2064402535.959
+    },
+    {
+      "ReporterISO3": "FRA",
+      "ReporterName": "France",
+      "PartnerISO3": "DEU",
+      "TotalTradeValue": 2025027185.5170002
+    },
+    {
+      "ReporterISO3": "DEU",
+      "ReporterName": "Germany",
+      "PartnerISO3": "ITA",
+      "TotalTradeValue": 1969246278.5240002
+    },
+    {
+      "ReporterISO3": "SAU",
+      "ReporterName": "Saudi Arabia",
+      "PartnerISO3": "OAS",
+      "TotalTradeValue": 1967536388.1009996
+    },
+    {
+      "ReporterISO3": "FIN",
+      "ReporterName": "Finland",
+      "PartnerISO3": "WLD",
+      "TotalTradeValue": 1868494284.1100004
+    },
+    {
+      "ReporterISO3": "ARE",
+      "ReporterName": "United Arab Emirates",
+      "PartnerISO3": "UNS",
+      "TotalTradeValue": 1854393736.2250004
+    },
+    {
+      "ReporterISO3": "USA",
+      "ReporterName": "United States",
+      "PartnerISO3": "JPN",
+      "TotalTradeValue": 1847935627.7610004
+    },
+    {
+      "ReporterISO3": "HKG",
+      "ReporterName": "Hong Kong, China",
+      "PartnerISO3": "CHN",
+      "TotalTradeValue": 1806237104.2189994
+    },
+    {
+      "ReporterISO3": "USA",
+      "ReporterName": "United States",
+      "PartnerISO3": "CHN",
+      "TotalTradeValue": 1797447371.521
+    },
+    {
+      "ReporterISO3": "DEU",
+      "ReporterName": "Germany",
+      "PartnerISO3": "AUT",
+      "TotalTradeValue": 1669702763.565
+    },
+    {
+      "ReporterISO3": "ITA",
+      "ReporterName": "Italy",
+      "PartnerISO3": "DEU",
+      "TotalTradeValue": 1665674536.663
+    },
+    {
+      "ReporterISO3": "ZAF",
+      "ReporterName": "South Africa",
+      "PartnerISO3": "WLD",
+      "TotalTradeValue": 1608144687.907
+    },
+    {
+      "ReporterISO3": "EUN",
+      "ReporterName": "European Union",
+      "PartnerISO3": "TUR",
+      "TotalTradeValue": 1584942656.8679998
+    },
+    {
+      "ReporterISO3": "GBR",
+      "ReporterName": "United Kingdom",
+      "PartnerISO3": "USA",
+      "TotalTradeValue": 1577628483.7619998
+    },
+    {
+      "ReporterISO3": "BLX",
+      "ReporterName": "Belgium-Luxembourg",
+      "PartnerISO3": "WLD",
+      "TotalTradeValue": 1496937676.8000002
+    },
+    {
+      "ReporterISO3": "DEU",
+      "ReporterName": "Germany",
+      "PartnerISO3": "CHN",
+      "TotalTradeValue": 1496208829.0000002
+    },
+    {
+      "ReporterISO3": "CHN",
+      "ReporterName": "China",
+      "PartnerISO3": "KOR",
+      "TotalTradeValue": 1459040992.248
+    },
+    {
+      "ReporterISO3": "CHL",
+      "ReporterName": "Chile",
+      "PartnerISO3": "WLD",
+      "TotalTradeValue": 1414091833.4880002
+    },
+    {
+      "ReporterISO3": "DEU",
+      "ReporterName": "Germany",
+      "PartnerISO3": "CHE",
+      "TotalTradeValue": 1410226455.8119998
+    },
+    {
+      "ReporterISO3": "SVK",
+      "ReporterName": "Slovak Republic",
+      "PartnerISO3": "WLD",
+      "TotalTradeValue": 1404067854.729
+    },
+    {
+      "ReporterISO3": "ITA",
+      "ReporterName": "Italy",
+      "PartnerISO3": "FRA",
+      "TotalTradeValue": 1390248418.0350006
+    },
+    {
+      "ReporterISO3": "KOR",
+      "ReporterName": "Korea, Rep.",
+      "PartnerISO3": "USA",
+      "TotalTradeValue": 1377228851.3860004
+    },
+    {
+      "ReporterISO3": "PRT",
+      "ReporterName": "Portugal",
+      "PartnerISO3": "WLD",
+      "TotalTradeValue": 1359246006.2099998
+    },
+    {
+      "ReporterISO3": "EUN",
+      "ReporterName": "European Union",
+      "PartnerISO3": "JPN",
+      "TotalTradeValue": 1318282237.9350002
+    },
+    {
+      "ReporterISO3": "JPN",
+      "ReporterName": "Japan",
+      "PartnerISO3": "KOR",
+      "TotalTradeValue": 1314854787.2039998
+    },
+    {
+      "ReporterISO3": "PHL",
+      "ReporterName": "Philippines",
+      "PartnerISO3": "WLD",
+      "TotalTradeValue": 1310774081.104
+    },
+    {
+      "ReporterISO3": "ARG",
+      "ReporterName": "Argentina",
+      "PartnerISO3": "WLD",
+      "TotalTradeValue": 1303567808.247
+    },
+    {
+      "ReporterISO3": "ISR",
+      "ReporterName": "Israel",
+      "PartnerISO3": "WLD",
+      "TotalTradeValue": 1295202719.456
+    },
+    {
+      "ReporterISO3": "QAT",
+      "ReporterName": "Qatar",
+      "PartnerISO3": "WLD",
+      "TotalTradeValue": 1291403604.6180003
+    },
+    {
+      "ReporterISO3": "GBR",
+      "ReporterName": "United Kingdom",
+      "PartnerISO3": "DEU",
+      "TotalTradeValue": 1284643894.1019995
+    },
+    {
+      "ReporterISO3": "USA",
+      "ReporterName": "United States",
+      "PartnerISO3": "GBR",
+      "TotalTradeValue": 1271273105.0859997
+    },
+    {
+      "ReporterISO3": "OAS",
+      "ReporterName": "Other Asia, nes",
+      "PartnerISO3": "CHN",
+      "TotalTradeValue": 1247345330.13
+    },
+    {
+      "ReporterISO3": "BEL",
+      "ReporterName": "Belgium",
+      "PartnerISO3": "DEU",
+      "TotalTradeValue": 1235683304.579
+    },
+    {
+      "ReporterISO3": "NGA",
+      "ReporterName": "Nigeria",
+      "PartnerISO3": "WLD",
+      "TotalTradeValue": 1203791435.251
+    },
+    {
+      "ReporterISO3": "DEU",
+      "ReporterName": "Germany",
+      "PartnerISO3": "ESP",
+      "TotalTradeValue": 1187215682.143
+    },
+    {
+      "ReporterISO3": "JPN",
+      "ReporterName": "Japan",
+      "PartnerISO3": "OAS",
+      "TotalTradeValue": 1174406950.2389998
+    },
+    {
+      "ReporterISO3": "DEU",
+      "ReporterName": "Germany",
+      "PartnerISO3": "POL",
+      "TotalTradeValue": 1169026473.207
+    },
+    {
+      "ReporterISO3": "ROM",
+      "ReporterName": "Romania",
+      "PartnerISO3": "WLD",
+      "TotalTradeValue": 1161864941.691
+    },
+    {
+      "ReporterISO3": "DEU",
+      "ReporterName": "Germany",
+      "PartnerISO3": "BEL",
+      "TotalTradeValue": 1158672036.4050002
+    },
+    {
+      "ReporterISO3": "KWT",
+      "ReporterName": "Kuwait",
+      "PartnerISO3": "WLD",
+      "TotalTradeValue": 1155840628.078
+    },
+    {
+      "ReporterISO3": "CHN",
+      "ReporterName": "China",
+      "PartnerISO3": "DEU",
+      "TotalTradeValue": 1150281890.469
+    },
+    {
+      "ReporterISO3": "NLD",
+      "ReporterName": "Netherlands",
+      "PartnerISO3": "BEL",
+      "TotalTradeValue": 1133380840.6670003
+    },
+    {
+      "ReporterISO3": "EUN",
+      "ReporterName": "European Union",
+      "PartnerISO3": "NOR",
+      "TotalTradeValue": 1130992697.751
+    },
+    {
+      "ReporterISO3": "AUS",
+      "ReporterName": "Australia",
+      "PartnerISO3": "CHN",
+      "TotalTradeValue": 1120486513.908
+    },
+    {
+      "ReporterISO3": "ESP",
+      "ReporterName": "Spain",
+      "PartnerISO3": "FRA",
+      "TotalTradeValue": 1119690699.9429998
+    },
+    {
+      "ReporterISO3": "USA",
+      "ReporterName": "United States",
+      "PartnerISO3": "DEU",
+      "TotalTradeValue": 1117671654.416
+    },
+    {
+      "ReporterISO3": "BEL",
+      "ReporterName": "Belgium",
+      "PartnerISO3": "FRA",
+      "TotalTradeValue": 1112512739.2939997
+    },
+    {
+      "ReporterISO3": "FRA",
+      "ReporterName": "France",
+      "PartnerISO3": "ITA",
+      "TotalTradeValue": 1109218713.586
+    },
+    {
+      "ReporterISO3": "AUT",
+      "ReporterName": "Austria",
+      "PartnerISO3": "DEU",
+      "TotalTradeValue": 1090210901.7010002
+    },
+    {
+      "ReporterISO3": "KWT",
+      "ReporterName": "Kuwait",
+      "PartnerISO3": "UNS",
+      "TotalTradeValue": 1085834799.376
+    },
+    {
+      "ReporterISO3": "IRN",
+      "ReporterName": "Iran, Islamic Rep.",
+      "PartnerISO3": "WLD",
+      "TotalTradeValue": 1076214944.4229999
+    },
+    {
+      "ReporterISO3": "FRA",
+      "ReporterName": "France",
+      "PartnerISO3": "GBR",
+      "TotalTradeValue": 1046592566.2109998
+    },
+    {
+      "ReporterISO3": "FRA",
+      "ReporterName": "France",
+      "PartnerISO3": "ESP",
+      "TotalTradeValue": 1040750399.2049999
+    },
+    {
+      "ReporterISO3": "NLD",
+      "ReporterName": "Netherlands",
+      "PartnerISO3": "FRA",
+      "TotalTradeValue": 1033205685.2529998
+    },
+    {
+      "ReporterISO3": "UKR",
+      "ReporterName": "Ukraine",
+      "PartnerISO3": "WLD",
+      "TotalTradeValue": 1022030528.2869998
+    },
+    {
+      "ReporterISO3": "POL",
+      "ReporterName": "Poland",
+      "PartnerISO3": "DEU",
+      "TotalTradeValue": 1020799672.74
+    },
+    {
+      "ReporterISO3": "KAZ",
+      "ReporterName": "Kazakhstan",
+      "PartnerISO3": "WLD",
+      "TotalTradeValue": 1015501567.5070001
+    },
+    {
+      "ReporterISO3": "JPN",
+      "ReporterName": "Japan",
+      "PartnerISO3": "HKG",
+      "TotalTradeValue": 1013093652.795
+    },
+    {
+      "ReporterISO3": "USA",
+      "ReporterName": "United States",
+      "PartnerISO3": "KOR",
+      "TotalTradeValue": 1009404304.3900001
+    },
+    {
+      "ReporterISO3": "CHE",
+      "ReporterName": "Switzerland",
+      "PartnerISO3": "DEU",
+      "TotalTradeValue": 1002537464.7150002
+    },
+    {
+      "ReporterISO3": "CZE",
+      "ReporterName": "Czech Republic",
+      "PartnerISO3": "DEU",
+      "TotalTradeValue": 988867165.806
+    },
+    {
+      "ReporterISO3": "NLD",
+      "ReporterName": "Netherlands",
+      "PartnerISO3": "GBR",
+      "TotalTradeValue": 974036323.42
+    },
+    {
+      "ReporterISO3": "OAS",
+      "ReporterName": "Other Asia, nes",
+      "PartnerISO3": "USA",
+      "TotalTradeValue": 970078056.0230001
+    },
+    {
+      "ReporterISO3": "CHN",
+      "ReporterName": "China",
+      "PartnerISO3": "NLD",
+      "TotalTradeValue": 966137553.7429998
+    },
+    {
+      "ReporterISO3": "GBR",
+      "ReporterName": "United Kingdom",
+      "PartnerISO3": "FRA",
+      "TotalTradeValue": 956301662.5949999
+    },
+    {
+      "ReporterISO3": "OAS",
+      "ReporterName": "Other Asia, nes",
+      "PartnerISO3": "HKG",
+      "TotalTradeValue": 941875163.603
+    },
+    {
+      "ReporterISO3": "SGP",
+      "ReporterName": "Singapore",
+      "PartnerISO3": "MYS",
+      "TotalTradeValue": 937949999.194
+    },
+    {
+      "ReporterISO3": "ITA",
+      "ReporterName": "Italy",
+      "PartnerISO3": "USA",
+      "TotalTradeValue": 928989164.7099999
+    },
+    {
+      "ReporterISO3": "VEN",
+      "ReporterName": "Venezuela",
+      "PartnerISO3": "WLD",
+      "TotalTradeValue": 924234792.9929999
+    },
+    {
+      "ReporterISO3": "DZA",
+      "ReporterName": "Algeria",
+      "PartnerISO3": "WLD",
+      "TotalTradeValue": 917271082.2970002
+    },
+    {
+      "ReporterISO3": "FRA",
+      "ReporterName": "France",
+      "PartnerISO3": "USA",
+      "TotalTradeValue": 892804197.6580002
+    },
+    {
+      "ReporterISO3": "USA",
+      "ReporterName": "United States",
+      "PartnerISO3": "NLD",
+      "TotalTradeValue": 864193045.6830002
+    },
+    {
+      "ReporterISO3": "EUN",
+      "ReporterName": "European Union",
+      "PartnerISO3": "KOR",
+      "TotalTradeValue": 861716699.7250004
+    },
+    {
+      "ReporterISO3": "BEL",
+      "ReporterName": "Belgium",
+      "PartnerISO3": "NLD",
+      "TotalTradeValue": 837805884.784
+    },
+    {
+      "ReporterISO3": "GBR",
+      "ReporterName": "United Kingdom",
+      "PartnerISO3": "NLD",
+      "TotalTradeValue": 829976067.985
+    },
+    {
+      "ReporterISO3": "EUN",
+      "ReporterName": "European Union",
+      "PartnerISO3": "UNS",
+      "TotalTradeValue": 826662556.986
+    },
+    {
+      "ReporterISO3": "DEU",
+      "ReporterName": "Germany",
+      "PartnerISO3": "CZE",
+      "TotalTradeValue": 826589276.251
+    },
+    {
+      "ReporterISO3": "CHN",
+      "ReporterName": "China",
+      "PartnerISO3": "GBR",
+      "TotalTradeValue": 814770492.488
+    },
+    {
+      "ReporterISO3": "EUN",
+      "ReporterName": "European Union",
+      "PartnerISO3": "ARE",
+      "TotalTradeValue": 812369800.7569999
+    },
+    {
+      "ReporterISO3": "EUN",
+      "ReporterName": "European Union",
+      "PartnerISO3": "IND",
+      "TotalTradeValue": 809322761.8119998
+    },
+    {
+      "ReporterISO3": "RUS",
+      "ReporterName": "Russian Federation",
+      "PartnerISO3": "NLD",
+      "TotalTradeValue": 801363474.447
+    },
+    {
+      "ReporterISO3": "SGP",
+      "ReporterName": "Singapore",
+      "PartnerISO3": "HKG",
+      "TotalTradeValue": 787708607.2149998
+    },
+    {
+      "ReporterISO3": "COL",
+      "ReporterName": "Colombia",
+      "PartnerISO3": "WLD",
+      "TotalTradeValue": 784250615.383
+    },
+    {
+      "ReporterISO3": "NZL",
+      "ReporterName": "New Zealand",
+      "PartnerISO3": "WLD",
+      "TotalTradeValue": 777914961.0340002
+    },
+    {
+      "ReporterISO3": "CHN",
+      "ReporterName": "China",
+      "PartnerISO3": "IND",
+      "TotalTradeValue": 774757676.5500002
+    },
+    {
+      "ReporterISO3": "EUN",
+      "ReporterName": "European Union",
+      "PartnerISO3": "CAN",
+      "TotalTradeValue": 773477689.991
+    },
+    {
+      "ReporterISO3": "CHN",
+      "ReporterName": "China",
+      "PartnerISO3": "VNM",
+      "TotalTradeValue": 767992356.7109998
+    },
+    {
+      "ReporterISO3": "AUS",
+      "ReporterName": "Australia",
+      "PartnerISO3": "JPN",
+      "TotalTradeValue": 766858271.8290001
+    },
+    {
+      "ReporterISO3": "IRQ",
+      "ReporterName": "Iraq",
+      "PartnerISO3": "WLD",
+      "TotalTradeValue": 760474621.391
+    },
+    {
+      "ReporterISO3": "FRA",
+      "ReporterName": "France",
+      "PartnerISO3": "BEL",
+      "TotalTradeValue": 757112049.809
+    },
+    {
+      "ReporterISO3": "IND",
+      "ReporterName": "India",
+      "PartnerISO3": "USA",
+      "TotalTradeValue": 739830058.495
+    },
+    {
+      "ReporterISO3": "SGP",
+      "ReporterName": "Singapore",
+      "PartnerISO3": "CHN",
+      "TotalTradeValue": 732257802.7509999
+    },
+    {
+      "ReporterISO3": "ESP",
+      "ReporterName": "Spain",
+      "PartnerISO3": "DEU",
+      "TotalTradeValue": 730596490.2280002
+    },
+    {
+      "ReporterISO3": "GBR",
+      "ReporterName": "United Kingdom",
+      "PartnerISO3": "IRL",
+      "TotalTradeValue": 729032997.3340001
+    },
+    {
+      "ReporterISO3": "JPN",
+      "ReporterName": "Japan",
+      "PartnerISO3": "THA",
+      "TotalTradeValue": 727236300.0350001
+    },
+    {
+      "ReporterISO3": "MYS",
+      "ReporterName": "Malaysia",
+      "PartnerISO3": "SGP",
+      "TotalTradeValue": 718009446.1169997
+    },
+    {
+      "ReporterISO3": "EUN",
+      "ReporterName": "European Union",
+      "PartnerISO3": "HKG",
+      "TotalTradeValue": 715631006.8159999
+    },
+    {
+      "ReporterISO3": "KOR",
+      "ReporterName": "Korea, Rep.",
+      "PartnerISO3": "JPN",
+      "TotalTradeValue": 714038644.4539999
+    },
+    {
+      "ReporterISO3": "EUN",
+      "ReporterName": "European Union",
+      "PartnerISO3": "BRA",
+      "TotalTradeValue": 710844612.2739999
+    },
+    {
+      "ReporterISO3": "DEU",
+      "ReporterName": "Germany",
+      "PartnerISO3": "RUS",
+      "TotalTradeValue": 708671617.538
+    },
+    {
+      "ReporterISO3": "SGP",
+      "ReporterName": "Singapore",
+      "PartnerISO3": "USA",
+      "TotalTradeValue": 707820831.6210002
+    },
+    {
+      "ReporterISO3": "EUN",
+      "ReporterName": "European Union",
+      "PartnerISO3": "AUS",
+      "TotalTradeValue": 707563532.2969999
+    },
+    {
+      "ReporterISO3": "GRC",
+      "ReporterName": "Greece",
+      "PartnerISO3": "WLD",
+      "TotalTradeValue": 706613613.5199999
+    },
+    {
+      "ReporterISO3": "CHN",
+      "ReporterName": "China",
+      "PartnerISO3": "SGP",
+      "TotalTradeValue": 706266425.308
+    },
+    {
+      "ReporterISO3": "USA",
+      "ReporterName": "United States",
+      "PartnerISO3": "FRA",
+      "TotalTradeValue": 705854602.4309999
+    },
+    {
+      "ReporterISO3": "ITA",
+      "ReporterName": "Italy",
+      "PartnerISO3": "GBR",
+      "TotalTradeValue": 689464281.033
+    },
+    {
+      "ReporterISO3": "IRQ",
+      "ReporterName": "Iraq",
+      "PartnerISO3": "UNS",
+      "TotalTradeValue": 689338258.622
+    },
+    {
+      "ReporterISO3": "USA",
+      "ReporterName": "United States",
+      "PartnerISO3": "OAS",
+      "TotalTradeValue": 672524654.5949998
+    },
+    {
+      "ReporterISO3": "CHE",
+      "ReporterName": "Switzerland",
+      "PartnerISO3": "USA",
+      "TotalTradeValue": 670240308.3439999
+    },
+    {
+      "ReporterISO3": "USA",
+      "ReporterName": "United States",
+      "PartnerISO3": "BRA",
+      "TotalTradeValue": 669058634.913
+    },
+    {
+      "ReporterISO3": "PER",
+      "ReporterName": "Peru",
+      "PartnerISO3": "WLD",
+      "TotalTradeValue": 667179818.434
+    },
+    {
+      "ReporterISO3": "ITA",
+      "ReporterName": "Italy",
+      "PartnerISO3": "ESP",
+      "TotalTradeValue": 665988979.6230001
+    },
+    {
+      "ReporterISO3": "DEU",
+      "ReporterName": "Germany",
+      "PartnerISO3": "SWE",
+      "TotalTradeValue": 664219952.311
+    },
+    {
+      "ReporterISO3": "EUN",
+      "ReporterName": "European Union",
+      "PartnerISO3": "MEX",
+      "TotalTradeValue": 658135861.717
+    },
+    {
+      "ReporterISO3": "NOR",
+      "ReporterName": "Norway",
+      "PartnerISO3": "GBR",
+      "TotalTradeValue": 650066791.2380002
+    },
+    {
+      "ReporterISO3": "CHN",
+      "ReporterName": "China",
+      "PartnerISO3": "OAS",
+      "TotalTradeValue": 649347392.252
+    },
+    {
+      "ReporterISO3": "EUN",
+      "ReporterName": "European Union",
+      "PartnerISO3": "SGP",
+      "TotalTradeValue": 644842389.3589998
+    },
+    {
+      "ReporterISO3": "JPN",
+      "ReporterName": "Japan",
+      "PartnerISO3": "DEU",
+      "TotalTradeValue": 642960880.6270002
+    },
+    {
+      "ReporterISO3": "IRL",
+      "ReporterName": "Ireland",
+      "PartnerISO3": "USA",
+      "TotalTradeValue": 638398222.8289999
+    },
+    {
+      "ReporterISO3": "JPN",
+      "ReporterName": "Japan",
+      "PartnerISO3": "SGP",
+      "TotalTradeValue": 635656141.474
+    },
+    {
+      "ReporterISO3": "USA",
+      "ReporterName": "United States",
+      "PartnerISO3": "SGP",
+      "TotalTradeValue": 628532112.9580001
+    },
+    {
+      "ReporterISO3": "EUN",
+      "ReporterName": "European Union",
+      "PartnerISO3": "SAU",
+      "TotalTradeValue": 626800275.4779999
+    },
+    {
+      "ReporterISO3": "CHN",
+      "ReporterName": "China",
+      "PartnerISO3": "RUS",
+      "TotalTradeValue": 625938292.759
+    },
+    {
+      "ReporterISO3": "EUN",
+      "ReporterName": "European Union",
+      "PartnerISO3": "GBR",
+      "TotalTradeValue": 618745069.423
+    },
+    {
+      "ReporterISO3": "MYS",
+      "ReporterName": "Malaysia",
+      "PartnerISO3": "USA",
+      "TotalTradeValue": 616999683.6279999
+    },
+    {
+      "ReporterISO3": "SVN",
+      "ReporterName": "Slovenia",
+      "PartnerISO3": "WLD",
+      "TotalTradeValue": 613508748.4160001
+    },
+    {
+      "ReporterISO3": "BRA",
+      "ReporterName": "Brazil",
+      "PartnerISO3": "CHN",
+      "TotalTradeValue": 602974631.683
+    },
+    {
+      "ReporterISO3": "KOR",
+      "ReporterName": "Korea, Rep.",
+      "PartnerISO3": "HKG",
+      "TotalTradeValue": 597357365.622
+    },
+    {
+      "ReporterISO3": "HUN",
+      "ReporterName": "Hungary",
+      "PartnerISO3": "DEU",
+      "TotalTradeValue": 584976724.174
+    },
+    {
+      "ReporterISO3": "AGO",
+      "ReporterName": "Angola",
+      "PartnerISO3": "WLD",
+      "TotalTradeValue": 582227965.389
+    },
+    {
+      "ReporterISO3": "CHN",
+      "ReporterName": "China",
+      "PartnerISO3": "MYS",
+      "TotalTradeValue": 576880941.7299998
+    },
+    {
+      "ReporterISO3": "NLD",
+      "ReporterName": "Netherlands",
+      "PartnerISO3": "ITA",
+      "TotalTradeValue": 575788685.4349998
+    },
+    {
+      "ReporterISO3": "BLR",
+      "ReporterName": "Belarus",
+      "PartnerISO3": "WLD",
+      "TotalTradeValue": 574577621.492
+    },
+    {
+      "ReporterISO3": "CHN",
+      "ReporterName": "China",
+      "PartnerISO3": "AUS",
+      "TotalTradeValue": 569620493.9599998
+    },
+    {
+      "ReporterISO3": "BRA",
+      "ReporterName": "Brazil",
+      "PartnerISO3": "USA",
+      "TotalTradeValue": 569539410.831
+    },
+    {
+      "ReporterISO3": "OMN",
+      "ReporterName": "Oman",
+      "PartnerISO3": "WLD",
+      "TotalTradeValue": 566529836.063
+    },
+    {
+      "ReporterISO3": "RUS",
+      "ReporterName": "Russian Federation",
+      "PartnerISO3": "CHN",
+      "TotalTradeValue": 558231852.7859999
+    },
+    {
+      "ReporterISO3": "SGP",
+      "ReporterName": "Singapore",
+      "PartnerISO3": "IDN",
+      "TotalTradeValue": 546977977.174
+    },
+    {
+      "ReporterISO3": "FRA",
+      "ReporterName": "France",
+      "PartnerISO3": "NLD",
+      "TotalTradeValue": 543878459.3050001
+    },
+    {
+      "ReporterISO3": "IDN",
+      "ReporterName": "Indonesia",
+      "PartnerISO3": "JPN",
+      "TotalTradeValue": 540699021.899
+    },
+    {
+      "ReporterISO3": "THA",
+      "ReporterName": "Thailand",
+      "PartnerISO3": "USA",
+      "TotalTradeValue": 539627850.629
+    },
+    {
+      "ReporterISO3": "ESP",
+      "ReporterName": "Spain",
+      "PartnerISO3": "ITA",
+      "TotalTradeValue": 538125137.15
+    },
+    {
+      "ReporterISO3": "EUN",
+      "ReporterName": "European Union",
+      "PartnerISO3": "ZAF",
+      "TotalTradeValue": 537518709.8889998
+    },
+    {
+      "ReporterISO3": "DEU",
+      "ReporterName": "Germany",
+      "PartnerISO3": "JPN",
+      "TotalTradeValue": 534338516.408
+    },
+    {
+      "ReporterISO3": "USA",
+      "ReporterName": "United States",
+      "PartnerISO3": "AUS",
+      "TotalTradeValue": 532887627.25400007
+    },
+    {
+      "ReporterISO3": "NLD",
+      "ReporterName": "Netherlands",
+      "PartnerISO3": "USA",
+      "TotalTradeValue": 530604102.91499996
+    },
+    {
+      "ReporterISO3": "ITA",
+      "ReporterName": "Italy",
+      "PartnerISO3": "CHE",
+      "TotalTradeValue": 529618991.90199995
+    },
+    {
+      "ReporterISO3": "DEU",
+      "ReporterName": "Germany",
+      "PartnerISO3": "HUN",
+      "TotalTradeValue": 525388082.4829999
+    },
+    {
+      "ReporterISO3": "ESP",
+      "ReporterName": "Spain",
+      "PartnerISO3": "PRT",
+      "TotalTradeValue": 524873816.6869999
+    },
+    {
+      "ReporterISO3": "BEL",
+      "ReporterName": "Belgium",
+      "PartnerISO3": "GBR",
+      "TotalTradeValue": 523832713.947
+    },
+    {
+      "ReporterISO3": "USA",
+      "ReporterName": "United States",
+      "PartnerISO3": "HKG",
+      "TotalTradeValue": 503429980.91700006
+    },
+    {
+      "ReporterISO3": "IRL",
+      "ReporterName": "Ireland",
+      "PartnerISO3": "GBR",
+      "TotalTradeValue": 503387791.4930001
+    },
+    {
+      "ReporterISO3": "LTU",
+      "ReporterName": "Lithuania",
+      "PartnerISO3": "WLD",
+      "TotalTradeValue": 497844932.33
+    },
+    {
+      "ReporterISO3": "USA",
+      "ReporterName": "United States",
+      "PartnerISO3": "BEL",
+      "TotalTradeValue": 497828883.75100005
+    },
+    {
+      "ReporterISO3": "DEU",
+      "ReporterName": "Germany",
+      "PartnerISO3": "DNK",
+      "TotalTradeValue": 497651726.4440001
+    },
+    {
+      "ReporterISO3": "DEU",
+      "ReporterName": "Germany",
+      "PartnerISO3": "TUR",
+      "TotalTradeValue": 497581881.89900005
+    },
+    {
+      "ReporterISO3": "MYS",
+      "ReporterName": "Malaysia",
+      "PartnerISO3": "CHN",
+      "TotalTradeValue": 492505088.762
+    },
+    {
+      "ReporterISO3": "PAK",
+      "ReporterName": "Pakistan",
+      "PartnerISO3": "WLD",
+      "TotalTradeValue": 489015071.4599999
+    },
+    {
+      "ReporterISO3": "CHN",
+      "ReporterName": "China",
+      "PartnerISO3": "IDN",
+      "TotalTradeValue": 484945254.1469999
+    },
+    {
+      "ReporterISO3": "GBR",
+      "ReporterName": "United Kingdom",
+      "PartnerISO3": "CHE",
+      "TotalTradeValue": 482800907.86399996
+    },
+    {
+      "ReporterISO3": "CHN",
+      "ReporterName": "China",
+      "PartnerISO3": "THA",
+      "TotalTradeValue": 482506568.4149999
+    },
+    {
+      "ReporterISO3": "EGY",
+      "ReporterName": "Egypt, Arab Rep.",
+      "PartnerISO3": "WLD",
+      "TotalTradeValue": 480888128.929
+    },
+    {
+      "ReporterISO3": "EUN",
+      "ReporterName": "European Union",
+      "PartnerISO3": "UKR",
+      "TotalTradeValue": 473956387.523
+    },
+    {
+      "ReporterISO3": "ESP",
+      "ReporterName": "Spain",
+      "PartnerISO3": "GBR",
+      "TotalTradeValue": 470676059.22800004
+    },
+    {
+      "ReporterISO3": "IND",
+      "ReporterName": "India",
+      "PartnerISO3": "ARE",
+      "TotalTradeValue": 469097400.2559999
+    },
+    {
+      "ReporterISO3": "OAS",
+      "ReporterName": "Other Asia, nes",
+      "PartnerISO3": "JPN",
+      "TotalTradeValue": 469075364.4299999
+    },
+    {
+      "ReporterISO3": "CHN",
+      "ReporterName": "China",
+      "PartnerISO3": "ITA",
+      "TotalTradeValue": 467870427.01799995
+    },
+    {
+      "ReporterISO3": "MYS",
+      "ReporterName": "Malaysia",
+      "PartnerISO3": "JPN",
+      "TotalTradeValue": 465343837.15300006
+    },
+    {
+      "ReporterISO3": "VNM",
+      "ReporterName": "Vietnam",
+      "PartnerISO3": "USA",
+      "TotalTradeValue": 464658864.78
+    },
+    {
+      "ReporterISO3": "THA",
+      "ReporterName": "Thailand",
+      "PartnerISO3": "JPN",
+      "TotalTradeValue": 461094860.387
+    },
+    {
+      "ReporterISO3": "CHN",
+      "ReporterName": "China",
+      "PartnerISO3": "CAN",
+      "TotalTradeValue": 460872336.84999996
+    },
+    {
+      "ReporterISO3": "CHN",
+      "ReporterName": "China",
+      "PartnerISO3": "FRA",
+      "TotalTradeValue": 458226526.182
+    },
+    {
+      "ReporterISO3": "BGR",
+      "ReporterName": "Bulgaria",
+      "PartnerISO3": "WLD",
+      "TotalTradeValue": 453187879.86600006
+    },
+    {
+      "ReporterISO3": "CHN",
+      "ReporterName": "China",
+      "PartnerISO3": "ARE",
+      "TotalTradeValue": 449167648.07599986
+    },
+    {
+      "ReporterISO3": "RUS",
+      "ReporterName": "Russian Federation",
+      "PartnerISO3": "DEU",
+      "TotalTradeValue": 444934616.428
+    },
+    {
+      "ReporterISO3": "JPN",
+      "ReporterName": "Japan",
+      "PartnerISO3": "GBR",
+      "TotalTradeValue": 444633823.981
+    },
+    {
+      "ReporterISO3": "CHN",
+      "ReporterName": "China",
+      "PartnerISO3": "MEX",
+      "TotalTradeValue": 437298494.93900007
+    },
+    {
+      "ReporterISO3": "EUN",
+      "ReporterName": "European Union",
+      "PartnerISO3": "ISR",
+      "TotalTradeValue": 436889031.0899999
+    },
+    {
+      "ReporterISO3": "ARE",
+      "ReporterName": "United Arab Emirates",
+      "PartnerISO3": "OAS",
+      "TotalTradeValue": 434576248.43299997
+    },
+    {
+      "ReporterISO3": "GBR",
+      "ReporterName": "United Kingdom",
+      "PartnerISO3": "ITA",
+      "TotalTradeValue": 434534146.041
+    },
+    {
+      "ReporterISO3": "GBR",
+      "ReporterName": "United Kingdom",
+      "PartnerISO3": "BEL",
+      "TotalTradeValue": 433694644.3689999
+    },
+    {
+      "ReporterISO3": "EUN",
+      "ReporterName": "European Union",
+      "PartnerISO3": "OAS",
+      "TotalTradeValue": 430641090.589
+    },
+    {
+      "ReporterISO3": "FRA",
+      "ReporterName": "France",
+      "PartnerISO3": "CHE",
+      "TotalTradeValue": 426121856.14299995
+    },
+    {
+      "ReporterISO3": "RUS",
+      "ReporterName": "Russian Federation",
+      "PartnerISO3": "UNS",
+      "TotalTradeValue": 425606504.829
+    },
+    {
+      "ReporterISO3": "GBR",
+      "ReporterName": "United Kingdom",
+      "PartnerISO3": "ESP",
+      "TotalTradeValue": 423617994.60800004
+    },
+    {
+      "ReporterISO3": "JPN",
+      "ReporterName": "Japan",
+      "PartnerISO3": "MYS",
+      "TotalTradeValue": 423139631.93000007
+    },
+    {
+      "ReporterISO3": "SWE",
+      "ReporterName": "Sweden",
+      "PartnerISO3": "DEU",
+      "TotalTradeValue": 421162724.7280001
+    },
+    {
+      "ReporterISO3": "CHN",
+      "ReporterName": "China",
+      "PartnerISO3": "BRA",
+      "TotalTradeValue": 414537014.0199999
+    },
+    {
+      "ReporterISO3": "MAR",
+      "ReporterName": "Morocco",
+      "PartnerISO3": "WLD",
+      "TotalTradeValue": 414424917.76899993
+    },
+    {
+      "ReporterISO3": "CHE",
+      "ReporterName": "Switzerland",
+      "PartnerISO3": "FRA",
+      "TotalTradeValue": 412716639.99200004
+    },
+    {
+      "ReporterISO3": "RUS",
+      "ReporterName": "Russian Federation",
+      "PartnerISO3": "ITA",
+      "TotalTradeValue": 411547236.95500004
+    },
+    {
+      "ReporterISO3": "BEL",
+      "ReporterName": "Belgium",
+      "PartnerISO3": "USA",
+      "TotalTradeValue": 408478898.35499996
+    },
+    {
+      "ReporterISO3": "EUN",
+      "ReporterName": "European Union",
+      "PartnerISO3": "MAR",
+      "TotalTradeValue": 406194510.554
+    },
+    {
+      "ReporterISO3": "DNK",
+      "ReporterName": "Denmark",
+      "PartnerISO3": "DEU",
+      "TotalTradeValue": 405929718.6380001
+    }
+]

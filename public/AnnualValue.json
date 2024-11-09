@@ -1,0 +1,4616 @@
+[
+  {
+    "ReporterISO3": "ABW",
+    "ReporterName": "Aruba",
+    "Year": 2000,
+    "AnnualTradeValue": 345998.182
+  },
+  {
+    "ReporterISO3": "ABW",
+    "ReporterName": "Aruba",
+    "Year": 2001,
+    "AnnualTradeValue": 297712.2830000001
+  },
+  {
+    "ReporterISO3": "ABW",
+    "ReporterName": "Aruba",
+    "Year": 2002,
+    "AnnualTradeValue": 256517.72499999995
+  },
+  {
+    "ReporterISO3": "ABW",
+    "ReporterName": "Aruba",
+    "Year": 2003,
+    "AnnualTradeValue": 164381.00300000003
+  },
+  {
+    "ReporterISO3": "ABW",
+    "ReporterName": "Aruba",
+    "Year": 2004,
+    "AnnualTradeValue": 159364.052
+  },
+  {
+    "ReporterISO3": "ABW",
+    "ReporterName": "Aruba",
+    "Year": 2005,
+    "AnnualTradeValue": 48593.349
+  },
+  {
+    "ReporterISO3": "ABW",
+    "ReporterName": "Aruba",
+    "Year": 2006,
+    "AnnualTradeValue": 217929.60399999988
+  },
+  {
+    "ReporterISO3": "ABW",
+    "ReporterName": "Aruba",
+    "Year": 2007,
+    "AnnualTradeValue": 195785.506
+  },
+  {
+    "ReporterISO3": "ABW",
+    "ReporterName": "Aruba",
+    "Year": 2008,
+    "AnnualTradeValue": 201738.64500000008
+  },
+  {
+    "ReporterISO3": "ABW",
+    "ReporterName": "Aruba",
+    "Year": 2009,
+    "AnnualTradeValue": 271494.15799999994
+  },
+  {
+    "ReporterISO3": "ABW",
+    "ReporterName": "Aruba",
+    "Year": 2010,
+    "AnnualTradeValue": 249046.436
+  },
+  {
+    "ReporterISO3": "ABW",
+    "ReporterName": "Aruba",
+    "Year": 2011,
+    "AnnualTradeValue": 302719.2670000001
+  },
+  {
+    "ReporterISO3": "ABW",
+    "ReporterName": "Aruba",
+    "Year": 2012,
+    "AnnualTradeValue": 346121.66599999997
+  },
+  {
+    "ReporterISO3": "ABW",
+    "ReporterName": "Aruba",
+    "Year": 2013,
+    "AnnualTradeValue": 335522.54000000004
+  },
+  {
+    "ReporterISO3": "ABW",
+    "ReporterName": "Aruba",
+    "Year": 2014,
+    "AnnualTradeValue": 232428.52
+  },
+  {
+    "ReporterISO3": "ABW",
+    "ReporterName": "Aruba",
+    "Year": 2015,
+    "AnnualTradeValue": 159764.40999999997
+  },
+  {
+    "ReporterISO3": "ABW",
+    "ReporterName": "Aruba",
+    "Year": 2016,
+    "AnnualTradeValue": 190792.98200000002
+  },
+  {
+    "ReporterISO3": "ABW",
+    "ReporterName": "Aruba",
+    "Year": 2017,
+    "AnnualTradeValue": 178158.69300000003
+  },
+  {
+    "ReporterISO3": "ABW",
+    "ReporterName": "Aruba",
+    "Year": 2018,
+    "AnnualTradeValue": 139525.475
+  },
+  {
+    "ReporterISO3": "ABW",
+    "ReporterName": "Aruba",
+    "Year": 2019,
+    "AnnualTradeValue": 167254.1
+  },
+  {
+    "ReporterISO3": "ABW",
+    "ReporterName": "Aruba",
+    "Year": 2020,
+    "AnnualTradeValue": 131861.794
+  },
+  {
+    "ReporterISO3": "ABW",
+    "ReporterName": "Aruba",
+    "Year": 2021,
+    "AnnualTradeValue": 176694.017
+  },
+  {
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "Year": 2008,
+    "AnnualTradeValue": 1080131.188
+  },
+  {
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "Year": 2009,
+    "AnnualTradeValue": 806882.0120000002
+  },
+  {
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "Year": 2010,
+    "AnnualTradeValue": 776967.2740000001
+  },
+  {
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "Year": 2011,
+    "AnnualTradeValue": 751701.87
+  },
+  {
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "Year": 2012,
+    "AnnualTradeValue": 857805.4199999999
+  },
+  {
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "Year": 2013,
+    "AnnualTradeValue": 1029945.966
+  },
+  {
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "Year": 2014,
+    "AnnualTradeValue": 1141068.014
+  },
+  {
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "Year": 2015,
+    "AnnualTradeValue": 1142809.9360000002
+  },
+  {
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "Year": 2016,
+    "AnnualTradeValue": 1192910.671
+  },
+  {
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "Year": 2017,
+    "AnnualTradeValue": 1663853.5449999997
+  },
+  {
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "Year": 2018,
+    "AnnualTradeValue": 1750482.796
+  },
+  {
+    "ReporterISO3": "AFG",
+    "ReporterName": "Afghanistan",
+    "Year": 2019,
+    "AnnualTradeValue": 1727666.631
+  },
+  {
+    "ReporterISO3": "AGO",
+    "ReporterName": "Angola",
+    "Year": 1990,
+    "AnnualTradeValue": 7820656.016
+  },
+  {
+    "ReporterISO3": "AGO",
+    "ReporterName": "Angola",
+    "Year": 1991,
+    "AnnualTradeValue": 6819340.741000001
+  },
+  {
+    "ReporterISO3": "AGO",
+    "ReporterName": "Angola",
+    "Year": 2007,
+    "AnnualTradeValue": 88355566.14299998
+  },
+  {
+    "ReporterISO3": "AGO",
+    "ReporterName": "Angola",
+    "Year": 2009,
+    "AnnualTradeValue": 81278823.46200004
+  },
+  {
+    "ReporterISO3": "AGO",
+    "ReporterName": "Angola",
+    "Year": 2010,
+    "AnnualTradeValue": 105224229.521
+  },
+  {
+    "ReporterISO3": "AGO",
+    "ReporterName": "Angola",
+    "Year": 2011,
+    "AnnualTradeValue": 132854780.44099995
+  },
+  {
+    "ReporterISO3": "AGO",
+    "ReporterName": "Angola",
+    "Year": 2012,
+    "AnnualTradeValue": 141726152.829
+  },
+  {
+    "ReporterISO3": "AGO",
+    "ReporterName": "Angola",
+    "Year": 2013,
+    "AnnualTradeValue": 135425053.09100002
+  },
+  {
+    "ReporterISO3": "AGO",
+    "ReporterName": "Angola",
+    "Year": 2014,
+    "AnnualTradeValue": 117344738.38
+  },
+  {
+    "ReporterISO3": "AGO",
+    "ReporterName": "Angola",
+    "Year": 2015,
+    "AnnualTradeValue": 67849874.959
+  },
+  {
+    "ReporterISO3": "AGO",
+    "ReporterName": "Angola",
+    "Year": 2016,
+    "AnnualTradeValue": 56114999.048999995
+  },
+  {
+    "ReporterISO3": "AGO",
+    "ReporterName": "Angola",
+    "Year": 2017,
+    "AnnualTradeValue": 69809762.21999992
+  },
+  {
+    "ReporterISO3": "AGO",
+    "ReporterName": "Angola",
+    "Year": 2018,
+    "AnnualTradeValue": 84193472.62100002
+  },
+  {
+    "ReporterISO3": "AGO",
+    "ReporterName": "Angola",
+    "Year": 2019,
+    "AnnualTradeValue": 69638481.14999995
+  },
+  {
+    "ReporterISO3": "AIA",
+    "ReporterName": "Anguila",
+    "Year": 2000,
+    "AnnualTradeValue": 8002.591
+  },
+  {
+    "ReporterISO3": "AIA",
+    "ReporterName": "Anguila",
+    "Year": 2001,
+    "AnnualTradeValue": 6401.861000000003
+  },
+  {
+    "ReporterISO3": "AIA",
+    "ReporterName": "Anguila",
+    "Year": 2002,
+    "AnnualTradeValue": 8688.995
+  },
+  {
+    "ReporterISO3": "AIA",
+    "ReporterName": "Anguila",
+    "Year": 2003,
+    "AnnualTradeValue": 8477.993
+  },
+  {
+    "ReporterISO3": "AIA",
+    "ReporterName": "Anguila",
+    "Year": 2004,
+    "AnnualTradeValue": 11496.175000000001
+  },
+  {
+    "ReporterISO3": "AIA",
+    "ReporterName": "Anguila",
+    "Year": 2006,
+    "AnnualTradeValue": 24475.415
+  },
+  {
+    "ReporterISO3": "AIA",
+    "ReporterName": "Anguila",
+    "Year": 2007,
+    "AnnualTradeValue": 18370.600999999995
+  },
+  {
+    "ReporterISO3": "AIA",
+    "ReporterName": "Anguila",
+    "Year": 2008,
+    "AnnualTradeValue": 22949.081000000006
+  },
+  {
+    "ReporterISO3": "ALB",
+    "ReporterName": "Albania",
+    "Year": 1996,
+    "AnnualTradeValue": 422280.79699999996
+  },
+  {
+    "ReporterISO3": "ALB",
+    "ReporterName": "Albania",
+    "Year": 1997,
+    "AnnualTradeValue": 275362.021
+  },
+  {
+    "ReporterISO3": "ALB",
+    "ReporterName": "Albania",
+    "Year": 1998,
+    "AnnualTradeValue": 415307.60400000005
+  },
+  {
+    "ReporterISO3": "ALB",
+    "ReporterName": "Albania",
+    "Year": 1999,
+    "AnnualTradeValue": 702195.6480000002
+  },
+  {
+    "ReporterISO3": "ALB",
+    "ReporterName": "Albania",
+    "Year": 2000,
+    "AnnualTradeValue": 522951.55999999994
+  },
+  {
+    "ReporterISO3": "ALB",
+    "ReporterName": "Albania",
+    "Year": 2001,
+    "AnnualTradeValue": 609861.4010000002
+  },
+  {
+    "ReporterISO3": "ALB",
+    "ReporterName": "Albania",
+    "Year": 2002,
+    "AnnualTradeValue": 660482.994
+  },
+  {
+    "ReporterISO3": "ALB",
+    "ReporterName": "Albania",
+    "Year": 2003,
+    "AnnualTradeValue": 894441.0929999995
+  },
+  {
+    "ReporterISO3": "ALB",
+    "ReporterName": "Albania",
+    "Year": 2004,
+    "AnnualTradeValue": 1205306.7180000003
+  },
+  {
+    "ReporterISO3": "ALB",
+    "ReporterName": "Albania",
+    "Year": 2005,
+    "AnnualTradeValue": 393098.873
+  },
+  {
+    "ReporterISO3": "ALB",
+    "ReporterName": "Albania",
+    "Year": 2006,
+    "AnnualTradeValue": 476665.1890000001
+  },
+  {
+    "ReporterISO3": "ALB",
+    "ReporterName": "Albania",
+    "Year": 2007,
+    "AnnualTradeValue": 2155380.7150000003
+  },
+  {
+    "ReporterISO3": "ALB",
+    "ReporterName": "Albania",
+    "Year": 2008,
+    "AnnualTradeValue": 1088107.1140000003
+  },
+  {
+    "ReporterISO3": "ALB",
+    "ReporterName": "Albania",
+    "Year": 2009,
+    "AnnualTradeValue": 2175829.799
+  },
+  {
+    "ReporterISO3": "ALB",
+    "ReporterName": "Albania",
+    "Year": 2010,
+    "AnnualTradeValue": 3099911.449
+  },
+  {
+    "ReporterISO3": "ALB",
+    "ReporterName": "Albania",
+    "Year": 2011,
+    "AnnualTradeValue": 3896414.612999998
+  },
+  {
+    "ReporterISO3": "ALB",
+    "ReporterName": "Albania",
+    "Year": 2012,
+    "AnnualTradeValue": 3935837.889999998
+  },
+  {
+    "ReporterISO3": "ALB",
+    "ReporterName": "Albania",
+    "Year": 2013,
+    "AnnualTradeValue": 4663043.854999998
+  },
+  {
+    "ReporterISO3": "ALB",
+    "ReporterName": "Albania",
+    "Year": 2014,
+    "AnnualTradeValue": 4861447.289000001
+  },
+  {
+    "ReporterISO3": "ALB",
+    "ReporterName": "Albania",
+    "Year": 2015,
+    "AnnualTradeValue": 3859314.063
+  },
+  {
+    "ReporterISO3": "ALB",
+    "ReporterName": "Albania",
+    "Year": 2016,
+    "AnnualTradeValue": 3924234.833
+  },
+  {
+    "ReporterISO3": "ALB",
+    "ReporterName": "Albania",
+    "Year": 2017,
+    "AnnualTradeValue": 4604636.507999999
+  },
+  {
+    "ReporterISO3": "ALB",
+    "ReporterName": "Albania",
+    "Year": 2018,
+    "AnnualTradeValue": 5751719.553
+  },
+  {
+    "ReporterISO3": "ALB",
+    "ReporterName": "Albania",
+    "Year": 2019,
+    "AnnualTradeValue": 5438857.419000003
+  },
+  {
+    "ReporterISO3": "ALB",
+    "ReporterName": "Albania",
+    "Year": 2020,
+    "AnnualTradeValue": 5029471.129000002
+  },
+  {
+    "ReporterISO3": "AND",
+    "ReporterName": "Andorra",
+    "Year": 1995,
+    "AnnualTradeValue": 95606.279
+  },
+  {
+    "ReporterISO3": "AND",
+    "ReporterName": "Andorra",
+    "Year": 1996,
+    "AnnualTradeValue": 92485.966
+  },
+  {
+    "ReporterISO3": "AND",
+    "ReporterName": "Andorra",
+    "Year": 1997,
+    "AnnualTradeValue": 96000.77099999998
+  },
+  {
+    "ReporterISO3": "AND",
+    "ReporterName": "Andorra",
+    "Year": 1998,
+    "AnnualTradeValue": 115717.79499999998
+  },
+  {
+    "ReporterISO3": "AND",
+    "ReporterName": "Andorra",
+    "Year": 1999,
+    "AnnualTradeValue": 85361.2
+  },
+  {
+    "ReporterISO3": "AND",
+    "ReporterName": "Andorra",
+    "Year": 2000,
+    "AnnualTradeValue": 90658.08400000002
+  },
+  {
+    "ReporterISO3": "AND",
+    "ReporterName": "Andorra",
+    "Year": 2001,
+    "AnnualTradeValue": 104842.47299999997
+  },
+  {
+    "ReporterISO3": "AND",
+    "ReporterName": "Andorra",
+    "Year": 2002,
+    "AnnualTradeValue": 127504.66499999998
+  },
+  {
+    "ReporterISO3": "AND",
+    "ReporterName": "Andorra",
+    "Year": 2003,
+    "AnnualTradeValue": 180311.97299999997
+  },
+  {
+    "ReporterISO3": "AND",
+    "ReporterName": "Andorra",
+    "Year": 2004,
+    "AnnualTradeValue": 246419.08899999998
+  },
+  {
+    "ReporterISO3": "AND",
+    "ReporterName": "Andorra",
+    "Year": 2005,
+    "AnnualTradeValue": 285475.107
+  },
+  {
+    "ReporterISO3": "AND",
+    "ReporterName": "Andorra",
+    "Year": 2006,
+    "AnnualTradeValue": 330759.8799999999
+  },
+  {
+    "ReporterISO3": "AND",
+    "ReporterName": "Andorra",
+    "Year": 2007,
+    "AnnualTradeValue": 301692.32400000014
+  },
+  {
+    "ReporterISO3": "AND",
+    "ReporterName": "Andorra",
+    "Year": 2008,
+    "AnnualTradeValue": 278198.689
+  },
+  {
+    "ReporterISO3": "AND",
+    "ReporterName": "Andorra",
+    "Year": 2009,
+    "AnnualTradeValue": 200955.75199999995
+  },
+  {
+    "ReporterISO3": "AND",
+    "ReporterName": "Andorra",
+    "Year": 2010,
+    "AnnualTradeValue": 184637.92899999995
+  },
+  {
+    "ReporterISO3": "AND",
+    "ReporterName": "Andorra",
+    "Year": 2011,
+    "AnnualTradeValue": 228045.43300000002
+  },
+  {
+    "ReporterISO3": "AND",
+    "ReporterName": "Andorra",
+    "Year": 2012,
+    "AnnualTradeValue": 211899.28599999996
+  },
+  {
+    "ReporterISO3": "AND",
+    "ReporterName": "Andorra",
+    "Year": 2013,
+    "AnnualTradeValue": 197956.10499999992
+  },
+  {
+    "ReporterISO3": "AND",
+    "ReporterName": "Andorra",
+    "Year": 2014,
+    "AnnualTradeValue": 190315.41099999988
+  },
+  {
+    "ReporterISO3": "AND",
+    "ReporterName": "Andorra",
+    "Year": 2015,
+    "AnnualTradeValue": 179003.87299999993
+  },
+  {
+    "ReporterISO3": "AND",
+    "ReporterName": "Andorra",
+    "Year": 2016,
+    "AnnualTradeValue": 193825.91500000004
+  },
+  {
+    "ReporterISO3": "AND",
+    "ReporterName": "Andorra",
+    "Year": 2017,
+    "AnnualTradeValue": 235931.21899999995
+  },
+  {
+    "ReporterISO3": "AND",
+    "ReporterName": "Andorra",
+    "Year": 2018,
+    "AnnualTradeValue": 258896.29799999995
+  },
+  {
+    "ReporterISO3": "ANT",
+    "ReporterName": "Netherlands Antilles",
+    "Year": 2003,
+    "AnnualTradeValue": 199407.745
+  },
+  {
+    "ReporterISO3": "ANT",
+    "ReporterName": "Netherlands Antilles",
+    "Year": 2005,
+    "AnnualTradeValue": 181873.83600000007
+  },
+  {
+    "ReporterISO3": "ANT",
+    "ReporterName": "Netherlands Antilles",
+    "Year": 2006,
+    "AnnualTradeValue": 258544.00000000003
+  },
+  {
+    "ReporterISO3": "ANT",
+    "ReporterName": "Netherlands Antilles",
+    "Year": 2007,
+    "AnnualTradeValue": 232220.606
+  },
+  {
+    "ReporterISO3": "ANT",
+    "ReporterName": "Netherlands Antilles",
+    "Year": 2008,
+    "AnnualTradeValue": 292460.5339999999
+  },
+  {
+    "ReporterISO3": "ARE",
+    "ReporterName": "United Arab Emirates",
+    "Year": 1991,
+    "AnnualTradeValue": 971179.7779999999
+  },
+  {
+    "ReporterISO3": "ARE",
+    "ReporterName": "United Arab Emirates",
+    "Year": 1992,
+    "AnnualTradeValue": 1008945.6670000002
+  },
+  {
+    "ReporterISO3": "ARE",
+    "ReporterName": "United Arab Emirates",
+    "Year": 1993,
+    "AnnualTradeValue": 1160039.442
+  },
+  {
+    "ReporterISO3": "ARE",
+    "ReporterName": "United Arab Emirates",
+    "Year": 1999,
+    "AnnualTradeValue": 40433068.07999995
+  },
+  {
+    "ReporterISO3": "ARE",
+    "ReporterName": "United Arab Emirates",
+    "Year": 2000,
+    "AnnualTradeValue": 61227844.05199999
+  },
+  {
+    "ReporterISO3": "ARE",
+    "ReporterName": "United Arab Emirates",
+    "Year": 2001,
+    "AnnualTradeValue": 48214284.939999975
+  },
+  {
+    "ReporterISO3": "ARE",
+    "ReporterName": "United Arab Emirates",
+    "Year": 2002,
+    "AnnualTradeValue": 81930660.85199992
+  },
+  {
+    "ReporterISO3": "ARE",
+    "ReporterName": "United Arab Emirates",
+    "Year": 2003,
+    "AnnualTradeValue": 106661196.44499995
+  },
+  {
+    "ReporterISO3": "ARE",
+    "ReporterName": "United Arab Emirates",
+    "Year": 2004,
+    "AnnualTradeValue": 143419120.37299997
+  },
+  {
+    "ReporterISO3": "ARE",
+    "ReporterName": "United Arab Emirates",
+    "Year": 2005,
+    "AnnualTradeValue": 178058215.48800012
+  },
+  {
+    "ReporterISO3": "ARE",
+    "ReporterName": "United Arab Emirates",
+    "Year": 2006,
+    "AnnualTradeValue": 232958761.27199993
+  },
+  {
+    "ReporterISO3": "ARE",
+    "ReporterName": "United Arab Emirates",
+    "Year": 2007,
+    "AnnualTradeValue": 243376439.29800004
+  },
+  {
+    "ReporterISO3": "ARE",
+    "ReporterName": "United Arab Emirates",
+    "Year": 2008,
+    "AnnualTradeValue": 331316798.214
+  },
+  {
+    "ReporterISO3": "ARE",
+    "ReporterName": "United Arab Emirates",
+    "Year": 2009,
+    "AnnualTradeValue": 269017964.7440001
+  },
+  {
+    "ReporterISO3": "ARE",
+    "ReporterName": "United Arab Emirates",
+    "Year": 2010,
+    "AnnualTradeValue": 295505102.3690003
+  },
+  {
+    "ReporterISO3": "ARE",
+    "ReporterName": "United Arab Emirates",
+    "Year": 2011,
+    "AnnualTradeValue": 390289880.89100015
+  },
+  {
+    "ReporterISO3": "ARE",
+    "ReporterName": "United Arab Emirates",
+    "Year": 2012,
+    "AnnualTradeValue": 482553903.08600014
+  },
+  {
+    "ReporterISO3": "ARE",
+    "ReporterName": "United Arab Emirates",
+    "Year": 2013,
+    "AnnualTradeValue": 467037373.12200016
+  },
+  {
+    "ReporterISO3": "ARE",
+    "ReporterName": "United Arab Emirates",
+    "Year": 2014,
+    "AnnualTradeValue": 405174960.35399973
+  },
+  {
+    "ReporterISO3": "ARE",
+    "ReporterName": "United Arab Emirates",
+    "Year": 2015,
+    "AnnualTradeValue": 331268329.56200004
+  },
+  {
+    "ReporterISO3": "ARE",
+    "ReporterName": "United Arab Emirates",
+    "Year": 2016,
+    "AnnualTradeValue": 299868168.3270001
+  },
+  {
+    "ReporterISO3": "ARE",
+    "ReporterName": "United Arab Emirates",
+    "Year": 2017,
+    "AnnualTradeValue": 329549336.4830001
+  },
+  {
+    "ReporterISO3": "ARE",
+    "ReporterName": "United Arab Emirates",
+    "Year": 2018,
+    "AnnualTradeValue": 346768456.3319997
+  },
+  {
+    "ReporterISO3": "ARE",
+    "ReporterName": "United Arab Emirates",
+    "Year": 2019,
+    "AnnualTradeValue": 529962693.186
+  },
+  {
+    "ReporterISO3": "ARE",
+    "ReporterName": "United Arab Emirates",
+    "Year": 2020,
+    "AnnualTradeValue": 473456666.5580001
+  },
+  {
+    "ReporterISO3": "ARG",
+    "ReporterName": "Argentina",
+    "Year": 1992,
+    "AnnualTradeValue": 24469877.055
+  },
+  {
+    "ReporterISO3": "ARG",
+    "ReporterName": "Argentina",
+    "Year": 1993,
+    "AnnualTradeValue": 26235490.434999995
+  },
+  {
+    "ReporterISO3": "ARG",
+    "ReporterName": "Argentina",
+    "Year": 1994,
+    "AnnualTradeValue": 31677303.01299998
+  },
+  {
+    "ReporterISO3": "ARG",
+    "ReporterName": "Argentina",
+    "Year": 1995,
+    "AnnualTradeValue": 41925149.04100002
+  },
+  {
+    "ReporterISO3": "ARG",
+    "ReporterName": "Argentina",
+    "Year": 1996,
+    "AnnualTradeValue": 47619255.724
+  },
+  {
+    "ReporterISO3": "ARG",
+    "ReporterName": "Argentina",
+    "Year": 1997,
+    "AnnualTradeValue": 52861640.71200001
+  },
+  {
+    "ReporterISO3": "ARG",
+    "ReporterName": "Argentina",
+    "Year": 1998,
+    "AnnualTradeValue": 52867341.53499999
+  },
+  {
+    "ReporterISO3": "ARG",
+    "ReporterName": "Argentina",
+    "Year": 1999,
+    "AnnualTradeValue": 46665320.155999996
+  },
+  {
+    "ReporterISO3": "ARG",
+    "ReporterName": "Argentina",
+    "Year": 2000,
+    "AnnualTradeValue": 52682058.38600001
+  },
+  {
+    "ReporterISO3": "ARG",
+    "ReporterName": "Argentina",
+    "Year": 2001,
+    "AnnualTradeValue": 53220110.66999998
+  },
+  {
+    "ReporterISO3": "ARG",
+    "ReporterName": "Argentina",
+    "Year": 2002,
+    "AnnualTradeValue": 51418742.22
+  },
+  {
+    "ReporterISO3": "ARG",
+    "ReporterName": "Argentina",
+    "Year": 2003,
+    "AnnualTradeValue": 59877504.00000004
+  },
+  {
+    "ReporterISO3": "ARG",
+    "ReporterName": "Argentina",
+    "Year": 2004,
+    "AnnualTradeValue": 69151411.04400004
+  },
+  {
+    "ReporterISO3": "ARG",
+    "ReporterName": "Argentina",
+    "Year": 2005,
+    "AnnualTradeValue": 80212772.184
+  },
+  {
+    "ReporterISO3": "ARG",
+    "ReporterName": "Argentina",
+    "Year": 2006,
+    "AnnualTradeValue": 93092448.16199997
+  },
+  {
+    "ReporterISO3": "ARG",
+    "ReporterName": "Argentina",
+    "Year": 2007,
+    "AnnualTradeValue": 111559159.67199998
+  },
+  {
+    "ReporterISO3": "ARG",
+    "ReporterName": "Argentina",
+    "Year": 2008,
+    "AnnualTradeValue": 140037701.62199998
+  },
+  {
+    "ReporterISO3": "ARG",
+    "ReporterName": "Argentina",
+    "Year": 2009,
+    "AnnualTradeValue": 111344237.19999999
+  },
+  {
+    "ReporterISO3": "ARG",
+    "ReporterName": "Argentina",
+    "Year": 2010,
+    "AnnualTradeValue": 136348893.15199998
+  },
+  {
+    "ReporterISO3": "ARG",
+    "ReporterName": "Argentina",
+    "Year": 2011,
+    "AnnualTradeValue": 165962182.56399992
+  },
+  {
+    "ReporterISO3": "ARG",
+    "ReporterName": "Argentina",
+    "Year": 2012,
+    "AnnualTradeValue": 159964759.1659999
+  },
+  {
+    "ReporterISO3": "ARG",
+    "ReporterName": "Argentina",
+    "Year": 2013,
+    "AnnualTradeValue": 151925962.72399998
+  },
+  {
+    "ReporterISO3": "ARG",
+    "ReporterName": "Argentina",
+    "Year": 2014,
+    "AnnualTradeValue": 136808693.23700005
+  },
+  {
+    "ReporterISO3": "ARG",
+    "ReporterName": "Argentina",
+    "Year": 2015,
+    "AnnualTradeValue": 113567905.0069999
+  },
+  {
+    "ReporterISO3": "ARG",
+    "ReporterName": "Argentina",
+    "Year": 2016,
+    "AnnualTradeValue": 115758692.47400007
+  },
+  {
+    "ReporterISO3": "ARG",
+    "ReporterName": "Argentina",
+    "Year": 2017,
+    "AnnualTradeValue": 116768389.93400002
+  },
+  {
+    "ReporterISO3": "ARG",
+    "ReporterName": "Argentina",
+    "Year": 2018,
+    "AnnualTradeValue": 123116714.83899996
+  },
+  {
+    "ReporterISO3": "ARG",
+    "ReporterName": "Argentina",
+    "Year": 2019,
+    "AnnualTradeValue": 130228255.32299997
+  },
+  {
+    "ReporterISO3": "ARG",
+    "ReporterName": "Argentina",
+    "Year": 2020,
+    "AnnualTradeValue": 109767644.895
+  },
+  {
+    "ReporterISO3": "ARM",
+    "ReporterName": "Armenia",
+    "Year": 1997,
+    "AnnualTradeValue": 430547.0999999999
+  },
+  {
+    "ReporterISO3": "ARM",
+    "ReporterName": "Armenia",
+    "Year": 1999,
+    "AnnualTradeValue": 463332.47400000005
+  },
+  {
+    "ReporterISO3": "ARM",
+    "ReporterName": "Armenia",
+    "Year": 2000,
+    "AnnualTradeValue": 407773.5180000001
+  },
+  {
+    "ReporterISO3": "ARM",
+    "ReporterName": "Armenia",
+    "Year": 2001,
+    "AnnualTradeValue": 423975.2750000001
+  },
+  {
+    "ReporterISO3": "ARM",
+    "ReporterName": "Armenia",
+    "Year": 2002,
+    "AnnualTradeValue": 845546.6439999999
+  },
+  {
+    "ReporterISO3": "ARM",
+    "ReporterName": "Armenia",
+    "Year": 2003,
+    "AnnualTradeValue": 1119226.0599999996
+  },
+  {
+    "ReporterISO3": "ARM",
+    "ReporterName": "Armenia",
+    "Year": 2004,
+    "AnnualTradeValue": 1247901.4679999994
+  },
+  {
+    "ReporterISO3": "ARM",
+    "ReporterName": "Armenia",
+    "Year": 2005,
+    "AnnualTradeValue": 1611149.3349999995
+  },
+  {
+    "ReporterISO3": "ARM",
+    "ReporterName": "Armenia",
+    "Year": 2006,
+    "AnnualTradeValue": 1714049.5350000004
+  },
+  {
+    "ReporterISO3": "ARM",
+    "ReporterName": "Armenia",
+    "Year": 2007,
+    "AnnualTradeValue": 1630140.4239999996
+  },
+  {
+    "ReporterISO3": "ARM",
+    "ReporterName": "Armenia",
+    "Year": 2008,
+    "AnnualTradeValue": 1813564.24
+  },
+  {
+    "ReporterISO3": "ARM",
+    "ReporterName": "Armenia",
+    "Year": 2009,
+    "AnnualTradeValue": 1171309.9920000006
+  },
+  {
+    "ReporterISO3": "ARM",
+    "ReporterName": "Armenia",
+    "Year": 2010,
+    "AnnualTradeValue": 1735950.2820000004
+  },
+  {
+    "ReporterISO3": "ARM",
+    "ReporterName": "Armenia",
+    "Year": 2011,
+    "AnnualTradeValue": 2209055.353
+  },
+  {
+    "ReporterISO3": "ARM",
+    "ReporterName": "Armenia",
+    "Year": 2012,
+    "AnnualTradeValue": 2560129.0359999994
+  },
+  {
+    "ReporterISO3": "ARM",
+    "ReporterName": "Armenia",
+    "Year": 2013,
+    "AnnualTradeValue": 2718087.8059999994
+  },
+  {
+    "ReporterISO3": "ARM",
+    "ReporterName": "Armenia",
+    "Year": 2014,
+    "AnnualTradeValue": 2740206.012
+  },
+  {
+    "ReporterISO3": "ARM",
+    "ReporterName": "Armenia",
+    "Year": 2015,
+    "AnnualTradeValue": 2624508.7910000016
+  },
+  {
+    "ReporterISO3": "ARM",
+    "ReporterName": "Armenia",
+    "Year": 2016,
+    "AnnualTradeValue": 3287782.4670000006
+  },
+  {
+    "ReporterISO3": "ARM",
+    "ReporterName": "Armenia",
+    "Year": 2017,
+    "AnnualTradeValue": 4009155.4919999996
+  },
+  {
+    "ReporterISO3": "ARM",
+    "ReporterName": "Armenia",
+    "Year": 2018,
+    "AnnualTradeValue": 4350410.312
+  },
+  {
+    "ReporterISO3": "ARM",
+    "ReporterName": "Armenia",
+    "Year": 2019,
+    "AnnualTradeValue": 4811846.782000001
+  },
+  {
+    "ReporterISO3": "ARM",
+    "ReporterName": "Armenia",
+    "Year": 2020,
+    "AnnualTradeValue": 4697977.961999998
+  },
+  {
+    "ReporterISO3": "ARM",
+    "ReporterName": "Armenia",
+    "Year": 2021,
+    "AnnualTradeValue": 5572060.0409999965
+  },
+  {
+    "ReporterISO3": "ATG",
+    "ReporterName": "Antigua and Barbuda",
+    "Year": 1999,
+    "AnnualTradeValue": 6786.66
+  },
+  {
+    "ReporterISO3": "ATG",
+    "ReporterName": "Antigua and Barbuda",
+    "Year": 2000,
+    "AnnualTradeValue": 6043.6590000000015
+  },
+  {
+    "ReporterISO3": "ATG",
+    "ReporterName": "Antigua and Barbuda",
+    "Year": 2005,
+    "AnnualTradeValue": 7436.871
+  },
+  {
+    "ReporterISO3": "ATG",
+    "ReporterName": "Antigua and Barbuda",
+    "Year": 2007,
+    "AnnualTradeValue": 7253.067999999998
+  },
+  {
+    "ReporterISO3": "ATG",
+    "ReporterName": "Antigua and Barbuda",
+    "Year": 2009,
+    "AnnualTradeValue": 5207.750000000002
+  },
+  {
+    "ReporterISO3": "ATG",
+    "ReporterName": "Antigua and Barbuda",
+    "Year": 2010,
+    "AnnualTradeValue": 4853.591
+  },
+  {
+    "ReporterISO3": "ATG",
+    "ReporterName": "Antigua and Barbuda",
+    "Year": 2011,
+    "AnnualTradeValue": 6658.185000000001
+  },
+  {
+    "ReporterISO3": "ATG",
+    "ReporterName": "Antigua and Barbuda",
+    "Year": 2012,
+    "AnnualTradeValue": 7891.931000000002
+  },
+  {
+    "ReporterISO3": "ATG",
+    "ReporterName": "Antigua and Barbuda",
+    "Year": 2013,
+    "AnnualTradeValue": 8217.437
+  },
+  {
+    "ReporterISO3": "ATG",
+    "ReporterName": "Antigua and Barbuda",
+    "Year": 2014,
+    "AnnualTradeValue": 10520.62
+  },
+  {
+    "ReporterISO3": "ATG",
+    "ReporterName": "Antigua and Barbuda",
+    "Year": 2015,
+    "AnnualTradeValue": 4457.5920000000015
+  },
+  {
+    "ReporterISO3": "ATG",
+    "ReporterName": "Antigua and Barbuda",
+    "Year": 2016,
+    "AnnualTradeValue": 3582.2849999999994
+  },
+  {
+    "ReporterISO3": "ATG",
+    "ReporterName": "Antigua and Barbuda",
+    "Year": 2017,
+    "AnnualTradeValue": 4408.928000000001
+  },
+  {
+    "ReporterISO3": "ATG",
+    "ReporterName": "Antigua and Barbuda",
+    "Year": 2018,
+    "AnnualTradeValue": 6548.881
+  },
+  {
+    "ReporterISO3": "ATG",
+    "ReporterName": "Antigua and Barbuda",
+    "Year": 2019,
+    "AnnualTradeValue": 5120.625999999998
+  },
+  {
+    "ReporterISO3": "AUS",
+    "ReporterName": "Australia",
+    "Year": 1988,
+    "AnnualTradeValue": 62339015.93999998
+  },
+  {
+    "ReporterISO3": "AUS",
+    "ReporterName": "Australia",
+    "Year": 1989,
+    "AnnualTradeValue": 68840017.12799999
+  },
+  {
+    "ReporterISO3": "AUS",
+    "ReporterName": "Australia",
+    "Year": 1990,
+    "AnnualTradeValue": 74755602.07400005
+  },
+  {
+    "ReporterISO3": "AUS",
+    "ReporterName": "Australia",
+    "Year": 1991,
+    "AnnualTradeValue": 78175530.662
+  },
+  {
+    "ReporterISO3": "AUS",
+    "ReporterName": "Australia",
+    "Year": 1992,
+    "AnnualTradeValue": 80453919.31199999
+  },
+  {
+    "ReporterISO3": "AUS",
+    "ReporterName": "Australia",
+    "Year": 1993,
+    "AnnualTradeValue": 79705724.74000002
+  },
+  {
+    "ReporterISO3": "AUS",
+    "ReporterName": "Australia",
+    "Year": 1994,
+    "AnnualTradeValue": 90178450.94399998
+  },
+  {
+    "ReporterISO3": "AUS",
+    "ReporterName": "Australia",
+    "Year": 1995,
+    "AnnualTradeValue": 100769357.34200005
+  },
+  {
+    "ReporterISO3": "AUS",
+    "ReporterName": "Australia",
+    "Year": 1996,
+    "AnnualTradeValue": 114689019.36999995
+  },
+  {
+    "ReporterISO3": "AUS",
+    "ReporterName": "Australia",
+    "Year": 1997,
+    "AnnualTradeValue": 119682115.702
+  },
+  {
+    "ReporterISO3": "AUS",
+    "ReporterName": "Australia",
+    "Year": 1998,
+    "AnnualTradeValue": 105605232.07800002
+  },
+  {
+    "ReporterISO3": "AUS",
+    "ReporterName": "Australia",
+    "Year": 1999,
+    "AnnualTradeValue": 102159751.91400003
+  },
+  {
+    "ReporterISO3": "AUS",
+    "ReporterName": "Australia",
+    "Year": 2000,
+    "AnnualTradeValue": 127532668.49799998
+  },
+  {
+    "ReporterISO3": "AUS",
+    "ReporterName": "Australia",
+    "Year": 2001,
+    "AnnualTradeValue": 126576377.222
+  },
+  {
+    "ReporterISO3": "AUS",
+    "ReporterName": "Australia",
+    "Year": 2002,
+    "AnnualTradeValue": 129968334.53100012
+  },
+  {
+    "ReporterISO3": "AUS",
+    "ReporterName": "Australia",
+    "Year": 2003,
+    "AnnualTradeValue": 140576470.811
+  },
+  {
+    "ReporterISO3": "AUS",
+    "ReporterName": "Australia",
+    "Year": 2004,
+    "AnnualTradeValue": 172968075.504
+  },
+  {
+    "ReporterISO3": "AUS",
+    "ReporterName": "Australia",
+    "Year": 2005,
+    "AnnualTradeValue": 212022101.3710001
+  },
+  {
+    "ReporterISO3": "AUS",
+    "ReporterName": "Australia",
+    "Year": 2006,
+    "AnnualTradeValue": 246648945.46900007
+  },
+  {
+    "ReporterISO3": "AUS",
+    "ReporterName": "Australia",
+    "Year": 2007,
+    "AnnualTradeValue": 282363024.801
+  },
+  {
+    "ReporterISO3": "AUS",
+    "ReporterName": "Australia",
+    "Year": 2008,
+    "AnnualTradeValue": 373706027.1740002
+  },
+  {
+    "ReporterISO3": "AUS",
+    "ReporterName": "Australia",
+    "Year": 2009,
+    "AnnualTradeValue": 307799151.90000015
+  },
+  {
+    "ReporterISO3": "AUS",
+    "ReporterName": "Australia",
+    "Year": 2010,
+    "AnnualTradeValue": 424217452.5949998
+  },
+  {
+    "ReporterISO3": "AUS",
+    "ReporterName": "Australia",
+    "Year": 2011,
+    "AnnualTradeValue": 538846770.9250002
+  },
+  {
+    "ReporterISO3": "AUS",
+    "ReporterName": "Australia",
+    "Year": 2012,
+    "AnnualTradeValue": 512485825.9780001
+  },
+  {
+    "ReporterISO3": "AUS",
+    "ReporterName": "Australia",
+    "Year": 2013,
+    "AnnualTradeValue": 504310210.56000006
+  },
+  {
+    "ReporterISO3": "AUS",
+    "ReporterName": "Australia",
+    "Year": 2014,
+    "AnnualTradeValue": 480889367.73400015
+  },
+  {
+    "ReporterISO3": "AUS",
+    "ReporterName": "Australia",
+    "Year": 2015,
+    "AnnualTradeValue": 375584302.94499993
+  },
+  {
+    "ReporterISO3": "AUS",
+    "ReporterName": "Australia",
+    "Year": 2016,
+    "AnnualTradeValue": 379259949.12499994
+  },
+  {
+    "ReporterISO3": "AUS",
+    "ReporterName": "Australia",
+    "Year": 2017,
+    "AnnualTradeValue": 461073473.1830005
+  },
+  {
+    "ReporterISO3": "AUS",
+    "ReporterName": "Australia",
+    "Year": 2018,
+    "AnnualTradeValue": 505551032.4400001
+  },
+  {
+    "ReporterISO3": "AUS",
+    "ReporterName": "Australia",
+    "Year": 2019,
+    "AnnualTradeValue": 532754451.23200005
+  },
+  {
+    "ReporterISO3": "AUS",
+    "ReporterName": "Australia",
+    "Year": 2020,
+    "AnnualTradeValue": 490091929.66999984
+  },
+  {
+    "ReporterISO3": "AUS",
+    "ReporterName": "Australia",
+    "Year": 2021,
+    "AnnualTradeValue": 684072206.5379996
+  },
+  {
+    "ReporterISO3": "AUT",
+    "ReporterName": "Austria",
+    "Year": 1988,
+    "AnnualTradeValue": 62175416.473
+  },
+  {
+    "ReporterISO3": "AUT",
+    "ReporterName": "Austria",
+    "Year": 1989,
+    "AnnualTradeValue": 64858303.95499999
+  },
+  {
+    "ReporterISO3": "AUT",
+    "ReporterName": "Austria",
+    "Year": 1990,
+    "AnnualTradeValue": 83761445.14999998
+  },
+  {
+    "ReporterISO3": "AUT",
+    "ReporterName": "Austria",
+    "Year": 1991,
+    "AnnualTradeValue": 82171619.07400003
+  },
+  {
+    "ReporterISO3": "AUT",
+    "ReporterName": "Austria",
+    "Year": 1992,
+    "AnnualTradeValue": 88869608.05000001
+  },
+  {
+    "ReporterISO3": "AUT",
+    "ReporterName": "Austria",
+    "Year": 1993,
+    "AnnualTradeValue": 80318151.36600006
+  },
+  {
+    "ReporterISO3": "AUT",
+    "ReporterName": "Austria",
+    "Year": 1994,
+    "AnnualTradeValue": 90144367.71699992
+  },
+  {
+    "ReporterISO3": "AUT",
+    "ReporterName": "Austria",
+    "Year": 1995,
+    "AnnualTradeValue": 115165864.27000001
+  },
+  {
+    "ReporterISO3": "AUT",
+    "ReporterName": "Austria",
+    "Year": 1996,
+    "AnnualTradeValue": 115660913.32699998
+  },
+  {
+    "ReporterISO3": "AUT",
+    "ReporterName": "Austria",
+    "Year": 1997,
+    "AnnualTradeValue": 113427439.91799995
+  },
+  {
+    "ReporterISO3": "AUT",
+    "ReporterName": "Austria",
+    "Year": 1998,
+    "AnnualTradeValue": 121713665.18999991
+  },
+  {
+    "ReporterISO3": "AUT",
+    "ReporterName": "Austria",
+    "Year": 1999,
+    "AnnualTradeValue": 118543109.30999994
+  },
+  {
+    "ReporterISO3": "AUT",
+    "ReporterName": "Austria",
+    "Year": 2000,
+    "AnnualTradeValue": 127349398.12900001
+  },
+  {
+    "ReporterISO3": "AUT",
+    "ReporterName": "Austria",
+    "Year": 2001,
+    "AnnualTradeValue": 132984847.704
+  },
+  {
+    "ReporterISO3": "AUT",
+    "ReporterName": "Austria",
+    "Year": 2002,
+    "AnnualTradeValue": 146225329.53799996
+  },
+  {
+    "ReporterISO3": "AUT",
+    "ReporterName": "Austria",
+    "Year": 2003,
+    "AnnualTradeValue": 178513534.72000006
+  },
+  {
+    "ReporterISO3": "AUT",
+    "ReporterName": "Austria",
+    "Year": 2004,
+    "AnnualTradeValue": 221659514.7150001
+  },
+  {
+    "ReporterISO3": "AUT",
+    "ReporterName": "Austria",
+    "Year": 2005,
+    "AnnualTradeValue": 235443424.33500013
+  },
+  {
+    "ReporterISO3": "AUT",
+    "ReporterName": "Austria",
+    "Year": 2006,
+    "AnnualTradeValue": 268339062.64500004
+  },
+  {
+    "ReporterISO3": "AUT",
+    "ReporterName": "Austria",
+    "Year": 2007,
+    "AnnualTradeValue": 313176813.1259999
+  },
+  {
+    "ReporterISO3": "AUT",
+    "ReporterName": "Austria",
+    "Year": 2008,
+    "AnnualTradeValue": 344455903.49700004
+  },
+  {
+    "ReporterISO3": "AUT",
+    "ReporterName": "Austria",
+    "Year": 2009,
+    "AnnualTradeValue": 262774496.00499994
+  },
+  {
+    "ReporterISO3": "AUT",
+    "ReporterName": "Austria",
+    "Year": 2010,
+    "AnnualTradeValue": 289764004.02100027
+  },
+  {
+    "ReporterISO3": "AUT",
+    "ReporterName": "Austria",
+    "Year": 2011,
+    "AnnualTradeValue": 339022865.0880003
+  },
+  {
+    "ReporterISO3": "AUT",
+    "ReporterName": "Austria",
+    "Year": 2012,
+    "AnnualTradeValue": 317641438.66600007
+  },
+  {
+    "ReporterISO3": "AUT",
+    "ReporterName": "Austria",
+    "Year": 2013,
+    "AnnualTradeValue": 332547820.51600003
+  },
+  {
+    "ReporterISO3": "AUT",
+    "ReporterName": "Austria",
+    "Year": 2014,
+    "AnnualTradeValue": 339425718.9950001
+  },
+  {
+    "ReporterISO3": "AUT",
+    "ReporterName": "Austria",
+    "Year": 2015,
+    "AnnualTradeValue": 290551060.6350001
+  },
+  {
+    "ReporterISO3": "AUT",
+    "ReporterName": "Austria",
+    "Year": 2016,
+    "AnnualTradeValue": 289401380.42400014
+  },
+  {
+    "ReporterISO3": "AUT",
+    "ReporterName": "Austria",
+    "Year": 2017,
+    "AnnualTradeValue": 319941061.6059999
+  },
+  {
+    "ReporterISO3": "AUT",
+    "ReporterName": "Austria",
+    "Year": 2018,
+    "AnnualTradeValue": 353983941.239
+  },
+  {
+    "ReporterISO3": "AUT",
+    "ReporterName": "Austria",
+    "Year": 2019,
+    "AnnualTradeValue": 343064109.92800003
+  },
+  {
+    "ReporterISO3": "AUT",
+    "ReporterName": "Austria",
+    "Year": 2020,
+    "AnnualTradeValue": 324290258.0349998
+  },
+  {
+    "ReporterISO3": "AZE",
+    "ReporterName": "Azerbaijan",
+    "Year": 1996,
+    "AnnualTradeValue": 1262489.7139999997
+  },
+  {
+    "ReporterISO3": "AZE",
+    "ReporterName": "Azerbaijan",
+    "Year": 1997,
+    "AnnualTradeValue": 1562617.9659999998
+  },
+  {
+    "ReporterISO3": "AZE",
+    "ReporterName": "Azerbaijan",
+    "Year": 1998,
+    "AnnualTradeValue": 1212298.8539999998
+  },
+  {
+    "ReporterISO3": "AZE",
+    "ReporterName": "Azerbaijan",
+    "Year": 1999,
+    "AnnualTradeValue": 1858451.0740000007
+  },
+  {
+    "ReporterISO3": "AZE",
+    "ReporterName": "Azerbaijan",
+    "Year": 2000,
+    "AnnualTradeValue": 3490503.8720000004
+  },
+  {
+    "ReporterISO3": "AZE",
+    "ReporterName": "Azerbaijan",
+    "Year": 2001,
+    "AnnualTradeValue": 4628564.688000002
+  },
+  {
+    "ReporterISO3": "AZE",
+    "ReporterName": "Azerbaijan",
+    "Year": 2002,
+    "AnnualTradeValue": 4335000.17
+  },
+  {
+    "ReporterISO3": "AZE",
+    "ReporterName": "Azerbaijan",
+    "Year": 2003,
+    "AnnualTradeValue": 5183438.783
+  },
+  {
+    "ReporterISO3": "AZE",
+    "ReporterName": "Azerbaijan",
+    "Year": 2004,
+    "AnnualTradeValue": 7230899.652
+  },
+  {
+    "ReporterISO3": "AZE",
+    "ReporterName": "Azerbaijan",
+    "Year": 2005,
+    "AnnualTradeValue": 8694302.415000001
+  },
+  {
+    "ReporterISO3": "AZE",
+    "ReporterName": "Azerbaijan",
+    "Year": 2006,
+    "AnnualTradeValue": 12744329.983
+  },
+  {
+    "ReporterISO3": "AZE",
+    "ReporterName": "Azerbaijan",
+    "Year": 2007,
+    "AnnualTradeValue": 12116638.198999997
+  },
+  {
+    "ReporterISO3": "AZE",
+    "ReporterName": "Azerbaijan",
+    "Year": 2008,
+    "AnnualTradeValue": 95512458.721
+  },
+  {
+    "ReporterISO3": "AZE",
+    "ReporterName": "Azerbaijan",
+    "Year": 2009,
+    "AnnualTradeValue": 29377455.379999984
+  },
+  {
+    "ReporterISO3": "AZE",
+    "ReporterName": "Azerbaijan",
+    "Year": 2010,
+    "AnnualTradeValue": 42556839.965
+  },
+  {
+    "ReporterISO3": "AZE",
+    "ReporterName": "Azerbaijan",
+    "Year": 2011,
+    "AnnualTradeValue": 52960377.673
+  },
+  {
+    "ReporterISO3": "AZE",
+    "ReporterName": "Azerbaijan",
+    "Year": 2012,
+    "AnnualTradeValue": 47654372.159
+  },
+  {
+    "ReporterISO3": "AZE",
+    "ReporterName": "Azerbaijan",
+    "Year": 2013,
+    "AnnualTradeValue": 47808216.026000015
+  },
+  {
+    "ReporterISO3": "AZE",
+    "ReporterName": "Azerbaijan",
+    "Year": 2014,
+    "AnnualTradeValue": 43503474.28800001
+  },
+  {
+    "ReporterISO3": "AZE",
+    "ReporterName": "Azerbaijan",
+    "Year": 2015,
+    "AnnualTradeValue": 25292587.35299999
+  },
+  {
+    "ReporterISO3": "AZE",
+    "ReporterName": "Azerbaijan",
+    "Year": 2016,
+    "AnnualTradeValue": 26761637.13200001
+  },
+  {
+    "ReporterISO3": "AZE",
+    "ReporterName": "Azerbaijan",
+    "Year": 2017,
+    "AnnualTradeValue": 30612036.604999997
+  },
+  {
+    "ReporterISO3": "AZE",
+    "ReporterName": "Azerbaijan",
+    "Year": 2018,
+    "AnnualTradeValue": 38978136.408
+  },
+  {
+    "ReporterISO3": "AZE",
+    "ReporterName": "Azerbaijan",
+    "Year": 2019,
+    "AnnualTradeValue": 39270405.202000014
+  },
+  {
+    "ReporterISO3": "AZE",
+    "ReporterName": "Azerbaijan",
+    "Year": 2020,
+    "AnnualTradeValue": 27465274.524999995
+  },
+  {
+    "ReporterISO3": "AZE",
+    "ReporterName": "Azerbaijan",
+    "Year": 2021,
+    "AnnualTradeValue": 44413342.23300002
+  },
+  {
+    "ReporterISO3": "BDI",
+    "ReporterName": "Burundi",
+    "Year": 1993,
+    "AnnualTradeValue": 316525.79000000004
+  },
+  {
+    "ReporterISO3": "BDI",
+    "ReporterName": "Burundi",
+    "Year": 1994,
+    "AnnualTradeValue": 343193.4149999999
+  },
+  {
+    "ReporterISO3": "BDI",
+    "ReporterName": "Burundi",
+    "Year": 1995,
+    "AnnualTradeValue": 357878.75299999997
+  },
+  {
+    "ReporterISO3": "BDI",
+    "ReporterName": "Burundi",
+    "Year": 1996,
+    "AnnualTradeValue": 163551.55299999999
+  },
+  {
+    "ReporterISO3": "BDI",
+    "ReporterName": "Burundi",
+    "Year": 1997,
+    "AnnualTradeValue": 137489.85199999998
+  },
+  {
+    "ReporterISO3": "BDI",
+    "ReporterName": "Burundi",
+    "Year": 1998,
+    "AnnualTradeValue": 172991.51599999997
+  },
+  {
+    "ReporterISO3": "BDI",
+    "ReporterName": "Burundi",
+    "Year": 1999,
+    "AnnualTradeValue": 124825.79000000001
+  },
+  {
+    "ReporterISO3": "BDI",
+    "ReporterName": "Burundi",
+    "Year": 2000,
+    "AnnualTradeValue": 85709.502
+  },
+  {
+    "ReporterISO3": "BDI",
+    "ReporterName": "Burundi",
+    "Year": 2001,
+    "AnnualTradeValue": 84311.67499999996
+  },
+  {
+    "ReporterISO3": "BDI",
+    "ReporterName": "Burundi",
+    "Year": 2002,
+    "AnnualTradeValue": 53119.75100000001
+  },
+  {
+    "ReporterISO3": "BDI",
+    "ReporterName": "Burundi",
+    "Year": 2003,
+    "AnnualTradeValue": 131806.428
+  },
+  {
+    "ReporterISO3": "BDI",
+    "ReporterName": "Burundi",
+    "Year": 2004,
+    "AnnualTradeValue": 165449.41799999992
+  },
+  {
+    "ReporterISO3": "BDI",
+    "ReporterName": "Burundi",
+    "Year": 2005,
+    "AnnualTradeValue": 227511.92300000004
+  },
+  {
+    "ReporterISO3": "BDI",
+    "ReporterName": "Burundi",
+    "Year": 2006,
+    "AnnualTradeValue": 267929.37200000003
+  },
+  {
+    "ReporterISO3": "BDI",
+    "ReporterName": "Burundi",
+    "Year": 2007,
+    "AnnualTradeValue": 312390.7799999999
+  },
+  {
+    "ReporterISO3": "BDI",
+    "ReporterName": "Burundi",
+    "Year": 2008,
+    "AnnualTradeValue": 283571.5069999999
+  },
+  {
+    "ReporterISO3": "BDI",
+    "ReporterName": "Burundi",
+    "Year": 2009,
+    "AnnualTradeValue": 225863.42399999997
+  },
+  {
+    "ReporterISO3": "BDI",
+    "ReporterName": "Burundi",
+    "Year": 2010,
+    "AnnualTradeValue": 236312.92400000003
+  },
+  {
+    "ReporterISO3": "BDI",
+    "ReporterName": "Burundi",
+    "Year": 2011,
+    "AnnualTradeValue": 368054.257
+  },
+  {
+    "ReporterISO3": "BDI",
+    "ReporterName": "Burundi",
+    "Year": 2012,
+    "AnnualTradeValue": 462349.66000000003
+  },
+  {
+    "ReporterISO3": "BDI",
+    "ReporterName": "Burundi",
+    "Year": 2013,
+    "AnnualTradeValue": 411497.62400000007
+  },
+  {
+    "ReporterISO3": "BDI",
+    "ReporterName": "Burundi",
+    "Year": 2014,
+    "AnnualTradeValue": 271563.3250000001
+  },
+  {
+    "ReporterISO3": "BDI",
+    "ReporterName": "Burundi",
+    "Year": 2015,
+    "AnnualTradeValue": 223833.76000000007
+  },
+  {
+    "ReporterISO3": "BDI",
+    "ReporterName": "Burundi",
+    "Year": 2016,
+    "AnnualTradeValue": 234126.3
+  },
+  {
+    "ReporterISO3": "BDI",
+    "ReporterName": "Burundi",
+    "Year": 2017,
+    "AnnualTradeValue": 295161.852
+  },
+  {
+    "ReporterISO3": "BDI",
+    "ReporterName": "Burundi",
+    "Year": 2018,
+    "AnnualTradeValue": 320648.94999999995
+  },
+  {
+    "ReporterISO3": "BDI",
+    "ReporterName": "Burundi",
+    "Year": 2019,
+    "AnnualTradeValue": 361434.4020000002
+  },
+  {
+    "ReporterISO3": "BDI",
+    "ReporterName": "Burundi",
+    "Year": 2020,
+    "AnnualTradeValue": 323723.066
+  },
+  {
+    "ReporterISO3": "BEL",
+    "ReporterName": "Belgium",
+    "Year": 1999,
+    "AnnualTradeValue": 357733656.49399996
+  },
+  {
+    "ReporterISO3": "BEL",
+    "ReporterName": "Belgium",
+    "Year": 2000,
+    "AnnualTradeValue": 375677809.4789999
+  },
+  {
+    "ReporterISO3": "BEL",
+    "ReporterName": "Belgium",
+    "Year": 2001,
+    "AnnualTradeValue": 380618973.9519998
+  },
+  {
+    "ReporterISO3": "BEL",
+    "ReporterName": "Belgium",
+    "Year": 2002,
+    "AnnualTradeValue": 431606010.8569999
+  },
+  {
+    "ReporterISO3": "BEL",
+    "ReporterName": "Belgium",
+    "Year": 2003,
+    "AnnualTradeValue": 511107321.75600004
+  },
+  {
+    "ReporterISO3": "BEL",
+    "ReporterName": "Belgium",
+    "Year": 2004,
+    "AnnualTradeValue": 615380839.297
+  },
+  {
+    "ReporterISO3": "BEL",
+    "ReporterName": "Belgium",
+    "Year": 2005,
+    "AnnualTradeValue": 671383556.115
+  },
+  {
+    "ReporterISO3": "BEL",
+    "ReporterName": "Belgium",
+    "Year": 2006,
+    "AnnualTradeValue": 733670984.7020005
+  },
+  {
+    "ReporterISO3": "BEL",
+    "ReporterName": "Belgium",
+    "Year": 2007,
+    "AnnualTradeValue": 863487685.4810001
+  },
+  {
+    "ReporterISO3": "BEL",
+    "ReporterName": "Belgium",
+    "Year": 2008,
+    "AnnualTradeValue": 943595640.1930001
+  },
+  {
+    "ReporterISO3": "BEL",
+    "ReporterName": "Belgium",
+    "Year": 2009,
+    "AnnualTradeValue": 741758387.2549993
+  },
+  {
+    "ReporterISO3": "BEL",
+    "ReporterName": "Belgium",
+    "Year": 2010,
+    "AnnualTradeValue": 549448490.3009999
+  },
+  {
+    "ReporterISO3": "BEL",
+    "ReporterName": "Belgium",
+    "Year": 2011,
+    "AnnualTradeValue": 655178047.3130008
+  },
+  {
+    "ReporterISO3": "BEL",
+    "ReporterName": "Belgium",
+    "Year": 2012,
+    "AnnualTradeValue": 610276641.632
+  },
+  {
+    "ReporterISO3": "BEL",
+    "ReporterName": "Belgium",
+    "Year": 2013,
+    "AnnualTradeValue": 636488470.6999997
+  },
+  {
+    "ReporterISO3": "BEL",
+    "ReporterName": "Belgium",
+    "Year": 2014,
+    "AnnualTradeValue": 638428276.4639996
+  },
+  {
+    "ReporterISO3": "BEL",
+    "ReporterName": "Belgium",
+    "Year": 2015,
+    "AnnualTradeValue": 506821411.9810001
+  },
+  {
+    "ReporterISO3": "BEL",
+    "ReporterName": "Belgium",
+    "Year": 2016,
+    "AnnualTradeValue": 542463833.1420003
+  },
+  {
+    "ReporterISO3": "BEL",
+    "ReporterName": "Belgium",
+    "Year": 2017,
+    "AnnualTradeValue": 593113044.0529997
+  },
+  {
+    "ReporterISO3": "BEL",
+    "ReporterName": "Belgium",
+    "Year": 2018,
+    "AnnualTradeValue": 646756877.5199999
+  },
+  {
+    "ReporterISO3": "BEL",
+    "ReporterName": "Belgium",
+    "Year": 2019,
+    "AnnualTradeValue": 623491147.5599998
+  },
+  {
+    "ReporterISO3": "BEL",
+    "ReporterName": "Belgium",
+    "Year": 2020,
+    "AnnualTradeValue": 592261175.9560002
+  },
+  {
+    "ReporterISO3": "BEL",
+    "ReporterName": "Belgium",
+    "Year": 2021,
+    "AnnualTradeValue": 672936784.8340001
+  },
+  {
+    "ReporterISO3": "BEN",
+    "ReporterName": "Benin",
+    "Year": 1998,
+    "AnnualTradeValue": 394395.70300000004
+  },
+  {
+    "ReporterISO3": "BEN",
+    "ReporterName": "Benin",
+    "Year": 1999,
+    "AnnualTradeValue": 451254.43400000007
+  },
+  {
+    "ReporterISO3": "BEN",
+    "ReporterName": "Benin",
+    "Year": 2000,
+    "AnnualTradeValue": 379590.29300000006
+  },
+  {
+    "ReporterISO3": "BEN",
+    "ReporterName": "Benin",
+    "Year": 2001,
+    "AnnualTradeValue": 408330.72600000014
+  },
+  {
+    "ReporterISO3": "BEN",
+    "ReporterName": "Benin",
+    "Year": 2002,
+    "AnnualTradeValue": 483437.867
+  },
+  {
+    "ReporterISO3": "BEN",
+    "ReporterName": "Benin",
+    "Year": 2003,
+    "AnnualTradeValue": 492785.5130000001
+  },
+  {
+    "ReporterISO3": "BEN",
+    "ReporterName": "Benin",
+    "Year": 2004,
+    "AnnualTradeValue": 572661.7470000002
+  },
+  {
+    "ReporterISO3": "BEN",
+    "ReporterName": "Benin",
+    "Year": 2005,
+    "AnnualTradeValue": 533481.4749999999
+  },
+  {
+    "ReporterISO3": "BEN",
+    "ReporterName": "Benin",
+    "Year": 2006,
+    "AnnualTradeValue": 449186.1659999999
+  },
+  {
+    "ReporterISO3": "BEN",
+    "ReporterName": "Benin",
+    "Year": 2007,
+    "AnnualTradeValue": 548774.7870000001
+  },
+  {
+    "ReporterISO3": "BEN",
+    "ReporterName": "Benin",
+    "Year": 2008,
+    "AnnualTradeValue": 842127.6050000006
+  },
+  {
+    "ReporterISO3": "BEN",
+    "ReporterName": "Benin",
+    "Year": 2009,
+    "AnnualTradeValue": 850695.473
+  },
+  {
+    "ReporterISO3": "BEN",
+    "ReporterName": "Benin",
+    "Year": 2010,
+    "AnnualTradeValue": 796476.2710000002
+  },
+  {
+    "ReporterISO3": "BEN",
+    "ReporterName": "Benin",
+    "Year": 2011,
+    "AnnualTradeValue": 510043.74199999997
+  },
+  {
+    "ReporterISO3": "BEN",
+    "ReporterName": "Benin",
+    "Year": 2012,
+    "AnnualTradeValue": 585922.9519999998
+  },
+  {
+    "ReporterISO3": "BEN",
+    "ReporterName": "Benin",
+    "Year": 2013,
+    "AnnualTradeValue": 809060.0189999999
+  },
+  {
+    "ReporterISO3": "BEN",
+    "ReporterName": "Benin",
+    "Year": 2014,
+    "AnnualTradeValue": 951451.1299999995
+  },
+  {
+    "ReporterISO3": "BEN",
+    "ReporterName": "Benin",
+    "Year": 2015,
+    "AnnualTradeValue": 878473.081
+  },
+  {
+    "ReporterISO3": "BEN",
+    "ReporterName": "Benin",
+    "Year": 2016,
+    "AnnualTradeValue": 655533.4159999996
+  },
+  {
+    "ReporterISO3": "BEN",
+    "ReporterName": "Benin",
+    "Year": 2017,
+    "AnnualTradeValue": 1318721.299
+  },
+  {
+    "ReporterISO3": "BEN",
+    "ReporterName": "Benin",
+    "Year": 2018,
+    "AnnualTradeValue": 1626727.883
+  },
+  {
+    "ReporterISO3": "BEN",
+    "ReporterName": "Benin",
+    "Year": 2019,
+    "AnnualTradeValue": 1512002.4040000003
+  },
+  {
+    "ReporterISO3": "BEN",
+    "ReporterName": "Benin",
+    "Year": 2020,
+    "AnnualTradeValue": 1500384.105
+  },
+  {
+    "ReporterISO3": "BEN",
+    "ReporterName": "Benin",
+    "Year": 2021,
+    "AnnualTradeValue": 1755598.4849999994
+  },
+  {
+    "ReporterISO3": "BFA",
+    "ReporterName": "Burkina Faso",
+    "Year": 1995,
+    "AnnualTradeValue": 322432.44499999995
+  },
+  {
+    "ReporterISO3": "BFA",
+    "ReporterName": "Burkina Faso",
+    "Year": 1996,
+    "AnnualTradeValue": 355240.2589999999
+  },
+  {
+    "ReporterISO3": "BFA",
+    "ReporterName": "Burkina Faso",
+    "Year": 1997,
+    "AnnualTradeValue": 449158.78199999995
+  },
+  {
+    "ReporterISO3": "BFA",
+    "ReporterName": "Burkina Faso",
+    "Year": 1998,
+    "AnnualTradeValue": 493407.373
+  },
+  {
+    "ReporterISO3": "BFA",
+    "ReporterName": "Burkina Faso",
+    "Year": 1999,
+    "AnnualTradeValue": 472882.488
+  },
+  {
+    "ReporterISO3": "BFA",
+    "ReporterName": "Burkina Faso",
+    "Year": 2000,
+    "AnnualTradeValue": 367825.7720000001
+  },
+  {
+    "ReporterISO3": "BFA",
+    "ReporterName": "Burkina Faso",
+    "Year": 2001,
+    "AnnualTradeValue": 376481.87500000006
+  },
+  {
+    "ReporterISO3": "BFA",
+    "ReporterName": "Burkina Faso",
+    "Year": 2002,
+    "AnnualTradeValue": 341101.33999999997
+  },
+  {
+    "ReporterISO3": "BFA",
+    "ReporterName": "Burkina Faso",
+    "Year": 2003,
+    "AnnualTradeValue": 627969.7500000001
+  },
+  {
+    "ReporterISO3": "BFA",
+    "ReporterName": "Burkina Faso",
+    "Year": 2004,
+    "AnnualTradeValue": 784150.1849999999
+  },
+  {
+    "ReporterISO3": "BFA",
+    "ReporterName": "Burkina Faso",
+    "Year": 2005,
+    "AnnualTradeValue": 664594.794
+  },
+  {
+    "ReporterISO3": "BFA",
+    "ReporterName": "Burkina Faso",
+    "Year": 2007,
+    "AnnualTradeValue": 905326.8800000002
+  },
+  {
+    "ReporterISO3": "BFA",
+    "ReporterName": "Burkina Faso",
+    "Year": 2008,
+    "AnnualTradeValue": 940227.8060000001
+  },
+  {
+    "ReporterISO3": "BFA",
+    "ReporterName": "Burkina Faso",
+    "Year": 2009,
+    "AnnualTradeValue": 1591083.5200000005
+  },
+  {
+    "ReporterISO3": "BFA",
+    "ReporterName": "Burkina Faso",
+    "Year": 2010,
+    "AnnualTradeValue": 2576267.2489999994
+  },
+  {
+    "ReporterISO3": "BFA",
+    "ReporterName": "Burkina Faso",
+    "Year": 2011,
+    "AnnualTradeValue": 4624823.426000002
+  },
+  {
+    "ReporterISO3": "BFA",
+    "ReporterName": "Burkina Faso",
+    "Year": 2012,
+    "AnnualTradeValue": 4527146.770999999
+  },
+  {
+    "ReporterISO3": "BFA",
+    "ReporterName": "Burkina Faso",
+    "Year": 2013,
+    "AnnualTradeValue": 4965709.491
+  },
+  {
+    "ReporterISO3": "BFA",
+    "ReporterName": "Burkina Faso",
+    "Year": 2014,
+    "AnnualTradeValue": 5276232.86
+  },
+  {
+    "ReporterISO3": "BFA",
+    "ReporterName": "Burkina Faso",
+    "Year": 2015,
+    "AnnualTradeValue": 4354993.230000001
+  },
+  {
+    "ReporterISO3": "BFA",
+    "ReporterName": "Burkina Faso",
+    "Year": 2016,
+    "AnnualTradeValue": 5040024.676000004
+  },
+  {
+    "ReporterISO3": "BFA",
+    "ReporterName": "Burkina Faso",
+    "Year": 2017,
+    "AnnualTradeValue": 5818740.237999998
+  },
+  {
+    "ReporterISO3": "BFA",
+    "ReporterName": "Burkina Faso",
+    "Year": 2018,
+    "AnnualTradeValue": 6535149.092999999
+  },
+  {
+    "ReporterISO3": "BFA",
+    "ReporterName": "Burkina Faso",
+    "Year": 2019,
+    "AnnualTradeValue": 6522209.650999999
+  },
+  {
+    "ReporterISO3": "BFA",
+    "ReporterName": "Burkina Faso",
+    "Year": 2020,
+    "AnnualTradeValue": 8749263.691
+  },
+  {
+    "ReporterISO3": "BFA",
+    "ReporterName": "Burkina Faso",
+    "Year": 2021,
+    "AnnualTradeValue": 10120055.921999991
+  },
+  {
+    "ReporterISO3": "BGD",
+    "ReporterName": "Bangladesh",
+    "Year": 1989,
+    "AnnualTradeValue": 2656015.4170000004
+  },
+  {
+    "ReporterISO3": "BGD",
+    "ReporterName": "Bangladesh",
+    "Year": 1990,
+    "AnnualTradeValue": 3112880.8490000037
+  },
+  {
+    "ReporterISO3": "BGD",
+    "ReporterName": "Bangladesh",
+    "Year": 1991,
+    "AnnualTradeValue": 3380413.718
+  },
+  {
+    "ReporterISO3": "BGD",
+    "ReporterName": "Bangladesh",
+    "Year": 1992,
+    "AnnualTradeValue": 3883214.3479999998
+  },
+  {
+    "ReporterISO3": "BGD",
+    "ReporterName": "Bangladesh",
+    "Year": 1993,
+    "AnnualTradeValue": 4506187.342999999
+  },
+  {
+    "ReporterISO3": "BGD",
+    "ReporterName": "Bangladesh",
+    "Year": 1994,
+    "AnnualTradeValue": 4966653.904999997
+  },
+  {
+    "ReporterISO3": "BGD",
+    "ReporterName": "Bangladesh",
+    "Year": 1995,
+    "AnnualTradeValue": 6814482.343000001
+  },
+  {
+    "ReporterISO3": "BGD",
+    "ReporterName": "Bangladesh",
+    "Year": 1996,
+    "AnnualTradeValue": 7077019.698
+  },
+  {
+    "ReporterISO3": "BGD",
+    "ReporterName": "Bangladesh",
+    "Year": 1997,
+    "AnnualTradeValue": 8034911.165999998
+  },
+  {
+    "ReporterISO3": "BGD",
+    "ReporterName": "Bangladesh",
+    "Year": 1998,
+    "AnnualTradeValue": 10113828.886000002
+  },
+  {
+    "ReporterISO3": "BGD",
+    "ReporterName": "Bangladesh",
+    "Year": 2000,
+    "AnnualTradeValue": 10986452.863000002
+  },
+  {
+    "ReporterISO3": "BGD",
+    "ReporterName": "Bangladesh",
+    "Year": 2001,
+    "AnnualTradeValue": 10777494.278
+  },
+  {
+    "ReporterISO3": "BGD",
+    "ReporterName": "Bangladesh",
+    "Year": 2002,
+    "AnnualTradeValue": 10834545.071
+  },
+  {
+    "ReporterISO3": "BGD",
+    "ReporterName": "Bangladesh",
+    "Year": 2003,
+    "AnnualTradeValue": 12806851.246000009
+  },
+  {
+    "ReporterISO3": "BGD",
+    "ReporterName": "Bangladesh",
+    "Year": 2004,
+    "AnnualTradeValue": 16534964.043000005
+  },
+  {
+    "ReporterISO3": "BGD",
+    "ReporterName": "Bangladesh",
+    "Year": 2005,
+    "AnnualTradeValue": 18663166.726000007
+  },
+  {
+    "ReporterISO3": "BGD",
+    "ReporterName": "Bangladesh",
+    "Year": 2006,
+    "AnnualTradeValue": 23393400.990000006
+  },
+  {
+    "ReporterISO3": "BGD",
+    "ReporterName": "Bangladesh",
+    "Year": 2007,
+    "AnnualTradeValue": 26285905.85499999
+  },
+  {
+    "ReporterISO3": "BGD",
+    "ReporterName": "Bangladesh",
+    "Year": 2008,
+    "AnnualTradeValue": 31013438.358000003
+  },
+  {
+    "ReporterISO3": "BGD",
+    "ReporterName": "Bangladesh",
+    "Year": 2009,
+    "AnnualTradeValue": 31117267.98600001
+  },
+  {
+    "ReporterISO3": "BGD",
+    "ReporterName": "Bangladesh",
+    "Year": 2010,
+    "AnnualTradeValue": 38461965.117000006
+  },
+  {
+    "ReporterISO3": "BGD",
+    "ReporterName": "Bangladesh",
+    "Year": 2011,
+    "AnnualTradeValue": 48627488.48000001
+  },
+  {
+    "ReporterISO3": "BGD",
+    "ReporterName": "Bangladesh",
+    "Year": 2012,
+    "AnnualTradeValue": 49027001.661999986
+  },
+  {
+    "ReporterISO3": "BGD",
+    "ReporterName": "Bangladesh",
+    "Year": 2013,
+    "AnnualTradeValue": 49074682.01400004
+  },
+  {
+    "ReporterISO3": "BGD",
+    "ReporterName": "Bangladesh",
+    "Year": 2015,
+    "AnnualTradeValue": 63468324.833999984
+  },
+  {
+    "ReporterISO3": "BGR",
+    "ReporterName": "Bulgaria",
+    "Year": 1996,
+    "AnnualTradeValue": 9780375.756000003
+  },
+  {
+    "ReporterISO3": "BGR",
+    "ReporterName": "Bulgaria",
+    "Year": 1997,
+    "AnnualTradeValue": 9879328.92
+  },
+  {
+    "ReporterISO3": "BGR",
+    "ReporterName": "Bulgaria",
+    "Year": 1998,
+    "AnnualTradeValue": 8585853.393999996
+  },
+  {
+    "ReporterISO3": "BGR",
+    "ReporterName": "Bulgaria",
+    "Year": 1999,
+    "AnnualTradeValue": 7849057.9
+  },
+  {
+    "ReporterISO3": "BGR",
+    "ReporterName": "Bulgaria",
+    "Year": 2000,
+    "AnnualTradeValue": 9643687.738000004
+  },
+  {
+    "ReporterISO3": "BGR",
+    "ReporterName": "Bulgaria",
+    "Year": 2001,
+    "AnnualTradeValue": 10227776.462999998
+  },
+  {
+    "ReporterISO3": "BGR",
+    "ReporterName": "Bulgaria",
+    "Year": 2002,
+    "AnnualTradeValue": 11497738.937999997
+  },
+  {
+    "ReporterISO3": "BGR",
+    "ReporterName": "Bulgaria",
+    "Year": 2003,
+    "AnnualTradeValue": 15080351.187000005
+  },
+  {
+    "ReporterISO3": "BGR",
+    "ReporterName": "Bulgaria",
+    "Year": 2004,
+    "AnnualTradeValue": 19862174.868
+  },
+  {
+    "ReporterISO3": "BGR",
+    "ReporterName": "Bulgaria",
+    "Year": 2005,
+    "AnnualTradeValue": 23478658.661
+  },
+  {
+    "ReporterISO3": "BGR",
+    "ReporterName": "Bulgaria",
+    "Year": 2006,
+    "AnnualTradeValue": 30202914.141999993
+  },
+  {
+    "ReporterISO3": "BGR",
+    "ReporterName": "Bulgaria",
+    "Year": 2007,
+    "AnnualTradeValue": 37150258.84399997
+  },
+  {
+    "ReporterISO3": "BGR",
+    "ReporterName": "Bulgaria",
+    "Year": 2008,
+    "AnnualTradeValue": 44971018.11299998
+  },
+  {
+    "ReporterISO3": "BGR",
+    "ReporterName": "Bulgaria",
+    "Year": 2009,
+    "AnnualTradeValue": 33005039.786999993
+  },
+  {
+    "ReporterISO3": "BGR",
+    "ReporterName": "Bulgaria",
+    "Year": 2010,
+    "AnnualTradeValue": 41216010.30800003
+  },
+  {
+    "ReporterISO3": "BGR",
+    "ReporterName": "Bulgaria",
+    "Year": 2011,
+    "AnnualTradeValue": 56330439.497000016
+  },
+  {
+    "ReporterISO3": "BGR",
+    "ReporterName": "Bulgaria",
+    "Year": 2012,
+    "AnnualTradeValue": 53397560.183000006
+  },
+  {
+    "ReporterISO3": "BGR",
+    "ReporterName": "Bulgaria",
+    "Year": 2013,
+    "AnnualTradeValue": 59021148.635
+  },
+  {
+    "ReporterISO3": "BGR",
+    "ReporterName": "Bulgaria",
+    "Year": 2014,
+    "AnnualTradeValue": 58773080.621
+  },
+  {
+    "ReporterISO3": "BGR",
+    "ReporterName": "Bulgaria",
+    "Year": 2015,
+    "AnnualTradeValue": 51557491.88500001
+  },
+  {
+    "ReporterISO3": "BGR",
+    "ReporterName": "Bulgaria",
+    "Year": 2016,
+    "AnnualTradeValue": 53376365.81200002
+  },
+  {
+    "ReporterISO3": "BGR",
+    "ReporterName": "Bulgaria",
+    "Year": 2017,
+    "AnnualTradeValue": 63176836.551
+  },
+  {
+    "ReporterISO3": "BGR",
+    "ReporterName": "Bulgaria",
+    "Year": 2018,
+    "AnnualTradeValue": 67574287.97500004
+  },
+  {
+    "ReporterISO3": "BGR",
+    "ReporterName": "Bulgaria",
+    "Year": 2019,
+    "AnnualTradeValue": 66908896.10400002
+  },
+  {
+    "ReporterISO3": "BGR",
+    "ReporterName": "Bulgaria",
+    "Year": 2020,
+    "AnnualTradeValue": 63829407.76799999
+  },
+  {
+    "ReporterISO3": "BHR",
+    "ReporterName": "Bahrain",
+    "Year": 1994,
+    "AnnualTradeValue": 6001364.897000002
+  },
+  {
+    "ReporterISO3": "BHR",
+    "ReporterName": "Bahrain",
+    "Year": 1995,
+    "AnnualTradeValue": 6836249.876999998
+  },
+  {
+    "ReporterISO3": "BHR",
+    "ReporterName": "Bahrain",
+    "Year": 1996,
+    "AnnualTradeValue": 2988919.1739999996
+  },
+  {
+    "ReporterISO3": "BHR",
+    "ReporterName": "Bahrain",
+    "Year": 2000,
+    "AnnualTradeValue": 12225969.781999998
+  },
+  {
+    "ReporterISO3": "BHR",
+    "ReporterName": "Bahrain",
+    "Year": 2001,
+    "AnnualTradeValue": 10999546.291000001
+  },
+  {
+    "ReporterISO3": "BHR",
+    "ReporterName": "Bahrain",
+    "Year": 2002,
+    "AnnualTradeValue": 11407747.979
+  },
+  {
+    "ReporterISO3": "BHR",
+    "ReporterName": "Bahrain",
+    "Year": 2003,
+    "AnnualTradeValue": 12908497.597000001
+  },
+  {
+    "ReporterISO3": "BHR",
+    "ReporterName": "Bahrain",
+    "Year": 2004,
+    "AnnualTradeValue": 14700032.999999996
+  },
+  {
+    "ReporterISO3": "BHR",
+    "ReporterName": "Bahrain",
+    "Year": 2005,
+    "AnnualTradeValue": 19926019.668
+  },
+  {
+    "ReporterISO3": "BHR",
+    "ReporterName": "Bahrain",
+    "Year": 2006,
+    "AnnualTradeValue": 22882608.402000006
+  },
+  {
+    "ReporterISO3": "BHR",
+    "ReporterName": "Bahrain",
+    "Year": 2007,
+    "AnnualTradeValue": 26740630.503999997
+  },
+  {
+    "ReporterISO3": "BHR",
+    "ReporterName": "Bahrain",
+    "Year": 2008,
+    "AnnualTradeValue": 25149984.259
+  },
+  {
+    "ReporterISO3": "BHR",
+    "ReporterName": "Bahrain",
+    "Year": 2009,
+    "AnnualTradeValue": 15816600.159000004
+  },
+  {
+    "ReporterISO3": "BHR",
+    "ReporterName": "Bahrain",
+    "Year": 2010,
+    "AnnualTradeValue": 30997835.197
+  },
+  {
+    "ReporterISO3": "BHR",
+    "ReporterName": "Bahrain",
+    "Year": 2011,
+    "AnnualTradeValue": 43303221.814
+  },
+  {
+    "ReporterISO3": "BHR",
+    "ReporterName": "Bahrain",
+    "Year": 2012,
+    "AnnualTradeValue": 30942832.017000005
+  },
+  {
+    "ReporterISO3": "BHR",
+    "ReporterName": "Bahrain",
+    "Year": 2013,
+    "AnnualTradeValue": 34380991.804000005
+  },
+  {
+    "ReporterISO3": "BHR",
+    "ReporterName": "Bahrain",
+    "Year": 2014,
+    "AnnualTradeValue": 43167508.937
+  },
+  {
+    "ReporterISO3": "BHR",
+    "ReporterName": "Bahrain",
+    "Year": 2015,
+    "AnnualTradeValue": 20499971.504999995
+  },
+  {
+    "ReporterISO3": "BHR",
+    "ReporterName": "Bahrain",
+    "Year": 2016,
+    "AnnualTradeValue": 17269195.091000002
+  },
+  {
+    "ReporterISO3": "BHR",
+    "ReporterName": "Bahrain",
+    "Year": 2017,
+    "AnnualTradeValue": 22176551.551999997
+  },
+  {
+    "ReporterISO3": "BHR",
+    "ReporterName": "Bahrain",
+    "Year": 2018,
+    "AnnualTradeValue": 25957727.911999997
+  },
+  {
+    "ReporterISO3": "BHR",
+    "ReporterName": "Bahrain",
+    "Year": 2019,
+    "AnnualTradeValue": 28334526.268000018
+  },
+  {
+    "ReporterISO3": "BHS",
+    "ReporterName": "Bahamas, The",
+    "Year": 1997,
+    "AnnualTradeValue": 203997.02999999997
+  },
+  {
+    "ReporterISO3": "BHS",
+    "ReporterName": "Bahamas, The",
+    "Year": 1998,
+    "AnnualTradeValue": 276440.2399999998
+  },
+  {
+    "ReporterISO3": "BHS",
+    "ReporterName": "Bahamas, The",
+    "Year": 1999,
+    "AnnualTradeValue": 388321.41099999996
+  },
+  {
+    "ReporterISO3": "BHS",
+    "ReporterName": "Bahamas, The",
+    "Year": 2000,
+    "AnnualTradeValue": 488475.4380000001
+  },
+  {
+    "ReporterISO3": "BHS",
+    "ReporterName": "Bahamas, The",
+    "Year": 2001,
+    "AnnualTradeValue": 457094.3820000001
+  },
+  {
+    "ReporterISO3": "BHS",
+    "ReporterName": "Bahamas, The",
+    "Year": 2002,
+    "AnnualTradeValue": 458036.41799999995
+  },
+  {
+    "ReporterISO3": "BHS",
+    "ReporterName": "Bahamas, The",
+    "Year": 2003,
+    "AnnualTradeValue": 528230.28
+  },
+  {
+    "ReporterISO3": "BHS",
+    "ReporterName": "Bahamas, The",
+    "Year": 2004,
+    "AnnualTradeValue": 480455.20800000004
+  },
+  {
+    "ReporterISO3": "BHS",
+    "ReporterName": "Bahamas, The",
+    "Year": 2005,
+    "AnnualTradeValue": 541698.246
+  },
+  {
+    "ReporterISO3": "BHS",
+    "ReporterName": "Bahamas, The",
+    "Year": 2006,
+    "AnnualTradeValue": 611110.906
+  },
+  {
+    "ReporterISO3": "BHS",
+    "ReporterName": "Bahamas, The",
+    "Year": 2007,
+    "AnnualTradeValue": 758179.316
+  },
+  {
+    "ReporterISO3": "BHS",
+    "ReporterName": "Bahamas, The",
+    "Year": 2008,
+    "AnnualTradeValue": 819270.22
+  },
+  {
+    "ReporterISO3": "BHS",
+    "ReporterName": "Bahamas, The",
+    "Year": 2009,
+    "AnnualTradeValue": 667413.8279999999
+  },
+  {
+    "ReporterISO3": "BHS",
+    "ReporterName": "Bahamas, The",
+    "Year": 2010,
+    "AnnualTradeValue": 607115.45
+  },
+  {
+    "ReporterISO3": "BHS",
+    "ReporterName": "Bahamas, The",
+    "Year": 2011,
+    "AnnualTradeValue": 652886.7859999997
+  },
+  {
+    "ReporterISO3": "BHS",
+    "ReporterName": "Bahamas, The",
+    "Year": 2012,
+    "AnnualTradeValue": 675072.4460000001
+  },
+  {
+    "ReporterISO3": "BHS",
+    "ReporterName": "Bahamas, The",
+    "Year": 2013,
+    "AnnualTradeValue": 728847.708
+  },
+  {
+    "ReporterISO3": "BHS",
+    "ReporterName": "Bahamas, The",
+    "Year": 2014,
+    "AnnualTradeValue": 708581.1859999999
+  },
+  {
+    "ReporterISO3": "BHS",
+    "ReporterName": "Bahamas, The",
+    "Year": 2015,
+    "AnnualTradeValue": 447631.226
+  },
+  {
+    "ReporterISO3": "BHS",
+    "ReporterName": "Bahamas, The",
+    "Year": 2016,
+    "AnnualTradeValue": 805424.8439999999
+  },
+  {
+    "ReporterISO3": "BHS",
+    "ReporterName": "Bahamas, The",
+    "Year": 2017,
+    "AnnualTradeValue": 946644.551
+  },
+  {
+    "ReporterISO3": "BHS",
+    "ReporterName": "Bahamas, The",
+    "Year": 2018,
+    "AnnualTradeValue": 1048385.848
+  },
+  {
+    "ReporterISO3": "BIH",
+    "ReporterName": "Bosnia and Herzegovina",
+    "Year": 2003,
+    "AnnualTradeValue": 2800568.625999998
+  },
+  {
+    "ReporterISO3": "BIH",
+    "ReporterName": "Bosnia and Herzegovina",
+    "Year": 2004,
+    "AnnualTradeValue": 3824757.9990000017
+  },
+  {
+    "ReporterISO3": "BIH",
+    "ReporterName": "Bosnia and Herzegovina",
+    "Year": 2005,
+    "AnnualTradeValue": 4776966.379
+  },
+  {
+    "ReporterISO3": "BIH",
+    "ReporterName": "Bosnia and Herzegovina",
+    "Year": 2006,
+    "AnnualTradeValue": 6855563.123
+  },
+  {
+    "ReporterISO3": "BIH",
+    "ReporterName": "Bosnia and Herzegovina",
+    "Year": 2007,
+    "AnnualTradeValue": 8303930.688000002
+  },
+  {
+    "ReporterISO3": "BIH",
+    "ReporterName": "Bosnia and Herzegovina",
+    "Year": 2008,
+    "AnnualTradeValue": 10042165.346000003
+  },
+  {
+    "ReporterISO3": "BIH",
+    "ReporterName": "Bosnia and Herzegovina",
+    "Year": 2009,
+    "AnnualTradeValue": 7907840.265999995
+  },
+  {
+    "ReporterISO3": "BIH",
+    "ReporterName": "Bosnia and Herzegovina",
+    "Year": 2010,
+    "AnnualTradeValue": 9606217.066000002
+  },
+  {
+    "ReporterISO3": "BIH",
+    "ReporterName": "Bosnia and Herzegovina",
+    "Year": 2011,
+    "AnnualTradeValue": 11700157.414999995
+  },
+  {
+    "ReporterISO3": "BIH",
+    "ReporterName": "Bosnia and Herzegovina",
+    "Year": 2012,
+    "AnnualTradeValue": 10323617.991999997
+  },
+  {
+    "ReporterISO3": "BIH",
+    "ReporterName": "Bosnia and Herzegovina",
+    "Year": 2013,
+    "AnnualTradeValue": 11374926.93
+  },
+  {
+    "ReporterISO3": "BIH",
+    "ReporterName": "Bosnia and Herzegovina",
+    "Year": 2014,
+    "AnnualTradeValue": 11784204.401999993
+  },
+  {
+    "ReporterISO3": "BIH",
+    "ReporterName": "Bosnia and Herzegovina",
+    "Year": 2015,
+    "AnnualTradeValue": 10198371.527999993
+  },
+  {
+    "ReporterISO3": "BIH",
+    "ReporterName": "Bosnia and Herzegovina",
+    "Year": 2016,
+    "AnnualTradeValue": 10655156.678
+  },
+  {
+    "ReporterISO3": "BIH",
+    "ReporterName": "Bosnia and Herzegovina",
+    "Year": 2017,
+    "AnnualTradeValue": 12735844.543999998
+  },
+  {
+    "ReporterISO3": "BIH",
+    "ReporterName": "Bosnia and Herzegovina",
+    "Year": 2018,
+    "AnnualTradeValue": 14364192.641000004
+  },
+  {
+    "ReporterISO3": "BIH",
+    "ReporterName": "Bosnia and Herzegovina",
+    "Year": 2019,
+    "AnnualTradeValue": 13156487.802999998
+  },
+  {
+    "ReporterISO3": "BIH",
+    "ReporterName": "Bosnia and Herzegovina",
+    "Year": 2020,
+    "AnnualTradeValue": 12305025.071999999
+  },
+  {
+    "ReporterISO3": "BLR",
+    "ReporterName": "Belarus",
+    "Year": 1998,
+    "AnnualTradeValue": 14139435.381000007
+  },
+  {
+    "ReporterISO3": "BLR",
+    "ReporterName": "Belarus",
+    "Year": 1999,
+    "AnnualTradeValue": 11817854.872000001
+  },
+  {
+    "ReporterISO3": "BLR",
+    "ReporterName": "Belarus",
+    "Year": 2000,
+    "AnnualTradeValue": 14662117.99999999
+  },
+  {
+    "ReporterISO3": "BLR",
+    "ReporterName": "Belarus",
+    "Year": 2001,
+    "AnnualTradeValue": 14901288.000000004
+  },
+  {
+    "ReporterISO3": "BLR",
+    "ReporterName": "Belarus",
+    "Year": 2002,
+    "AnnualTradeValue": 16041824.000000004
+  },
+  {
+    "ReporterISO3": "BLR",
+    "ReporterName": "Belarus",
+    "Year": 2003,
+    "AnnualTradeValue": 19891176.799999997
+  },
+  {
+    "ReporterISO3": "BLR",
+    "ReporterName": "Belarus",
+    "Year": 2004,
+    "AnnualTradeValue": 27503399.19999998
+  },
+  {
+    "ReporterISO3": "BLR",
+    "ReporterName": "Belarus",
+    "Year": 2005,
+    "AnnualTradeValue": 31954441.399999995
+  },
+  {
+    "ReporterISO3": "BLR",
+    "ReporterName": "Belarus",
+    "Year": 2006,
+    "AnnualTradeValue": 39477086.79999998
+  },
+  {
+    "ReporterISO3": "BLR",
+    "ReporterName": "Belarus",
+    "Year": 2007,
+    "AnnualTradeValue": 48550487.99999998
+  },
+  {
+    "ReporterISO3": "BLR",
+    "ReporterName": "Belarus",
+    "Year": 2008,
+    "AnnualTradeValue": 65141561.00000002
+  },
+  {
+    "ReporterISO3": "BLR",
+    "ReporterName": "Belarus",
+    "Year": 2009,
+    "AnnualTradeValue": 42608345.79999999
+  },
+  {
+    "ReporterISO3": "BLR",
+    "ReporterName": "Belarus",
+    "Year": 2010,
+    "AnnualTradeValue": 50566924.6
+  },
+  {
+    "ReporterISO3": "BLR",
+    "ReporterName": "Belarus",
+    "Year": 2011,
+    "AnnualTradeValue": 82837343.99999993
+  },
+  {
+    "ReporterISO3": "BLR",
+    "ReporterName": "Belarus",
+    "Year": 2012,
+    "AnnualTradeValue": 92119870.00000003
+  },
+  {
+    "ReporterISO3": "BLR",
+    "ReporterName": "Belarus",
+    "Year": 2013,
+    "AnnualTradeValue": 74406070.60000004
+  },
+  {
+    "ReporterISO3": "BLR",
+    "ReporterName": "Belarus",
+    "Year": 2014,
+    "AnnualTradeValue": 72161073.6
+  },
+  {
+    "ReporterISO3": "BLR",
+    "ReporterName": "Belarus",
+    "Year": 2015,
+    "AnnualTradeValue": 53320789.20000004
+  },
+  {
+    "ReporterISO3": "BLR",
+    "ReporterName": "Belarus",
+    "Year": 2016,
+    "AnnualTradeValue": 47074708.999999985
+  },
+  {
+    "ReporterISO3": "BLR",
+    "ReporterName": "Belarus",
+    "Year": 2017,
+    "AnnualTradeValue": 58479987.800000004
+  },
+  {
+    "ReporterISO3": "BLR",
+    "ReporterName": "Belarus",
+    "Year": 2018,
+    "AnnualTradeValue": 67452282.79999998
+  },
+  {
+    "ReporterISO3": "BLR",
+    "ReporterName": "Belarus",
+    "Year": 2019,
+    "AnnualTradeValue": 65910244.80000001
+  },
+  {
+    "ReporterISO3": "BLR",
+    "ReporterName": "Belarus",
+    "Year": 2020,
+    "AnnualTradeValue": 58358882
+  },
+  {
+    "ReporterISO3": "BLR",
+    "ReporterName": "Belarus",
+    "Year": 2021,
+    "AnnualTradeValue": 79778045.59999995
+  },
+  {
+    "ReporterISO3": "BLX",
+    "ReporterName": "Belgium-Luxembourg",
+    "Year": 1988,
+    "AnnualTradeValue": 178836687.61200008
+  },
+  {
+    "ReporterISO3": "BLX",
+    "ReporterName": "Belgium-Luxembourg",
+    "Year": 1989,
+    "AnnualTradeValue": 202519478.5020001
+  },
+  {
+    "ReporterISO3": "BLX",
+    "ReporterName": "Belgium-Luxembourg",
+    "Year": 1990,
+    "AnnualTradeValue": 236591992.64
+  },
+  {
+    "ReporterISO3": "BLX",
+    "ReporterName": "Belgium-Luxembourg",
+    "Year": 1991,
+    "AnnualTradeValue": 237120162.78700006
+  },
+  {
+    "ReporterISO3": "BLX",
+    "ReporterName": "Belgium-Luxembourg",
+    "Year": 1992,
+    "AnnualTradeValue": 246919098.634
+  },
+  {
+    "ReporterISO3": "BLX",
+    "ReporterName": "Belgium-Luxembourg",
+    "Year": 1993,
+    "AnnualTradeValue": 241723603.76700008
+  },
+  {
+    "ReporterISO3": "BLX",
+    "ReporterName": "Belgium-Luxembourg",
+    "Year": 1994,
+    "AnnualTradeValue": 274539477.00400007
+  },
+  {
+    "ReporterISO3": "BLX",
+    "ReporterName": "Belgium-Luxembourg",
+    "Year": 1995,
+    "AnnualTradeValue": 336307219.14500004
+  },
+  {
+    "ReporterISO3": "BLX",
+    "ReporterName": "Belgium-Luxembourg",
+    "Year": 1996,
+    "AnnualTradeValue": 336687176.3819999
+  },
+  {
+    "ReporterISO3": "BLX",
+    "ReporterName": "Belgium-Luxembourg",
+    "Year": 1997,
+    "AnnualTradeValue": 345399588.6260002
+  },
+  {
+    "ReporterISO3": "BLX",
+    "ReporterName": "Belgium-Luxembourg",
+    "Year": 1998,
+    "AnnualTradeValue": 357230881.7260001
+  },
+  {
+    "ReporterISO3": "BLZ",
+    "ReporterName": "Belize",
+    "Year": 1992,
+    "AnnualTradeValue": 221959.15900000007
+  },
+  {
+    "ReporterISO3": "BLZ",
+    "ReporterName": "Belize",
+    "Year": 1993,
+    "AnnualTradeValue": 217968.92700000003
+  },
+  {
+    "ReporterISO3": "BLZ",
+    "ReporterName": "Belize",
+    "Year": 1994,
+    "AnnualTradeValue": 238789.59100000001
+  },
+  {
+    "ReporterISO3": "BLZ",
+    "ReporterName": "Belize",
+    "Year": 1995,
+    "AnnualTradeValue": 285840.40299999993
+  },
+  {
+    "ReporterISO3": "BLZ",
+    "ReporterName": "Belize",
+    "Year": 1996,
+    "AnnualTradeValue": 307101.071
+  },
+  {
+    "ReporterISO3": "BLZ",
+    "ReporterName": "Belize",
+    "Year": 1997,
+    "AnnualTradeValue": 317874.705
+  },
+  {
+    "ReporterISO3": "BLZ",
+    "ReporterName": "Belize",
+    "Year": 1998,
+    "AnnualTradeValue": 292850.249
+  },
+  {
+    "ReporterISO3": "BLZ",
+    "ReporterName": "Belize",
+    "Year": 1999,
+    "AnnualTradeValue": 170927.735
+  },
+  {
+    "ReporterISO3": "BLZ",
+    "ReporterName": "Belize",
+    "Year": 2000,
+    "AnnualTradeValue": 371054.82700000005
+  },
+  {
+    "ReporterISO3": "BLZ",
+    "ReporterName": "Belize",
+    "Year": 2001,
+    "AnnualTradeValue": 363777.9399999999
+  },
+  {
+    "ReporterISO3": "BLZ",
+    "ReporterName": "Belize",
+    "Year": 2002,
+    "AnnualTradeValue": 328969.40900000004
+  },
+  {
+    "ReporterISO3": "BLZ",
+    "ReporterName": "Belize",
+    "Year": 2003,
+    "AnnualTradeValue": 381542.055
+  },
+  {
+    "ReporterISO3": "BLZ",
+    "ReporterName": "Belize",
+    "Year": 2004,
+    "AnnualTradeValue": 409353.767
+  },
+  {
+    "ReporterISO3": "BLZ",
+    "ReporterName": "Belize",
+    "Year": 2005,
+    "AnnualTradeValue": 403688.165
+  },
+  {
+    "ReporterISO3": "BLZ",
+    "ReporterName": "Belize",
+    "Year": 2006,
+    "AnnualTradeValue": 536446.184
+  },
+  {
+    "ReporterISO3": "BLZ",
+    "ReporterName": "Belize",
+    "Year": 2007,
+    "AnnualTradeValue": 507702.51200000005
+  },
+  {
+    "ReporterISO3": "BLZ",
+    "ReporterName": "Belize",
+    "Year": 2008,
+    "AnnualTradeValue": 590115.652
+  },
+  {
+    "ReporterISO3": "BLZ",
+    "ReporterName": "Belize",
+    "Year": 2009,
+    "AnnualTradeValue": 499319.788
+  },
+  {
+    "ReporterISO3": "BLZ",
+    "ReporterName": "Belize",
+    "Year": 2010,
+    "AnnualTradeValue": 564079.062
+  },
+  {
+    "ReporterISO3": "BLZ",
+    "ReporterName": "Belize",
+    "Year": 2011,
+    "AnnualTradeValue": 683492.2539999998
+  },
+  {
+    "ReporterISO3": "BLZ",
+    "ReporterName": "Belize",
+    "Year": 2012,
+    "AnnualTradeValue": 678565.2280000001
+  },
+  {
+    "ReporterISO3": "BLZ",
+    "ReporterName": "Belize",
+    "Year": 2013,
+    "AnnualTradeValue": 668632.9350000002
+  },
+  {
+    "ReporterISO3": "BLZ",
+    "ReporterName": "Belize",
+    "Year": 2014,
+    "AnnualTradeValue": 614419.068
+  },
+  {
+    "ReporterISO3": "BLZ",
+    "ReporterName": "Belize",
+    "Year": 2015,
+    "AnnualTradeValue": 536452.6120000001
+  },
+  {
+    "ReporterISO3": "BLZ",
+    "ReporterName": "Belize",
+    "Year": 2016,
+    "AnnualTradeValue": 401726.37699999986
+  },
+  {
+    "ReporterISO3": "BLZ",
+    "ReporterName": "Belize",
+    "Year": 2017,
+    "AnnualTradeValue": 445585.453
+  },
+  {
+    "ReporterISO3": "BLZ",
+    "ReporterName": "Belize",
+    "Year": 2018,
+    "AnnualTradeValue": 393851.96900000004
+  },
+  {
+    "ReporterISO3": "BLZ",
+    "ReporterName": "Belize",
+    "Year": 2019,
+    "AnnualTradeValue": 411982.62399999995
+  },
+  {
+    "ReporterISO3": "BLZ",
+    "ReporterName": "Belize",
+    "Year": 2020,
+    "AnnualTradeValue": 365499.00899999996
+  },
+  {
+    "ReporterISO3": "BLZ",
+    "ReporterName": "Belize",
+    "Year": 2021,
+    "AnnualTradeValue": 437970.01100000006
+  },
+  {
+    "ReporterISO3": "BMU",
+    "ReporterName": "Bermuda",
+    "Year": 1994,
+    "AnnualTradeValue": 131070.10899999998
+  },
+  {
+    "ReporterISO3": "BMU",
+    "ReporterName": "Bermuda",
+    "Year": 1995,
+    "AnnualTradeValue": 125858.451
+  },
+  {
+    "ReporterISO3": "BMU",
+    "ReporterName": "Bermuda",
+    "Year": 2012,
+    "AnnualTradeValue": 19248.405
+  },
+  {
+    "ReporterISO3": "BMU",
+    "ReporterName": "Bermuda",
+    "Year": 2013,
+    "AnnualTradeValue": 43410.163
+  },
+  {
+    "ReporterISO3": "BMU",
+    "ReporterName": "Bermuda",
+    "Year": 2014,
+    "AnnualTradeValue": 23937.003
+  },
+  {
+    "ReporterISO3": "BMU",
+    "ReporterName": "Bermuda",
+    "Year": 2015,
+    "AnnualTradeValue": 17244.858999999997
+  },
+  {
+    "ReporterISO3": "BMU",
+    "ReporterName": "Bermuda",
+    "Year": 2016,
+    "AnnualTradeValue": 16634.779
+  },
+  {
+    "ReporterISO3": "BMU",
+    "ReporterName": "Bermuda",
+    "Year": 2017,
+    "AnnualTradeValue": 23484.333000000006
+  },
+  {
+    "ReporterISO3": "BMU",
+    "ReporterName": "Bermuda",
+    "Year": 2018,
+    "AnnualTradeValue": 45824.84699999999
+  },
+  {
+    "ReporterISO3": "BMU",
+    "ReporterName": "Bermuda",
+    "Year": 2019,
+    "AnnualTradeValue": 53665.10600000001
+  },
+  {
+    "ReporterISO3": "BMU",
+    "ReporterName": "Bermuda",
+    "Year": 2020,
+    "AnnualTradeValue": 38207.00099999999
+  },
+  {
+    "ReporterISO3": "BOL",
+    "ReporterName": "Bolivia",
+    "Year": 1992,
+    "AnnualTradeValue": 1530627.6030000008
+  },
+  {
+    "ReporterISO3": "BOL",
+    "ReporterName": "Bolivia",
+    "Year": 1993,
+    "AnnualTradeValue": 1617875.1960000007
+  },
+  {
+    "ReporterISO3": "BOL",
+    "ReporterName": "Bolivia",
+    "Year": 1994,
+    "AnnualTradeValue": 2248461.0779999997
+  },
+  {
+    "ReporterISO3": "BOL",
+    "ReporterName": "Bolivia",
+    "Year": 1995,
+    "AnnualTradeValue": 2362424.1059999987
+  },
+  {
+    "ReporterISO3": "BOL",
+    "ReporterName": "Bolivia",
+    "Year": 1996,
+    "AnnualTradeValue": 2173886.7440000004
+  },
+  {
+    "ReporterISO3": "BOL",
+    "ReporterName": "Bolivia",
+    "Year": 1997,
+    "AnnualTradeValue": 2544195.2890000003
+  },
+  {
+    "ReporterISO3": "BOL",
+    "ReporterName": "Bolivia",
+    "Year": 1998,
+    "AnnualTradeValue": 2646538.748000001
+  },
+  {
+    "ReporterISO3": "BOL",
+    "ReporterName": "Bolivia",
+    "Year": 1999,
+    "AnnualTradeValue": 2803766.908
+  },
+  {
+    "ReporterISO3": "BOL",
+    "ReporterName": "Bolivia",
+    "Year": 2000,
+    "AnnualTradeValue": 2913348.1459999993
+  },
+  {
+    "ReporterISO3": "BOL",
+    "ReporterName": "Bolivia",
+    "Year": 2001,
+    "AnnualTradeValue": 2705786.138
+  },
+  {
+    "ReporterISO3": "BOL",
+    "ReporterName": "Bolivia",
+    "Year": 2002,
+    "AnnualTradeValue": 2743302.814
+  },
+  {
+    "ReporterISO3": "BOL",
+    "ReporterName": "Bolivia",
+    "Year": 2003,
+    "AnnualTradeValue": 3301350.1480000005
+  },
+  {
+    "ReporterISO3": "BOL",
+    "ReporterName": "Bolivia",
+    "Year": 2004,
+    "AnnualTradeValue": 4508664.547999998
+  },
+  {
+    "ReporterISO3": "BOL",
+    "ReporterName": "Bolivia",
+    "Year": 2005,
+    "AnnualTradeValue": 5594833.480000001
+  },
+  {
+    "ReporterISO3": "BOL",
+    "ReporterName": "Bolivia",
+    "Year": 2006,
+    "AnnualTradeValue": 8446595.658
+  },
+  {
+    "ReporterISO3": "BOL",
+    "ReporterName": "Bolivia",
+    "Year": 2007,
+    "AnnualTradeValue": 9625404.39
+  },
+  {
+    "ReporterISO3": "BOL",
+    "ReporterName": "Bolivia",
+    "Year": 2008,
+    "AnnualTradeValue": 13798671.993999995
+  },
+  {
+    "ReporterISO3": "BOL",
+    "ReporterName": "Bolivia",
+    "Year": 2009,
+    "AnnualTradeValue": 10593480.177999998
+  },
+  {
+    "ReporterISO3": "BOL",
+    "ReporterName": "Bolivia",
+    "Year": 2010,
+    "AnnualTradeValue": 13935464.869999992
+  },
+  {
+    "ReporterISO3": "BOL",
+    "ReporterName": "Bolivia",
+    "Year": 2011,
+    "AnnualTradeValue": 18292953.287000008
+  },
+  {
+    "ReporterISO3": "BOL",
+    "ReporterName": "Bolivia",
+    "Year": 2012,
+    "AnnualTradeValue": 23632793.605
+  },
+  {
+    "ReporterISO3": "BOL",
+    "ReporterName": "Bolivia",
+    "Year": 2013,
+    "AnnualTradeValue": 24505718.082
+  },
+  {
+    "ReporterISO3": "BOL",
+    "ReporterName": "Bolivia",
+    "Year": 2014,
+    "AnnualTradeValue": 25800565.19400001
+  },
+  {
+    "ReporterISO3": "BOL",
+    "ReporterName": "Bolivia",
+    "Year": 2015,
+    "AnnualTradeValue": 17477149.468999997
+  },
+  {
+    "ReporterISO3": "BOL",
+    "ReporterName": "Bolivia",
+    "Year": 2016,
+    "AnnualTradeValue": 14255005.893999998
+  },
+  {
+    "ReporterISO3": "BOL",
+    "ReporterName": "Bolivia",
+    "Year": 2017,
+    "AnnualTradeValue": 16448823.350000001
+  },
+  {
+    "ReporterISO3": "BOL",
+    "ReporterName": "Bolivia",
+    "Year": 2018,
+    "AnnualTradeValue": 18032544.936000004
+  },
+  {
+    "ReporterISO3": "BOL",
+    "ReporterName": "Bolivia",
+    "Year": 2019,
+    "AnnualTradeValue": 17614159.702999998
+  },
+  {
+    "ReporterISO3": "BOL",
+    "ReporterName": "Bolivia",
+    "Year": 2020,
+    "AnnualTradeValue": 13832859.420999998
+  },
+  {
+    "ReporterISO3": "BOL",
+    "ReporterName": "Bolivia",
+    "Year": 2021,
+    "AnnualTradeValue": 21973731.73800001
+  },
+  {
+    "ReporterISO3": "BRA",
+    "ReporterName": "Brazil",
+    "Year": 1989,
+    "AnnualTradeValue": 68762870.375
+  },
+  {
+    "ReporterISO3": "BRA",
+    "ReporterName": "Brazil",
+    "Year": 1990,
+    "AnnualTradeValue": 62822515.10599999
+  },
+  {
+    "ReporterISO3": "BRA",
+    "ReporterName": "Brazil",
+    "Year": 1991,
+    "AnnualTradeValue": 63242239.43499996
+  },
+  {
+    "ReporterISO3": "BRA",
+    "ReporterName": "Brazil",
+    "Year": 1992,
+    "AnnualTradeValue": 71950631.09200004
+  },
+  {
+    "ReporterISO3": "BRA",
+    "ReporterName": "Brazil",
+    "Year": 1993,
+    "AnnualTradeValue": 77401677.49099998
+  },
+  {
+    "ReporterISO3": "BRA",
+    "ReporterName": "Brazil",
+    "Year": 1994,
+    "AnnualTradeValue": 87115651.72899996
+  },
+  {
+    "ReporterISO3": "BRA",
+    "ReporterName": "Brazil",
+    "Year": 1995,
+    "AnnualTradeValue": 93009863.966
+  },
+  {
+    "ReporterISO3": "BRA",
+    "ReporterName": "Brazil",
+    "Year": 1996,
+    "AnnualTradeValue": 95491867.27300003
+  },
+  {
+    "ReporterISO3": "BRA",
+    "ReporterName": "Brazil",
+    "Year": 1997,
+    "AnnualTradeValue": 105971624.08699998
+  },
+  {
+    "ReporterISO3": "BRA",
+    "ReporterName": "Brazil",
+    "Year": 1998,
+    "AnnualTradeValue": 102239737.74100006
+  },
+  {
+    "ReporterISO3": "BRA",
+    "ReporterName": "Brazil",
+    "Year": 1999,
+    "AnnualTradeValue": 96022821.21800001
+  },
+  {
+    "ReporterISO3": "BRA",
+    "ReporterName": "Brazil",
+    "Year": 2000,
+    "AnnualTradeValue": 109986307.46999995
+  },
+  {
+    "ReporterISO3": "BRA",
+    "ReporterName": "Brazil",
+    "Year": 2001,
+    "AnnualTradeValue": 116064588.48600003
+  },
+  {
+    "ReporterISO3": "BRA",
+    "ReporterName": "Brazil",
+    "Year": 2002,
+    "AnnualTradeValue": 120288921.28800003
+  },
+  {
+    "ReporterISO3": "BRA",
+    "ReporterName": "Brazil",
+    "Year": 2003,
+    "AnnualTradeValue": 145544500.98
+  },
+  {
+    "ReporterISO3": "BRA",
+    "ReporterName": "Brazil",
+    "Year": 2004,
+    "AnnualTradeValue": 190230801.78800017
+  },
+  {
+    "ReporterISO3": "BRA",
+    "ReporterName": "Brazil",
+    "Year": 2005,
+    "AnnualTradeValue": 237184168.9779999
+  },
+  {
+    "ReporterISO3": "BRA",
+    "ReporterName": "Brazil",
+    "Year": 2006,
+    "AnnualTradeValue": 275148422.7019999
+  },
+  {
+    "ReporterISO3": "BRA",
+    "ReporterName": "Brazil",
+    "Year": 2007,
+    "AnnualTradeValue": 319632361.46199995
+  },
+  {
+    "ReporterISO3": "BRA",
+    "ReporterName": "Brazil",
+    "Year": 2008,
+    "AnnualTradeValue": 391529248.35399944
+  },
+  {
+    "ReporterISO3": "BRA",
+    "ReporterName": "Brazil",
+    "Year": 2009,
+    "AnnualTradeValue": 303583348.3719999
+  },
+  {
+    "ReporterISO3": "BRA",
+    "ReporterName": "Brazil",
+    "Year": 2010,
+    "AnnualTradeValue": 400867905.552
+  },
+  {
+    "ReporterISO3": "BRA",
+    "ReporterName": "Brazil",
+    "Year": 2011,
+    "AnnualTradeValue": 507330873.5899998
+  },
+  {
+    "ReporterISO3": "BRA",
+    "ReporterName": "Brazil",
+    "Year": 2012,
+    "AnnualTradeValue": 479905076.3160002
+  },
+  {
+    "ReporterISO3": "BRA",
+    "ReporterName": "Brazil",
+    "Year": 2013,
+    "AnnualTradeValue": 465087320.2339993
+  },
+  {
+    "ReporterISO3": "BRA",
+    "ReporterName": "Brazil",
+    "Year": 2014,
+    "AnnualTradeValue": 441841514.4800005
+  },
+  {
+    "ReporterISO3": "BRA",
+    "ReporterName": "Brazil",
+    "Year": 2015,
+    "AnnualTradeValue": 373549832.6260001
+  },
+  {
+    "ReporterISO3": "BRA",
+    "ReporterName": "Brazil",
+    "Year": 2016,
+    "AnnualTradeValue": 359052255.0200003
+  },
+  {
+    "ReporterISO3": "BRA",
+    "ReporterName": "Brazil",
+    "Year": 2017,
+    "AnnualTradeValue": 429976216.70600003
+  },
+  {
+    "ReporterISO3": "BRA",
+    "ReporterName": "Brazil",
+    "Year": 2018,
+    "AnnualTradeValue": 463779046.7979999
+  },
+  {
+    "ReporterISO3": "BRA",
+    "ReporterName": "Brazil",
+    "Year": 2019,
+    "AnnualTradeValue": 442253615.29399997
+  },
+  {
+    "ReporterISO3": "BRA",
+    "ReporterName": "Brazil",
+    "Year": 2020,
+    "AnnualTradeValue": 418360483.3099997
+  },
+  {
+    "ReporterISO3": "BRB",
+    "ReporterName": "Barbados",
+    "Year": 1992,
+    "AnnualTradeValue": 265486.065
+  },
+  {
+    "ReporterISO3": "BRB",
+    "ReporterName": "Barbados",
+    "Year": 1993,
+    "AnnualTradeValue": 270714.2270000001
+  },
+  {
+    "ReporterISO3": "BRB",
+    "ReporterName": "Barbados",
+    "Year": 1994,
+    "AnnualTradeValue": 269046.2009999999
+  },
+  {
+    "ReporterISO3": "BRB",
+    "ReporterName": "Barbados",
+    "Year": 1995,
+    "AnnualTradeValue": 336909.95599999995
+  },
+  {
+    "ReporterISO3": "BRB",
+    "ReporterName": "Barbados",
+    "Year": 1996,
+    "AnnualTradeValue": 424890.247
+  },
+  {
+    "ReporterISO3": "BRB",
+    "ReporterName": "Barbados",
+    "Year": 1997,
+    "AnnualTradeValue": 420927.102
+  },
+  {
+    "ReporterISO3": "BRB",
+    "ReporterName": "Barbados",
+    "Year": 1998,
+    "AnnualTradeValue": 390754.76400000014
+  },
+  {
+    "ReporterISO3": "BRB",
+    "ReporterName": "Barbados",
+    "Year": 1999,
+    "AnnualTradeValue": 393067.24999999994
+  },
+  {
+    "ReporterISO3": "BRB",
+    "ReporterName": "Barbados",
+    "Year": 2000,
+    "AnnualTradeValue": 380309.01799999987
+  },
+  {
+    "ReporterISO3": "BRB",
+    "ReporterName": "Barbados",
+    "Year": 2001,
+    "AnnualTradeValue": 352661.126
+  },
+  {
+    "ReporterISO3": "BRB",
+    "ReporterName": "Barbados",
+    "Year": 2002,
+    "AnnualTradeValue": 322688.38
+  },
+  {
+    "ReporterISO3": "BRB",
+    "ReporterName": "Barbados",
+    "Year": 2003,
+    "AnnualTradeValue": 329422.19299999997
+  },
+  {
+    "ReporterISO3": "BRB",
+    "ReporterName": "Barbados",
+    "Year": 2004,
+    "AnnualTradeValue": 346859.923
+  },
+  {
+    "ReporterISO3": "BRB",
+    "ReporterName": "Barbados",
+    "Year": 2005,
+    "AnnualTradeValue": 423202.663
+  },
+  {
+    "ReporterISO3": "BRB",
+    "ReporterName": "Barbados",
+    "Year": 2006,
+    "AnnualTradeValue": 491665.259
+  },
+  {
+    "ReporterISO3": "BRB",
+    "ReporterName": "Barbados",
+    "Year": 2007,
+    "AnnualTradeValue": 598847.8469999998
+  },
+  {
+    "ReporterISO3": "BRB",
+    "ReporterName": "Barbados",
+    "Year": 2008,
+    "AnnualTradeValue": 526073.3470000001
+  },
+  {
+    "ReporterISO3": "BRB",
+    "ReporterName": "Barbados",
+    "Year": 2009,
+    "AnnualTradeValue": 439557.95300000015
+  },
+  {
+    "ReporterISO3": "BRB",
+    "ReporterName": "Barbados",
+    "Year": 2010,
+    "AnnualTradeValue": 472457.116
+  },
+  {
+    "ReporterISO3": "BRB",
+    "ReporterName": "Barbados",
+    "Year": 2011,
+    "AnnualTradeValue": 534104.7339999999
+  },
+  {
+    "ReporterISO3": "BRB",
+    "ReporterName": "Barbados",
+    "Year": 2012,
+    "AnnualTradeValue": 592867.2230000003
+  },
+  {
+    "ReporterISO3": "BRB",
+    "ReporterName": "Barbados",
+    "Year": 2013,
+    "AnnualTradeValue": 534172.5370000002
+  },
+  {
+    "ReporterISO3": "BRB",
+    "ReporterName": "Barbados",
+    "Year": 2014,
+    "AnnualTradeValue": 566873.4920000001
+  },
+  {
+    "ReporterISO3": "BRB",
+    "ReporterName": "Barbados",
+    "Year": 2015,
+    "AnnualTradeValue": 505696.171
+  },
+  {
+    "ReporterISO3": "BRB",
+    "ReporterName": "Barbados",
+    "Year": 2016,
+    "AnnualTradeValue": 524072.489
+  },
+  {
+    "ReporterISO3": "BRB",
+    "ReporterName": "Barbados",
+    "Year": 2017,
+    "AnnualTradeValue": 509831.6950000001
+  },
+  {
+    "ReporterISO3": "BRB",
+    "ReporterName": "Barbados",
+    "Year": 2018,
+    "AnnualTradeValue": 510648.0069999999
+  },
+  {
+    "ReporterISO3": "BRB",
+    "ReporterName": "Barbados",
+    "Year": 2019,
+    "AnnualTradeValue": 888170.738
+  },
+  {
+    "ReporterISO3": "BRB",
+    "ReporterName": "Barbados",
+    "Year": 2020,
+    "AnnualTradeValue": 449445.4959999999
+  },
+  {
+    "ReporterISO3": "BRB",
+    "ReporterName": "Barbados",
+    "Year": 2021,
+    "AnnualTradeValue": 447041.0249999999
+  },
+  {
+    "ReporterISO3": "BRN",
+    "ReporterName": "Brunei",
+    "Year": 1992,
+    "AnnualTradeValue": 4602436.597
+  },
+  {
+    "ReporterISO3": "BRN",
+    "ReporterName": "Brunei",
+    "Year": 1993,
+    "AnnualTradeValue": 4187894.738
+  },
+  {
+    "ReporterISO3": "BRN",
+    "ReporterName": "Brunei",
+    "Year": 1994,
+    "AnnualTradeValue": 4220619.042
+  },
+  {
+    "ReporterISO3": "BRN",
+    "ReporterName": "Brunei",
+    "Year": 1997,
+    "AnnualTradeValue": 5314157.599
+  },
+  {
+    "ReporterISO3": "BRN",
+    "ReporterName": "Brunei",
+    "Year": 1998,
+    "AnnualTradeValue": 4613655.599
+  },
+  {
+    "ReporterISO3": "BRN",
+    "ReporterName": "Brunei",
+    "Year": 2001,
+    "AnnualTradeValue": 6577295.0989999985
+  },
+  {
+    "ReporterISO3": "BRN",
+    "ReporterName": "Brunei",
+    "Year": 2002,
+    "AnnualTradeValue": 6733835.122
+  },
+  {
+    "ReporterISO3": "BRN",
+    "ReporterName": "Brunei",
+    "Year": 2003,
+    "AnnualTradeValue": 7697916.946999999
+  },
+  {
+    "ReporterISO3": "BRN",
+    "ReporterName": "Brunei",
+    "Year": 2004,
+    "AnnualTradeValue": 10138249.603999998
+  },
+  {
+    "ReporterISO3": "BRN",
+    "ReporterName": "Brunei",
+    "Year": 2006,
+    "AnnualTradeValue": 15248589.544000003
+  },
+  {
+    "ReporterISO3": "BRN",
+    "ReporterName": "Brunei",
+    "Year": 2007,
+    "AnnualTradeValue": 15386557.107
+  },
+  {
+    "ReporterISO3": "BRN",
+    "ReporterName": "Brunei",
+    "Year": 2008,
+    "AnnualTradeValue": 21138138.22
+  },
+  {
+    "ReporterISO3": "BRN",
+    "ReporterName": "Brunei",
+    "Year": 2009,
+    "AnnualTradeValue": 14342132.925
+  },
+  {
+    "ReporterISO3": "BRN",
+    "ReporterName": "Brunei",
+    "Year": 2010,
+    "AnnualTradeValue": 17815931.246999998
+  },
+  {
+    "ReporterISO3": "BRN",
+    "ReporterName": "Brunei",
+    "Year": 2011,
+    "AnnualTradeValue": 24914998.222999997
+  },
+  {
+    "ReporterISO3": "BRN",
+    "ReporterName": "Brunei",
+    "Year": 2012,
+    "AnnualTradeValue": 26001655.518000003
+  },
+  {
+    "ReporterISO3": "BRN",
+    "ReporterName": "Brunei",
+    "Year": 2013,
+    "AnnualTradeValue": 22894373.402000003
+  },
+  {
+    "ReporterISO3": "BRN",
+    "ReporterName": "Brunei",
+    "Year": 2014,
+    "AnnualTradeValue": 21017665.764000002
+  },
+  {
+    "ReporterISO3": "BRN",
+    "ReporterName": "Brunei",
+    "Year": 2015,
+    "AnnualTradeValue": 12705324.984999998
+  },
+  {
+    "ReporterISO3": "BRN",
+    "ReporterName": "Brunei",
+    "Year": 2016,
+    "AnnualTradeValue": 9750150.610999992
+  },
+  {
+    "ReporterISO3": "BRN",
+    "ReporterName": "Brunei",
+    "Year": 2017,
+    "AnnualTradeValue": 11141150.426
+  },
+  {
+    "ReporterISO3": "BRN",
+    "ReporterName": "Brunei",
+    "Year": 2018,
+    "AnnualTradeValue": 12517910.557999998
+  },
+  {
+    "ReporterISO3": "BRN",
+    "ReporterName": "Brunei",
+    "Year": 2019,
+    "AnnualTradeValue": 14078166.169999998
+  },
+  {
+    "ReporterISO3": "BRN",
+    "ReporterName": "Brunei",
+    "Year": 2020,
+    "AnnualTradeValue": 13216355.703000002
+  },
+  {
+    "ReporterISO3": "BTN",
+    "ReporterName": "Bhutan",
+    "Year": 1993,
+    "AnnualTradeValue": 131640.517
+  },
+  {
+    "ReporterISO3": "BTN",
+    "ReporterName": "Bhutan",
+    "Year": 1994,
+    "AnnualTradeValue": 132765.8
+  },
+  {
+    "ReporterISO3": "BTN",
+    "ReporterName": "Bhutan",
+    "Year": 1998,
+    "AnnualTradeValue": 216925.935
+  },
+  {
+    "ReporterISO3": "BTN",
+    "ReporterName": "Bhutan",
+    "Year": 1999,
+    "AnnualTradeValue": 231900.104
+  },
+  {
+    "ReporterISO3": "BTN",
+    "ReporterName": "Bhutan",
+    "Year": 2005,
+    "AnnualTradeValue": 516736.57999999996
+  },
+  {
+    "ReporterISO3": "BTN",
+    "ReporterName": "Bhutan",
+    "Year": 2006,
+    "AnnualTradeValue": 827772.816
+  },
+  {
+    "ReporterISO3": "BTN",
+    "ReporterName": "Bhutan",
+    "Year": 2007,
+    "AnnualTradeValue": 1349047.152
+  },
+  {
+    "ReporterISO3": "BTN",
+    "ReporterName": "Bhutan",
+    "Year": 2008,
+    "AnnualTradeValue": 1042830.7669999998
+  },
+  {
+    "ReporterISO3": "BTN",
+    "ReporterName": "Bhutan",
+    "Year": 2009,
+    "AnnualTradeValue": 991692.3790000001
+  },
+  {
+    "ReporterISO3": "BTN",
+    "ReporterName": "Bhutan",
+    "Year": 2010,
+    "AnnualTradeValue": 826964.8780000003
+  },
+  {
+    "ReporterISO3": "BTN",
+    "ReporterName": "Bhutan",
+    "Year": 2011,
+    "AnnualTradeValue": 905925.5959999999
+  },
+  {
+    "ReporterISO3": "BTN",
+    "ReporterName": "Bhutan",
+    "Year": 2012,
+    "AnnualTradeValue": 1062454.077
+  },
+  {
+    "ReporterISO3": "BWA",
+    "ReporterName": "Botswana",
+    "Year": 2000,
+    "AnnualTradeValue": 5557664.58
+  },
+  {
+    "ReporterISO3": "BWA",
+    "ReporterName": "Botswana",
+    "Year": 2001,
+    "AnnualTradeValue": 5066074.418
+  },
+  {
+    "ReporterISO3": "BWA",
+    "ReporterName": "Botswana",
+    "Year": 2002,
+    "AnnualTradeValue": 5490261.079000001
+  },
+  {
+    "ReporterISO3": "BWA",
+    "ReporterName": "Botswana",
+    "Year": 2003,
+    "AnnualTradeValue": 7603292.160999999
+  },
+  {
+    "ReporterISO3": "BWA",
+    "ReporterName": "Botswana",
+    "Year": 2004,
+    "AnnualTradeValue": 7021523.967000004
+  },
+  {
+    "ReporterISO3": "BWA",
+    "ReporterName": "Botswana",
+    "Year": 2005,
+    "AnnualTradeValue": 8861255.130000003
+  },
+  {
+    "ReporterISO3": "BWA",
+    "ReporterName": "Botswana",
+    "Year": 2006,
+    "AnnualTradeValue": 9012363.775999999
+  },
+  {
+    "ReporterISO3": "BWA",
+    "ReporterName": "Botswana",
+    "Year": 2007,
+    "AnnualTradeValue": 10145046.371000001
+  },
+  {
+    "ReporterISO3": "BWA",
+    "ReporterName": "Botswana",
+    "Year": 2008,
+    "AnnualTradeValue": 9901754.992000002
+  },
+  {
+    "ReporterISO3": "BWA",
+    "ReporterName": "Botswana",
+    "Year": 2009,
+    "AnnualTradeValue": 6911424.583999996
+  },
+  {
+    "ReporterISO3": "BWA",
+    "ReporterName": "Botswana",
+    "Year": 2010,
+    "AnnualTradeValue": 9161713.536000004
+  },
+  {
+    "ReporterISO3": "BWA",
+    "ReporterName": "Botswana",
+    "Year": 2011,
+    "AnnualTradeValue": 11469022.755000003
+  },
+  {
+    "ReporterISO3": "BWA",
+    "ReporterName": "Botswana",
+    "Year": 2012,
+    "AnnualTradeValue": 13105382.951999996
+  },
+  {
+    "ReporterISO3": "BWA",
+    "ReporterName": "Botswana",
+    "Year": 2013,
+    "AnnualTradeValue": 15471501.881000001
+  },
+  {
+    "ReporterISO3": "BWA",
+    "ReporterName": "Botswana",
+    "Year": 2014,
+    "AnnualTradeValue": 16640353.735
+  },
+  {
+    "ReporterISO3": "BWA",
+    "ReporterName": "Botswana",
+    "Year": 2015,
+    "AnnualTradeValue": 12186181.12
+  },
+  {
+    "ReporterISO3": "BWA",
+    "ReporterName": "Botswana",
+    "Year": 2016,
+    "AnnualTradeValue": 14641411.657000003
+  },
+  {
+    "ReporterISO3": "BWA",
+    "ReporterName": "Botswana",
+    "Year": 2017,
+    "AnnualTradeValue": 11842157.987000002
+  },
+  {
+    "ReporterISO3": "BWA",
+    "ReporterName": "Botswana",
+    "Year": 2018,
+    "AnnualTradeValue": 12241006.561999997
+  },
+  {
+    "ReporterISO3": "BWA",
+    "ReporterName": "Botswana",
+    "Year": 2019,
+    "AnnualTradeValue": 10470934.248999996
+  },
+  {
+    "ReporterISO3": "BWA",
+    "ReporterName": "Botswana",
+    "Year": 2020,
+    "AnnualTradeValue": 8509574.527999995
+  },
+  {
+    "ReporterISO3": "CAF",
+    "ReporterName": "Central African Republic",
+    "Year": 1993,
+    "AnnualTradeValue": 183378.342
+  },
+  {
+    "ReporterISO3": "CAF",
+    "ReporterName": "Central African Republic",
+    "Year": 1994,
+    "AnnualTradeValue": 162902.258
+  },
+  {
+    "ReporterISO3": "CAF",
+    "ReporterName": "Central African Republic",
+    "Year": 1995,
+    "AnnualTradeValue": 239042.88099999996
+  },
+  {
+    "ReporterISO3": "CAF",
+    "ReporterName": "Central African Republic",
+    "Year": 1996,
+    "AnnualTradeValue": 230255.053
+  },
+  {
+    "ReporterISO3": "CAF",
+    "ReporterName": "Central African Republic",
+    "Year": 1997,
+    "AnnualTradeValue": 197166.33899999998
+  },
+  {
+    "ReporterISO3": "CAF",
+    "ReporterName": "Central African Republic",
+    "Year": 1998,
+    "AnnualTradeValue": 212528.09199999998
+  },
+  {
+    "ReporterISO3": "CAF",
+    "ReporterName": "Central African Republic",
+    "Year": 1999,
+    "AnnualTradeValue": 220098.96200000003
+  },
+  {
+    "ReporterISO3": "CAF",
+    "ReporterName": "Central African Republic",
+    "Year": 2000,
+    "AnnualTradeValue": 160193.38999999998
+  },
+  {
+    "ReporterISO3": "CAF",
+    "ReporterName": "Central African Republic",
+    "Year": 2001,
+    "AnnualTradeValue": 148813.74
+  },
+  {
+    "ReporterISO3": "CAF",
+    "ReporterName": "Central African Republic",
+    "Year": 2002,
+    "AnnualTradeValue": 113750.27600000003
+  },
+  {
+    "ReporterISO3": "CAF",
+    "ReporterName": "Central African Republic",
+    "Year": 2003,
+    "AnnualTradeValue": 129394.27799999999
+  },
+  {
+    "ReporterISO3": "CAF",
+    "ReporterName": "Central African Republic",
+    "Year": 2004,
+    "AnnualTradeValue": 213218.35100000002
+  },
+  {
+    "ReporterISO3": "CAF",
+    "ReporterName": "Central African Republic",
+    "Year": 2005,
+    "AnnualTradeValue": 221464.80499999996
+  },
+  {
+    "ReporterISO3": "CAF",
+    "ReporterName": "Central African Republic",
+    "Year": 2006,
+    "AnnualTradeValue": 219673.4359999999
+  },
+  {
+    "ReporterISO3": "CAF",
+    "ReporterName": "Central African Republic",
+    "Year": 2007,
+    "AnnualTradeValue": 262173.33900000004
+  },
+  {
+    "ReporterISO3": "CAF",
+    "ReporterName": "Central African Republic",
+    "Year": 2008,
+    "AnnualTradeValue": 228401.082
+  },
+  {
+    "ReporterISO3": "CAF",
+    "ReporterName": "Central African Republic",
+    "Year": 2009,
+    "AnnualTradeValue": 161063.63399999996
+  },
+  {
+    "ReporterISO3": "CAF",
+    "ReporterName": "Central African Republic",
+    "Year": 2010,
+    "AnnualTradeValue": 179631.29199999993
+  },
+  {
+    "ReporterISO3": "CAF",
+    "ReporterName": "Central African Republic",
+    "Year": 2011,
+    "AnnualTradeValue": 207873.54700000005
+  },
+  {
+    "ReporterISO3": "CAF",
+    "ReporterName": "Central African Republic",
+    "Year": 2012,
+    "AnnualTradeValue": 228355.959
+  },
+  {
+    "ReporterISO3": "CAF",
+    "ReporterName": "Central African Republic",
+    "Year": 2013,
+    "AnnualTradeValue": 97020.01100000001
+  },
+  {
+    "ReporterISO3": "CAF",
+    "ReporterName": "Central African Republic",
+    "Year": 2014,
+    "AnnualTradeValue": 41402.450999999994
+  },
+  {
+    "ReporterISO3": "CAF",
+    "ReporterName": "Central African Republic",
+    "Year": 2015,
+    "AnnualTradeValue": 193707.36299999998
+  },
+  {
+    "ReporterISO3": "CAF",
+    "ReporterName": "Central African Republic",
+    "Year": 2016,
+    "AnnualTradeValue": 176902.50400000002
+  },
+  {
+    "ReporterISO3": "CAF",
+    "ReporterName": "Central African Republic",
+    "Year": 2017,
+    "AnnualTradeValue": 393981.8709999999
+  },
+  {
+    "ReporterISO3": "CAF",
+    "ReporterName": "Central African Republic",
+    "Year": 2018,
+    "AnnualTradeValue": 108528.19599999997
+  },
+  {
+    "ReporterISO3": "CAN",
+    "ReporterName": "Canada",
+    "Year": 1988,
+    "AnnualTradeValue": 226290093.1080001
+  },
+  {
+    "ReporterISO3": "CAN",
+    "ReporterName": "Canada",
+    "Year": 1989,
+    "AnnualTradeValue": 231956478.56899998
+  },
+  {
+    "ReporterISO3": "CAN",
+    "ReporterName": "Canada",
+    "Year": 1990,
+    "AnnualTradeValue": 253798779.01299995
+  },
+  {
+    "ReporterISO3": "CAN",
+    "ReporterName": "Canada",
+    "Year": 1991,
+    "AnnualTradeValue": 253567710.79999998
+  },
+  {
+    "ReporterISO3": "CAN",
+    "ReporterName": "Canada",
+    "Year": 1992,
+    "AnnualTradeValue": 268924268.737
+  },
+  {
+    "ReporterISO3": "CAN",
+    "ReporterName": "Canada",
+    "Year": 1993,
+    "AnnualTradeValue": 289263291.64699996
+  },
+  {
+    "ReporterISO3": "CAN",
+    "ReporterName": "Canada",
+    "Year": 1994,
+    "AnnualTradeValue": 332509079.17499983
+  },
+  {
+    "ReporterISO3": "CAN",
+    "ReporterName": "Canada",
+    "Year": 1995,
+    "AnnualTradeValue": 382235479.037
+  }
+]

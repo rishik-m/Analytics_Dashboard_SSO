@@ -1,0 +1,4006 @@
+[
+    {
+      "Year": 1988,
+      "ReporterISO3": "DEU",
+      "ReporterName": "Germany",
+      "total_exports": 646392226,
+      "rank": 1
+    },
+    {
+      "Year": 1988,
+      "ReporterISO3": "JPN",
+      "ReporterName": "Japan",
+      "total_exports": 529833481.00499994,
+      "rank": 2
+    },
+    {
+      "Year": 1988,
+      "ReporterISO3": "FRA",
+      "ReporterName": "France",
+      "total_exports": 324178088.6789999,
+      "rank": 3
+    },
+    {
+      "Year": 1988,
+      "ReporterISO3": "GBR",
+      "ReporterName": "United Kingdom",
+      "total_exports": 290788599.02300006,
+      "rank": 4
+    },
+    {
+      "Year": 1988,
+      "ReporterISO3": "ITA",
+      "ReporterName": "Italy",
+      "total_exports": 255852481.20799989,
+      "rank": 5
+    },
+    {
+      "Year": 1988,
+      "ReporterISO3": "CAN",
+      "ReporterName": "Canada",
+      "total_exports": 226290093.1080001,
+      "rank": 6
+    },
+    {
+      "Year": 1988,
+      "ReporterISO3": "NLD",
+      "ReporterName": "Netherlands",
+      "total_exports": 207118096.21500006,
+      "rank": 7
+    },
+    {
+      "Year": 1988,
+      "ReporterISO3": "BLX",
+      "ReporterName": "Belgium-Luxembourg",
+      "total_exports": 178836687.61200008,
+      "rank": 8
+    },
+    {
+      "Year": 1988,
+      "ReporterISO3": "KOR",
+      "ReporterName": "Korea, Rep.",
+      "total_exports": 121135718.071,
+      "rank": 9
+    },
+    {
+      "Year": 1988,
+      "ReporterISO3": "CHE",
+      "ReporterName": "Switzerland",
+      "total_exports": 101422680.04200003,
+      "rank": 10
+    },
+    {
+      "Year": 1988,
+      "ReporterISO3": "SWE",
+      "ReporterName": "Sweden",
+      "total_exports": 99721083.94399993,
+      "rank": 11
+    },
+    {
+      "Year": 1988,
+      "ReporterISO3": "ESP",
+      "ReporterName": "Spain",
+      "total_exports": 80933078.43199997,
+      "rank": 12
+    },
+    {
+      "Year": 1988,
+      "ReporterISO3": "AUS",
+      "ReporterName": "Australia",
+      "total_exports": 62339015.93999998,
+      "rank": 13
+    },
+    {
+      "Year": 1988,
+      "ReporterISO3": "AUT",
+      "ReporterName": "Austria",
+      "total_exports": 62175416.473,
+      "rank": 14
+    },
+    {
+      "Year": 1988,
+      "ReporterISO3": "DNK",
+      "ReporterName": "Denmark",
+      "total_exports": 55643831.61100005,
+      "rank": 15
+    },
+    {
+      "Year": 1988,
+      "ReporterISO3": "NOR",
+      "ReporterName": "Norway",
+      "total_exports": 45022445.08700001,
+      "rank": 16
+    },
+    {
+      "Year": 1988,
+      "ReporterISO3": "FIN",
+      "ReporterName": "Finland",
+      "total_exports": 43324419.466999985,
+      "rank": 17
+    },
+    {
+      "Year": 1988,
+      "ReporterISO3": "MYS",
+      "ReporterName": "Malaysia",
+      "total_exports": 42249917.22199999,
+      "rank": 18
+    },
+    {
+      "Year": 1988,
+      "ReporterISO3": "IRL",
+      "ReporterName": "Ireland",
+      "total_exports": 36175228.26900004,
+      "rank": 19
+    },
+    {
+      "Year": 1988,
+      "ReporterISO3": "IND",
+      "ReporterName": "India",
+      "total_exports": 27630311.329,
+      "rank": 20
+    },
+    {
+      "Year": 1988,
+      "ReporterISO3": "YUG",
+      "ReporterName": "Yugoslavia,FR(Serbia/Montenegr",
+      "total_exports": 25194350.452,
+      "rank": 21
+    },
+    {
+      "Year": 1988,
+      "ReporterISO3": "PRT",
+      "ReporterName": "Portugal",
+      "total_exports": 21995388.771000013,
+      "rank": 22
+    },
+    {
+      "Year": 1988,
+      "ReporterISO3": "ISR",
+      "ReporterName": "Israel",
+      "total_exports": 19478501.743999995,
+      "rank": 23
+    },
+    {
+      "Year": 1988,
+      "ReporterISO3": "NZL",
+      "ReporterName": "New Zealand",
+      "total_exports": 17093685.856999993,
+      "rank": 24
+    },
+    {
+      "Year": 1988,
+      "ReporterISO3": "GRC",
+      "ReporterName": "Greece",
+      "total_exports": 10860574.87,
+      "rank": 25
+    },
+    {
+      "Year": 1988,
+      "ReporterISO3": "OMN",
+      "ReporterName": "Oman",
+      "total_exports": 6536624.031000002,
+      "rank": 26
+    },
+    {
+      "Year": 1988,
+      "ReporterISO3": "ISL",
+      "ReporterName": "Iceland",
+      "total_exports": 3005632.2060000007,
+      "rank": 27
+    },
+    {
+      "Year": 1988,
+      "ReporterISO3": "MUS",
+      "ReporterName": "Mauritius",
+      "total_exports": 1995039.8439999998,
+      "rank": 28
+    },
+    {
+      "Year": 1988,
+      "ReporterISO3": "KWT",
+      "ReporterName": "Kuwait",
+      "total_exports": 1846059.874,
+      "rank": 29
+    },
+    {
+      "Year": 1988,
+      "ReporterISO3": "GRL",
+      "ReporterName": "Greenland",
+      "total_exports": 780948.1009999999,
+      "rank": 30
+    },
+    {
+      "Year": 1988,
+      "ReporterISO3": "FRO",
+      "ReporterName": "Faeroe Islands",
+      "total_exports": 696259.5980000001,
+      "rank": 31
+    },
+    {
+      "Year": 1988,
+      "ReporterISO3": "TGO",
+      "ReporterName": "Togo",
+      "total_exports": 484810.81099999987,
+      "rank": 32
+    },
+    {
+      "Year": 1988,
+      "ReporterISO3": "MTQ",
+      "ReporterName": "Martinique",
+      "total_exports": 392106.2069999998,
+      "rank": 33
+    },
+    {
+      "Year": 1988,
+      "ReporterISO3": "HTI",
+      "ReporterName": "Haiti",
+      "total_exports": 360112.3279999999,
+      "rank": 34
+    },
+    {
+      "Year": 1988,
+      "ReporterISO3": "REU",
+      "ReporterName": "Reunion",
+      "total_exports": 316462.11,
+      "rank": 35
+    },
+    {
+      "Year": 1988,
+      "ReporterISO3": "GLP",
+      "ReporterName": "Guadeloupe",
+      "total_exports": 308606.0740000001,
+      "rank": 36
+    },
+    {
+      "Year": 1988,
+      "ReporterISO3": "GUF",
+      "ReporterName": "French Guiana",
+      "total_exports": 99877.20700000001,
+      "rank": 37
+    },
+    {
+      "Year": 1989,
+      "ReporterISO3": "USA",
+      "ReporterName": "United States",
+      "total_exports": 698711434.8580004,
+      "rank": 1
+    },
+    {
+      "Year": 1989,
+      "ReporterISO3": "DEU",
+      "ReporterName": "Germany",
+      "total_exports": 682197666,
+      "rank": 2
+    },
+    {
+      "Year": 1989,
+      "ReporterISO3": "JPN",
+      "ReporterName": "Japan",
+      "total_exports": 550349104.1610001,
+      "rank": 3
+    },
+    {
+      "Year": 1989,
+      "ReporterISO3": "FRA",
+      "ReporterName": "France",
+      "total_exports": 345428035.353,
+      "rank": 4
+    },
+    {
+      "Year": 1989,
+      "ReporterISO3": "GBR",
+      "ReporterName": "United Kingdom",
+      "total_exports": 306472160.877,
+      "rank": 5
+    },
+    {
+      "Year": 1989,
+      "ReporterISO3": "ITA",
+      "ReporterName": "Italy",
+      "total_exports": 281001721.365,
+      "rank": 6
+    },
+    {
+      "Year": 1989,
+      "ReporterISO3": "CAN",
+      "ReporterName": "Canada",
+      "total_exports": 231956478.56899998,
+      "rank": 7
+    },
+    {
+      "Year": 1989,
+      "ReporterISO3": "NLD",
+      "ReporterName": "Netherlands",
+      "total_exports": 215745268.85000005,
+      "rank": 8
+    },
+    {
+      "Year": 1989,
+      "ReporterISO3": "BLX",
+      "ReporterName": "Belgium-Luxembourg",
+      "total_exports": 202519478.5020001,
+      "rank": 9
+    },
+    {
+      "Year": 1989,
+      "ReporterISO3": "OAS",
+      "ReporterName": "Other Asia, nes",
+      "total_exports": 132092238.008,
+      "rank": 10
+    },
+    {
+      "Year": 1989,
+      "ReporterISO3": "KOR",
+      "ReporterName": "Korea, Rep.",
+      "total_exports": 124713357.72600007,
+      "rank": 11
+    },
+    {
+      "Year": 1989,
+      "ReporterISO3": "SWE",
+      "ReporterName": "Sweden",
+      "total_exports": 103187477.10900001,
+      "rank": 12
+    },
+    {
+      "Year": 1989,
+      "ReporterISO3": "CHE",
+      "ReporterName": "Switzerland",
+      "total_exports": 103071287.069,
+      "rank": 13
+    },
+    {
+      "Year": 1989,
+      "ReporterISO3": "SGP",
+      "ReporterName": "Singapore",
+      "total_exports": 89373261.09300004,
+      "rank": 14
+    },
+    {
+      "Year": 1989,
+      "ReporterISO3": "ESP",
+      "ReporterName": "Spain",
+      "total_exports": 88927421.28499997,
+      "rank": 15
+    },
+    {
+      "Year": 1989,
+      "ReporterISO3": "AUS",
+      "ReporterName": "Australia",
+      "total_exports": 68840017.12799999,
+      "rank": 16
+    },
+    {
+      "Year": 1989,
+      "ReporterISO3": "BRA",
+      "ReporterName": "Brazil",
+      "total_exports": 68762870.375,
+      "rank": 17
+    },
+    {
+      "Year": 1989,
+      "ReporterISO3": "AUT",
+      "ReporterName": "Austria",
+      "total_exports": 64858303.95499999,
+      "rank": 18
+    },
+    {
+      "Year": 1989,
+      "ReporterISO3": "DNK",
+      "ReporterName": "Denmark",
+      "total_exports": 56092392.394000016,
+      "rank": 19
+    },
+    {
+      "Year": 1989,
+      "ReporterISO3": "NOR",
+      "ReporterName": "Norway",
+      "total_exports": 54073303.627,
+      "rank": 20
+    },
+    {
+      "Year": 1989,
+      "ReporterISO3": "MYS",
+      "ReporterName": "Malaysia",
+      "total_exports": 50096493.24499998,
+      "rank": 21
+    },
+    {
+      "Year": 1989,
+      "ReporterISO3": "FIN",
+      "ReporterName": "Finland",
+      "total_exports": 46540197.29899999,
+      "rank": 22
+    },
+    {
+      "Year": 1989,
+      "ReporterISO3": "MEX",
+      "ReporterName": "Mexico",
+      "total_exports": 46092009.974999994,
+      "rank": 23
+    },
+    {
+      "Year": 1989,
+      "ReporterISO3": "IDN",
+      "ReporterName": "Indonesia",
+      "total_exports": 44056220.16,
+      "rank": 24
+    },
+    {
+      "Year": 1989,
+      "ReporterISO3": "IRL",
+      "ReporterName": "Ireland",
+      "total_exports": 41389584.39500002,
+      "rank": 25
+    },
+    {
+      "Year": 1989,
+      "ReporterISO3": "THA",
+      "ReporterName": "Thailand",
+      "total_exports": 40029540.90799999,
+      "rank": 26
+    },
+    {
+      "Year": 1989,
+      "ReporterISO3": "IND",
+      "ReporterName": "India",
+      "total_exports": 34021969.15400001,
+      "rank": 27
+    },
+    {
+      "Year": 1989,
+      "ReporterISO3": "CSK",
+      "ReporterName": "Czechoslovakia",
+      "total_exports": 28879394.589000005,
+      "rank": 28
+    },
+    {
+      "Year": 1989,
+      "ReporterISO3": "YUG",
+      "ReporterName": "Yugoslavia,FR(Serbia/Montenegr",
+      "total_exports": 26726064.104000006,
+      "rank": 29
+    },
+    {
+      "Year": 1989,
+      "ReporterISO3": "PRT",
+      "ReporterName": "Portugal",
+      "total_exports": 25594831.004000004,
+      "rank": 30
+    },
+    {
+      "Year": 1989,
+      "ReporterISO3": "TUR",
+      "ReporterName": "Turkey",
+      "total_exports": 23254571.20900001,
+      "rank": 31
+    },
+    {
+      "Year": 1989,
+      "ReporterISO3": "ISR",
+      "ReporterName": "Israel",
+      "total_exports": 21471565.494000006,
+      "rank": 32
+    },
+    {
+      "Year": 1989,
+      "ReporterISO3": "ROM",
+      "ReporterName": "Romania",
+      "total_exports": 20974759.888,
+      "rank": 33
+    },
+    {
+      "Year": 1989,
+      "ReporterISO3": "NZL",
+      "ReporterName": "New Zealand",
+      "total_exports": 17219573.639999993,
+      "rank": 34
+    },
+    {
+      "Year": 1989,
+      "ReporterISO3": "GRC",
+      "ReporterName": "Greece",
+      "total_exports": 15086390.180000003,
+      "rank": 35
+    },
+    {
+      "Year": 1989,
+      "ReporterISO3": "OMN",
+      "ReporterName": "Oman",
+      "total_exports": 7865557.608999999,
+      "rank": 36
+    },
+    {
+      "Year": 1989,
+      "ReporterISO3": "MAC",
+      "ReporterName": "Macao",
+      "total_exports": 3283874.6380000003,
+      "rank": 37
+    },
+    {
+      "Year": 1989,
+      "ReporterISO3": "ISL",
+      "ReporterName": "Iceland",
+      "total_exports": 2802442.263,
+      "rank": 38
+    },
+    {
+      "Year": 1989,
+      "ReporterISO3": "BGD",
+      "ReporterName": "Bangladesh",
+      "total_exports": 2656015.4170000004,
+      "rank": 39
+    },
+    {
+      "Year": 1989,
+      "ReporterISO3": "KWT",
+      "ReporterName": "Kuwait",
+      "total_exports": 2132252.501,
+      "rank": 40
+    },
+    {
+      "Year": 1989,
+      "ReporterISO3": "PRY",
+      "ReporterName": "Paraguay",
+      "total_exports": 2018891.293,
+      "rank": 41
+    },
+    {
+      "Year": 1989,
+      "ReporterISO3": "MUS",
+      "ReporterName": "Mauritius",
+      "total_exports": 1973525.8600000003,
+      "rank": 42
+    },
+    {
+      "Year": 1989,
+      "ReporterISO3": "JOR",
+      "ReporterName": "Jordan",
+      "total_exports": 1852678.4649999999,
+      "rank": 43
+    },
+    {
+      "Year": 1989,
+      "ReporterISO3": "CYP",
+      "ReporterName": "Cyprus",
+      "total_exports": 996136.4109999998,
+      "rank": 44
+    },
+    {
+      "Year": 1989,
+      "ReporterISO3": "GRL",
+      "ReporterName": "Greenland",
+      "total_exports": 833518.921,
+      "rank": 45
+    },
+    {
+      "Year": 1989,
+      "ReporterISO3": "FJI",
+      "ReporterName": "Fiji",
+      "total_exports": 744847.0979999999,
+      "rank": 46
+    },
+    {
+      "Year": 1989,
+      "ReporterISO3": "FRO",
+      "ReporterName": "Faeroe Islands",
+      "total_exports": 685216.7609999998,
+      "rank": 47
+    },
+    {
+      "Year": 1989,
+      "ReporterISO3": "MTQ",
+      "ReporterName": "Martinique",
+      "total_exports": 400278.3020000001,
+      "rank": 48
+    },
+    {
+      "Year": 1989,
+      "ReporterISO3": "REU",
+      "ReporterName": "Reunion",
+      "total_exports": 321658.787,
+      "rank": 49
+    },
+    {
+      "Year": 1989,
+      "ReporterISO3": "HTI",
+      "ReporterName": "Haiti",
+      "total_exports": 304231.10500000004,
+      "rank": 50
+    },
+    {
+      "Year": 1989,
+      "ReporterISO3": "GLP",
+      "ReporterName": "Guadeloupe",
+      "total_exports": 222932.289,
+      "rank": 51
+    },
+    {
+      "Year": 1989,
+      "ReporterISO3": "GUF",
+      "ReporterName": "French Guiana",
+      "total_exports": 113695.849,
+      "rank": 52
+    },
+    {
+      "Year": 1989,
+      "ReporterISO3": "KIR",
+      "ReporterName": "Kiribati",
+      "total_exports": 9466.726000000002,
+      "rank": 53
+    },
+    {
+      "Year": 1990,
+      "ReporterISO3": "DEU",
+      "ReporterName": "Germany",
+      "total_exports": 796762350,
+      "rank": 1
+    },
+    {
+      "Year": 1990,
+      "ReporterISO3": "USA",
+      "ReporterName": "United States",
+      "total_exports": 748899154.3460003,
+      "rank": 2
+    },
+    {
+      "Year": 1990,
+      "ReporterISO3": "JPN",
+      "ReporterName": "Japan",
+      "total_exports": 573894894.383,
+      "rank": 3
+    },
+    {
+      "Year": 1990,
+      "ReporterISO3": "FRA",
+      "ReporterName": "France",
+      "total_exports": 419991981.963,
+      "rank": 4
+    },
+    {
+      "Year": 1990,
+      "ReporterISO3": "GBR",
+      "ReporterName": "United Kingdom",
+      "total_exports": 370998996.40399975,
+      "rank": 5
+    },
+    {
+      "Year": 1990,
+      "ReporterISO3": "ITA",
+      "ReporterName": "Italy",
+      "total_exports": 337108268.2040001,
+      "rank": 6
+    },
+    {
+      "Year": 1990,
+      "ReporterISO3": "NLD",
+      "ReporterName": "Netherlands",
+      "total_exports": 263014890.40100008,
+      "rank": 7
+    },
+    {
+      "Year": 1990,
+      "ReporterISO3": "CAN",
+      "ReporterName": "Canada",
+      "total_exports": 253798779.01299995,
+      "rank": 8
+    },
+    {
+      "Year": 1990,
+      "ReporterISO3": "BLX",
+      "ReporterName": "Belgium-Luxembourg",
+      "total_exports": 236591992.64,
+      "rank": 9
+    },
+    {
+      "Year": 1990,
+      "ReporterISO3": "OAS",
+      "ReporterName": "Other Asia, nes",
+      "total_exports": 133651007.03199998,
+      "rank": 10
+    },
+    {
+      "Year": 1990,
+      "ReporterISO3": "KOR",
+      "ReporterName": "Korea, Rep.",
+      "total_exports": 130031408.64600001,
+      "rank": 11
+    },
+    {
+      "Year": 1990,
+      "ReporterISO3": "CHE",
+      "ReporterName": "Switzerland",
+      "total_exports": 127587614.485,
+      "rank": 12
+    },
+    {
+      "Year": 1990,
+      "ReporterISO3": "SWE",
+      "ReporterName": "Sweden",
+      "total_exports": 114584451.50100002,
+      "rank": 13
+    },
+    {
+      "Year": 1990,
+      "ReporterISO3": "ESP",
+      "ReporterName": "Spain",
+      "total_exports": 111264457.52000004,
+      "rank": 14
+    },
+    {
+      "Year": 1990,
+      "ReporterISO3": "SGP",
+      "ReporterName": "Singapore",
+      "total_exports": 105431786.00000001,
+      "rank": 15
+    },
+    {
+      "Year": 1990,
+      "ReporterISO3": "AUT",
+      "ReporterName": "Austria",
+      "total_exports": 83761445.14999998,
+      "rank": 16
+    },
+    {
+      "Year": 1990,
+      "ReporterISO3": "AUS",
+      "ReporterName": "Australia",
+      "total_exports": 74755602.07400005,
+      "rank": 17
+    },
+    {
+      "Year": 1990,
+      "ReporterISO3": "DNK",
+      "ReporterName": "Denmark",
+      "total_exports": 69685594.19199997,
+      "rank": 18
+    },
+    {
+      "Year": 1990,
+      "ReporterISO3": "NOR",
+      "ReporterName": "Norway",
+      "total_exports": 68144831.112,
+      "rank": 19
+    },
+    {
+      "Year": 1990,
+      "ReporterISO3": "BRA",
+      "ReporterName": "Brazil",
+      "total_exports": 62822515.10599999,
+      "rank": 20
+    },
+    {
+      "Year": 1990,
+      "ReporterISO3": "MYS",
+      "ReporterName": "Malaysia",
+      "total_exports": 58906418.613000005,
+      "rank": 21
+    },
+    {
+      "Year": 1990,
+      "ReporterISO3": "FIN",
+      "ReporterName": "Finland",
+      "total_exports": 53299978.802000016,
+      "rank": 22
+    },
+    {
+      "Year": 1990,
+      "ReporterISO3": "MEX",
+      "ReporterName": "Mexico",
+      "total_exports": 52689331.094,
+      "rank": 23
+    },
+    {
+      "Year": 1990,
+      "ReporterISO3": "IDN",
+      "ReporterName": "Indonesia",
+      "total_exports": 51350646.664,
+      "rank": 24
+    },
+    {
+      "Year": 1990,
+      "ReporterISO3": "IRL",
+      "ReporterName": "Ireland",
+      "total_exports": 47598072.43,
+      "rank": 25
+    },
+    {
+      "Year": 1990,
+      "ReporterISO3": "THA",
+      "ReporterName": "Thailand",
+      "total_exports": 46007967.541999996,
+      "rank": 26
+    },
+    {
+      "Year": 1990,
+      "ReporterISO3": "VEN",
+      "ReporterName": "Venezuela",
+      "total_exports": 36088495.34099999,
+      "rank": 27
+    },
+    {
+      "Year": 1990,
+      "ReporterISO3": "IND",
+      "ReporterName": "India",
+      "total_exports": 35717578.38400003,
+      "rank": 28
+    },
+    {
+      "Year": 1990,
+      "ReporterISO3": "PRT",
+      "ReporterName": "Portugal",
+      "total_exports": 32851764.899999995,
+      "rank": 29
+    },
+    {
+      "Year": 1990,
+      "ReporterISO3": "YUG",
+      "ReporterName": "Yugoslavia,FR(Serbia/Montenegr",
+      "total_exports": 28614820.056999996,
+      "rank": 30
+    },
+    {
+      "Year": 1990,
+      "ReporterISO3": "TUR",
+      "ReporterName": "Turkey",
+      "total_exports": 25918763.266000006,
+      "rank": 31
+    },
+    {
+      "Year": 1990,
+      "ReporterISO3": "ISR",
+      "ReporterName": "Israel",
+      "total_exports": 24104232.479000002,
+      "rank": 32
+    },
+    {
+      "Year": 1990,
+      "ReporterISO3": "CSK",
+      "ReporterName": "Czechoslovakia",
+      "total_exports": 23764818.66599999,
+      "rank": 33
+    },
+    {
+      "Year": 1990,
+      "ReporterISO3": "NZL",
+      "ReporterName": "New Zealand",
+      "total_exports": 18150918.972999997,
+      "rank": 34
+    },
+    {
+      "Year": 1990,
+      "ReporterISO3": "CHL",
+      "ReporterName": "Chile",
+      "total_exports": 17044047.578,
+      "rank": 35
+    },
+    {
+      "Year": 1990,
+      "ReporterISO3": "GRC",
+      "ReporterName": "Greece",
+      "total_exports": 16119300.333000004,
+      "rank": 36
+    },
+    {
+      "Year": 1990,
+      "ReporterISO3": "KWT",
+      "ReporterName": "Kuwait",
+      "total_exports": 13870655.519000001,
+      "rank": 37
+    },
+    {
+      "Year": 1990,
+      "ReporterISO3": "ROM",
+      "ReporterName": "Romania",
+      "total_exports": 11720863.848,
+      "rank": 38
+    },
+    {
+      "Year": 1990,
+      "ReporterISO3": "PAK",
+      "ReporterName": "Pakistan",
+      "total_exports": 11044153.680000013,
+      "rank": 39
+    },
+    {
+      "Year": 1990,
+      "ReporterISO3": "OMN",
+      "ReporterName": "Oman",
+      "total_exports": 11008837.974,
+      "rank": 40
+    },
+    {
+      "Year": 1990,
+      "ReporterISO3": "AGO",
+      "ReporterName": "Angola",
+      "total_exports": 7820656.016,
+      "rank": 41
+    },
+    {
+      "Year": 1990,
+      "ReporterISO3": "TUN",
+      "ReporterName": "Tunisia",
+      "total_exports": 6996819.457999999,
+      "rank": 42
+    },
+    {
+      "Year": 1990,
+      "ReporterISO3": "ECU",
+      "ReporterName": "Ecuador",
+      "total_exports": 5428764.565,
+      "rank": 43
+    },
+    {
+      "Year": 1990,
+      "ReporterISO3": "CMR",
+      "ReporterName": "Cameroon",
+      "total_exports": 4161458.9129999992,
+      "rank": 44
+    },
+    {
+      "Year": 1990,
+      "ReporterISO3": "LKA",
+      "ReporterName": "Sri Lanka",
+      "total_exports": 3787384.000999999,
+      "rank": 45
+    },
+    {
+      "Year": 1990,
+      "ReporterISO3": "MAC",
+      "ReporterName": "Macao",
+      "total_exports": 3388784.4129999983,
+      "rank": 46
+    },
+    {
+      "Year": 1990,
+      "ReporterISO3": "ISL",
+      "ReporterName": "Iceland",
+      "total_exports": 3172776.9200000004,
+      "rank": 47
+    },
+    {
+      "Year": 1990,
+      "ReporterISO3": "BGD",
+      "ReporterName": "Bangladesh",
+      "total_exports": 3112880.8490000037,
+      "rank": 48
+    },
+    {
+      "Year": 1990,
+      "ReporterISO3": "ZWE",
+      "ReporterName": "Zimbabwe",
+      "total_exports": 2940858.0780000007,
+      "rank": 49
+    },
+    {
+      "Year": 1990,
+      "ReporterISO3": "MUS",
+      "ReporterName": "Mauritius",
+      "total_exports": 2441042.392,
+      "rank": 50
+    },
+    {
+      "Year": 1990,
+      "ReporterISO3": "MLT",
+      "ReporterName": "Malta",
+      "total_exports": 2068001.0950000004,
+      "rank": 51
+    },
+    {
+      "Year": 1990,
+      "ReporterISO3": "KEN",
+      "ReporterName": "Kenya",
+      "total_exports": 2040982.9030000002,
+      "rank": 52
+    },
+    {
+      "Year": 1990,
+      "ReporterISO3": "PRY",
+      "ReporterName": "Paraguay",
+      "total_exports": 1917361.034,
+      "rank": 53
+    },
+    {
+      "Year": 1990,
+      "ReporterISO3": "JOR",
+      "ReporterName": "Jordan",
+      "total_exports": 1843566.116,
+      "rank": 54
+    },
+    {
+      "Year": 1990,
+      "ReporterISO3": "CYP",
+      "ReporterName": "Cyprus",
+      "total_exports": 1144909.412,
+      "rank": 55
+    },
+    {
+      "Year": 1990,
+      "ReporterISO3": "FJI",
+      "ReporterName": "Fiji",
+      "total_exports": 824047.7410000003,
+      "rank": 56
+    },
+    {
+      "Year": 1990,
+      "ReporterISO3": "MWI",
+      "ReporterName": "Malawi",
+      "total_exports": 804415.674,
+      "rank": 57
+    },
+    {
+      "Year": 1990,
+      "ReporterISO3": "FRO",
+      "ReporterName": "Faeroe Islands",
+      "total_exports": 799704.9079999999,
+      "rank": 58
+    },
+    {
+      "Year": 1990,
+      "ReporterISO3": "GRL",
+      "ReporterName": "Greenland",
+      "total_exports": 782876.69,
+      "rank": 59
+    },
+    {
+      "Year": 1990,
+      "ReporterISO3": "MDG",
+      "ReporterName": "Madagascar",
+      "total_exports": 584841.9930000001,
+      "rank": 60
+    },
+    {
+      "Year": 1990,
+      "ReporterISO3": "MTQ",
+      "ReporterName": "Martinique",
+      "total_exports": 552214.029,
+      "rank": 61
+    },
+    {
+      "Year": 1990,
+      "ReporterISO3": "REU",
+      "ReporterName": "Reunion",
+      "total_exports": 371197.85400000005,
+      "rank": 62
+    },
+    {
+      "Year": 1990,
+      "ReporterISO3": "HTI",
+      "ReporterName": "Haiti",
+      "total_exports": 342217.796,
+      "rank": 63
+    },
+    {
+      "Year": 1990,
+      "ReporterISO3": "GLP",
+      "ReporterName": "Guadeloupe",
+      "total_exports": 243340.26799999992,
+      "rank": 64
+    },
+    {
+      "Year": 1990,
+      "ReporterISO3": "GUF",
+      "ReporterName": "French Guiana",
+      "total_exports": 179485.82599999997,
+      "rank": 65
+    },
+    {
+      "Year": 1990,
+      "ReporterISO3": "VUT",
+      "ReporterName": "Vanuatu",
+      "total_exports": 27536.748,
+      "rank": 66
+    },
+    {
+      "Year": 1990,
+      "ReporterISO3": "KIR",
+      "ReporterName": "Kiribati",
+      "total_exports": 4702.686,
+      "rank": 67
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "DEU",
+      "ReporterName": "Germany",
+      "total_exports": 805064090.0009999,
+      "rank": 1
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "USA",
+      "ReporterName": "United States",
+      "total_exports": 801967552.469,
+      "rank": 2
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "JPN",
+      "ReporterName": "Japan",
+      "total_exports": 629050777.625,
+      "rank": 3
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "FRA",
+      "ReporterName": "France",
+      "total_exports": 426745518.5959997,
+      "rank": 4
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "GBR",
+      "ReporterName": "United Kingdom",
+      "total_exports": 349032647.38699967,
+      "rank": 5
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "ITA",
+      "ReporterName": "Italy",
+      "total_exports": 338795027.25300014,
+      "rank": 6
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "NLD",
+      "ReporterName": "Netherlands",
+      "total_exports": 267108348.93200004,
+      "rank": 7
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "CAN",
+      "ReporterName": "Canada",
+      "total_exports": 253567710.79999998,
+      "rank": 8
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "BLX",
+      "ReporterName": "Belgium-Luxembourg",
+      "total_exports": 237120162.78700006,
+      "rank": 9
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "OAS",
+      "ReporterName": "Other Asia, nes",
+      "total_exports": 151415485.928,
+      "rank": 10
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "KOR",
+      "ReporterName": "Korea, Rep.",
+      "total_exports": 143739928.08800015,
+      "rank": 11
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "CHE",
+      "ReporterName": "Switzerland",
+      "total_exports": 123063453.113,
+      "rank": 12
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "ESP",
+      "ReporterName": "Spain",
+      "total_exports": 120369832.96300004,
+      "rank": 13
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "SGP",
+      "ReporterName": "Singapore",
+      "total_exports": 117906630.378,
+      "rank": 14
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "SWE",
+      "ReporterName": "Sweden",
+      "total_exports": 109911393.94500001,
+      "rank": 15
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "SAU",
+      "ReporterName": "Saudi Arabia",
+      "total_exports": 92951897.44799997,
+      "rank": 16
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "AUT",
+      "ReporterName": "Austria",
+      "total_exports": 82171619.07400003,
+      "rank": 17
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "AUS",
+      "ReporterName": "Australia",
+      "total_exports": 78175530.662,
+      "rank": 18
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "DNK",
+      "ReporterName": "Denmark",
+      "total_exports": 71426112.50899996,
+      "rank": 19
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "MYS",
+      "ReporterName": "Malaysia",
+      "total_exports": 68695511.08699998,
+      "rank": 20
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "NOR",
+      "ReporterName": "Norway",
+      "total_exports": 68095753.96799996,
+      "rank": 21
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "BRA",
+      "ReporterName": "Brazil",
+      "total_exports": 63242239.43499996,
+      "rank": 22
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "IDN",
+      "ReporterName": "Indonesia",
+      "total_exports": 58284720.631,
+      "rank": 23
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "THA",
+      "ReporterName": "Thailand",
+      "total_exports": 56658630.092999965,
+      "rank": 24
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "MEX",
+      "ReporterName": "Mexico",
+      "total_exports": 53913410.56799999,
+      "rank": 25
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "IRL",
+      "ReporterName": "Ireland",
+      "total_exports": 48485989.882000014,
+      "rank": 26
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "FIN",
+      "ReporterName": "Finland",
+      "total_exports": 46034391.168,
+      "rank": 27
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "IND",
+      "ReporterName": "India",
+      "total_exports": 35746209.96599999,
+      "rank": 28
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "PRT",
+      "ReporterName": "Portugal",
+      "total_exports": 32692927.97299999,
+      "rank": 29
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "VEN",
+      "ReporterName": "Venezuela",
+      "total_exports": 30259724.396999985,
+      "rank": 30
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "TUR",
+      "ReporterName": "Turkey",
+      "total_exports": 27186892.528000016,
+      "rank": 31
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "ISR",
+      "ReporterName": "Israel",
+      "total_exports": 23786387.711000007,
+      "rank": 32
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "NZL",
+      "ReporterName": "New Zealand",
+      "total_exports": 18649104.985000007,
+      "rank": 33
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "CHL",
+      "ReporterName": "Chile",
+      "total_exports": 17920124.684000008,
+      "rank": 34
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "PHL",
+      "ReporterName": "Philippines",
+      "total_exports": 17679014.052,
+      "rank": 35
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "GRC",
+      "ReporterName": "Greece",
+      "total_exports": 17294299.24,
+      "rank": 36
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "COL",
+      "ReporterName": "Colombia",
+      "total_exports": 14537269.135999996,
+      "rank": 37
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "PAK",
+      "ReporterName": "Pakistan",
+      "total_exports": 12928584.667999998,
+      "rank": 38
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "OMN",
+      "ReporterName": "Oman",
+      "total_exports": 9747014.851000004,
+      "rank": 39
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "ROM",
+      "ReporterName": "Romania",
+      "total_exports": 8531304.976,
+      "rank": 40
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "TUN",
+      "ReporterName": "Tunisia",
+      "total_exports": 7398997.574999999,
+      "rank": 41
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "AGO",
+      "ReporterName": "Angola",
+      "total_exports": 6819340.741000001,
+      "rank": 42
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "QAT",
+      "ReporterName": "Qatar",
+      "total_exports": 6213158.496999999,
+      "rank": 43
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "ECU",
+      "ReporterName": "Ecuador",
+      "total_exports": 5702798.291000001,
+      "rank": 44
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "LKA",
+      "ReporterName": "Sri Lanka",
+      "total_exports": 3933381.802000001,
+      "rank": 45
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "TTO",
+      "ReporterName": "Trinidad and Tobago",
+      "total_exports": 3919211.7599999993,
+      "rank": 46
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "BGD",
+      "ReporterName": "Bangladesh",
+      "total_exports": 3380413.718,
+      "rank": 47
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "MAC",
+      "ReporterName": "Macao",
+      "total_exports": 3310632.856,
+      "rank": 48
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "ISL",
+      "ReporterName": "Iceland",
+      "total_exports": 3142900.526999999,
+      "rank": 49
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "ZWE",
+      "ReporterName": "Zimbabwe",
+      "total_exports": 2578364.6100000013,
+      "rank": 50
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "MUS",
+      "ReporterName": "Mauritius",
+      "total_exports": 2437080.3249999993,
+      "rank": 51
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "KEN",
+      "ReporterName": "Kenya",
+      "total_exports": 2314921.1149999993,
+      "rank": 52
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "MLT",
+      "ReporterName": "Malta",
+      "total_exports": 2299163.9149999986,
+      "rank": 53
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "KWT",
+      "ReporterName": "Kuwait",
+      "total_exports": 2177866.193,
+      "rank": 54
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "JAM",
+      "ReporterName": "Jamaica",
+      "total_exports": 2113269.7260000007,
+      "rank": 55
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "JOR",
+      "ReporterName": "Jordan",
+      "total_exports": 1757730.2959999999,
+      "rank": 56
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "PRY",
+      "ReporterName": "Paraguay",
+      "total_exports": 1474081.1459999997,
+      "rank": 57
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "CYP",
+      "ReporterName": "Cyprus",
+      "total_exports": 1070167.0969999998,
+      "rank": 58
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "ARE",
+      "ReporterName": "United Arab Emirates",
+      "total_exports": 971179.7779999999,
+      "rank": 59
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "MWI",
+      "ReporterName": "Malawi",
+      "total_exports": 944858.2690000006,
+      "rank": 60
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "FRO",
+      "ReporterName": "Faeroe Islands",
+      "total_exports": 869733.8670000001,
+      "rank": 61
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "FJI",
+      "ReporterName": "Fiji",
+      "total_exports": 849850.9230000001,
+      "rank": 62
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "GRL",
+      "ReporterName": "Greenland",
+      "total_exports": 680806.672,
+      "rank": 63
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "MDG",
+      "ReporterName": "Madagascar",
+      "total_exports": 590755.593,
+      "rank": 64
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "TGO",
+      "ReporterName": "Togo",
+      "total_exports": 506455.8140000001,
+      "rank": 65
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "MTQ",
+      "ReporterName": "Martinique",
+      "total_exports": 432195.28899999993,
+      "rank": 66
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "HTI",
+      "ReporterName": "Haiti",
+      "total_exports": 375275.06799999997,
+      "rank": 67
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "REU",
+      "ReporterName": "Reunion",
+      "total_exports": 299519.614,
+      "rank": 68
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "GLP",
+      "ReporterName": "Guadeloupe",
+      "total_exports": 293984.95700000005,
+      "rank": 69
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "LCA",
+      "ReporterName": "St. Lucia",
+      "total_exports": 201756.60399999996,
+      "rank": 70
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "GUF",
+      "ReporterName": "French Guiana",
+      "total_exports": 139948.418,
+      "rank": 71
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "VUT",
+      "ReporterName": "Vanuatu",
+      "total_exports": 27142.619999999995,
+      "rank": 72
+    },
+    {
+      "Year": 1991,
+      "ReporterISO3": "KIR",
+      "ReporterName": "Kiribati",
+      "total_exports": 4595.706,
+      "rank": 73
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "DEU",
+      "ReporterName": "Germany",
+      "total_exports": 860552614,
+      "rank": 1
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "USA",
+      "ReporterName": "United States",
+      "total_exports": 849742932.1959997,
+      "rank": 2
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "JPN",
+      "ReporterName": "Japan",
+      "total_exports": 679301563.3030002,
+      "rank": 3
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "FRA",
+      "ReporterName": "France",
+      "total_exports": 463880025.99600023,
+      "rank": 4
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "GBR",
+      "ReporterName": "United Kingdom",
+      "total_exports": 380961626.61299974,
+      "rank": 5
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "ITA",
+      "ReporterName": "Italy",
+      "total_exports": 356803144.96600014,
+      "rank": 6
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "NLD",
+      "ReporterName": "Netherlands",
+      "total_exports": 279868543.3560001,
+      "rank": 7
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "CAN",
+      "ReporterName": "Canada",
+      "total_exports": 268924268.737,
+      "rank": 8
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "BLX",
+      "ReporterName": "Belgium-Luxembourg",
+      "total_exports": 246919098.634,
+      "rank": 9
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "CHN",
+      "ReporterName": "China",
+      "total_exports": 169880029.76500005,
+      "rank": 10
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "OAS",
+      "ReporterName": "Other Asia, nes",
+      "total_exports": 161424917.60000002,
+      "rank": 11
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "KOR",
+      "ReporterName": "Korea, Rep.",
+      "total_exports": 153262902.00300005,
+      "rank": 12
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "CHE",
+      "ReporterName": "Switzerland",
+      "total_exports": 131349887.13799995,
+      "rank": 13
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "ESP",
+      "ReporterName": "Spain",
+      "total_exports": 128635010.15899993,
+      "rank": 14
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "SGP",
+      "ReporterName": "Singapore",
+      "total_exports": 126926218.37300004,
+      "rank": 15
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "SWE",
+      "ReporterName": "Sweden",
+      "total_exports": 111542297.33,
+      "rank": 16
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "SAU",
+      "ReporterName": "Saudi Arabia",
+      "total_exports": 105668794.72600003,
+      "rank": 17
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "MEX",
+      "ReporterName": "Mexico",
+      "total_exports": 92389770.50400001,
+      "rank": 18
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "AUT",
+      "ReporterName": "Austria",
+      "total_exports": 88869608.05000001,
+      "rank": 19
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "MYS",
+      "ReporterName": "Malaysia",
+      "total_exports": 81536990.04500006,
+      "rank": 20
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "AUS",
+      "ReporterName": "Australia",
+      "total_exports": 80453919.31199999,
+      "rank": 21
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "DNK",
+      "ReporterName": "Denmark",
+      "total_exports": 79106218.071,
+      "rank": 22
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "BRA",
+      "ReporterName": "Brazil",
+      "total_exports": 71950631.09200004,
+      "rank": 23
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "NOR",
+      "ReporterName": "Norway",
+      "total_exports": 70298015.27699998,
+      "rank": 24
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "IDN",
+      "ReporterName": "Indonesia",
+      "total_exports": 67933963.176,
+      "rank": 25
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "THA",
+      "ReporterName": "Thailand",
+      "total_exports": 64937600.57900002,
+      "rank": 26
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "HKG",
+      "ReporterName": "Hong Kong, China",
+      "total_exports": 60501181.11999999,
+      "rank": 27
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "IRL",
+      "ReporterName": "Ireland",
+      "total_exports": 56669061.757,
+      "rank": 28
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "FIN",
+      "ReporterName": "Finland",
+      "total_exports": 47904316.86399999,
+      "rank": 29
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "ZAF",
+      "ReporterName": "South Africa",
+      "total_exports": 42229214.56,
+      "rank": 30
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "IND",
+      "ReporterName": "India",
+      "total_exports": 41358648.99,
+      "rank": 31
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "PRT",
+      "ReporterName": "Portugal",
+      "total_exports": 37129117.794000015,
+      "rank": 32
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "TUR",
+      "ReporterName": "Turkey",
+      "total_exports": 29429215.605,
+      "rank": 33
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "VEN",
+      "ReporterName": "Venezuela",
+      "total_exports": 28470630.858,
+      "rank": 34
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "POL",
+      "ReporterName": "Poland",
+      "total_exports": 26329086,
+      "rank": 35
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "ISR",
+      "ReporterName": "Israel",
+      "total_exports": 26164493.818,
+      "rank": 36
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "ARG",
+      "ReporterName": "Argentina",
+      "total_exports": 24469877.055,
+      "rank": 37
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "DZA",
+      "ReporterName": "Algeria",
+      "total_exports": 22273603.926999997,
+      "rank": 38
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "HUN",
+      "ReporterName": "Hungary",
+      "total_exports": 20109951.48,
+      "rank": 39
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "CHL",
+      "ReporterName": "Chile",
+      "total_exports": 19826577.293999996,
+      "rank": 40
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "GRC",
+      "ReporterName": "Greece",
+      "total_exports": 19676520.542000003,
+      "rank": 41
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "PHL",
+      "ReporterName": "Philippines",
+      "total_exports": 19648616.628000006,
+      "rank": 42
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "NZL",
+      "ReporterName": "New Zealand",
+      "total_exports": 18879366.808999997,
+      "rank": 43
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "PAK",
+      "ReporterName": "Pakistan",
+      "total_exports": 14528342.186000004,
+      "rank": 44
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "COL",
+      "ReporterName": "Colombia",
+      "total_exports": 13832085.645999996,
+      "rank": 45
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "SVN",
+      "ReporterName": "Slovenia",
+      "total_exports": 13362282.566000002,
+      "rank": 46
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "KWT",
+      "ReporterName": "Kuwait",
+      "total_exports": 13170561.855999999,
+      "rank": 47
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "OMN",
+      "ReporterName": "Oman",
+      "total_exports": 10902319.393000007,
+      "rank": 48
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "HRV",
+      "ReporterName": "Croatia",
+      "total_exports": 9194968.018,
+      "rank": 49
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "ROM",
+      "ReporterName": "Romania",
+      "total_exports": 8726768.696,
+      "rank": 50
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "TUN",
+      "ReporterName": "Tunisia",
+      "total_exports": 8079797.206999998,
+      "rank": 51
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "QAT",
+      "ReporterName": "Qatar",
+      "total_exports": 7472564.534999999,
+      "rank": 52
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "PER",
+      "ReporterName": "Peru",
+      "total_exports": 6718743.002999999,
+      "rank": 53
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "ECU",
+      "ReporterName": "Ecuador",
+      "total_exports": 6084573.829000002,
+      "rank": 54
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "SER",
+      "ReporterName": "Serbia, FR(Serbia/Montenegro)",
+      "total_exports": 5076988.008,
+      "rank": 55
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "LKA",
+      "ReporterName": "Sri Lanka",
+      "total_exports": 4901819.635000002,
+      "rank": 56
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "BRN",
+      "ReporterName": "Brunei",
+      "total_exports": 4602436.597,
+      "rank": 57
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "BGD",
+      "ReporterName": "Bangladesh",
+      "total_exports": 3883214.3479999998,
+      "rank": 58
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "TTO",
+      "ReporterName": "Trinidad and Tobago",
+      "total_exports": 3669561.251000001,
+      "rank": 59
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "LTU",
+      "ReporterName": "Lithuania",
+      "total_exports": 3520831.222,
+      "rank": 60
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "MAC",
+      "ReporterName": "Macao",
+      "total_exports": 3498180.5179999997,
+      "rank": 61
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "ISL",
+      "ReporterName": "Iceland",
+      "total_exports": 3054150.4359999998,
+      "rank": 62
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "MLT",
+      "ReporterName": "Malta",
+      "total_exports": 2827960.0500000007,
+      "rank": 63
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "KEN",
+      "ReporterName": "Kenya",
+      "total_exports": 2677971.655999998,
+      "rank": 64
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "MUS",
+      "ReporterName": "Mauritius",
+      "total_exports": 2671021.0039999997,
+      "rank": 65
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "ZWE",
+      "ReporterName": "Zimbabwe",
+      "total_exports": 2503089.668999999,
+      "rank": 66
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "GHA",
+      "ReporterName": "Ghana",
+      "total_exports": 2468851.9259999995,
+      "rank": 67
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "JAM",
+      "ReporterName": "Jamaica",
+      "total_exports": 2057215.5019999999,
+      "rank": 68
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "JOR",
+      "ReporterName": "Jordan",
+      "total_exports": 1865198.577,
+      "rank": 69
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "BOL",
+      "ReporterName": "Bolivia",
+      "total_exports": 1530627.6030000008,
+      "rank": 70
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "PRY",
+      "ReporterName": "Paraguay",
+      "total_exports": 1313108.6230000001,
+      "rank": 71
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "CYP",
+      "ReporterName": "Cyprus",
+      "total_exports": 1023372.1300000001,
+      "rank": 72
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "ARE",
+      "ReporterName": "United Arab Emirates",
+      "total_exports": 1008945.6670000002,
+      "rank": 73
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "MMR",
+      "ReporterName": "Myanmar",
+      "total_exports": 877571.5419999999,
+      "rank": 74
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "FRO",
+      "ReporterName": "Faeroe Islands",
+      "total_exports": 876321.9089999999,
+      "rank": 75
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "FJI",
+      "ReporterName": "Fiji",
+      "total_exports": 730572.5349999998,
+      "rank": 76
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "GRL",
+      "ReporterName": "Greenland",
+      "total_exports": 665508.599,
+      "rank": 77
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "MDG",
+      "ReporterName": "Madagascar",
+      "total_exports": 537775.5029999999,
+      "rank": 78
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "MTQ",
+      "ReporterName": "Martinique",
+      "total_exports": 509080.83300000004,
+      "rank": 79
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "REU",
+      "ReporterName": "Reunion",
+      "total_exports": 420466.039,
+      "rank": 80
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "GLP",
+      "ReporterName": "Guadeloupe",
+      "total_exports": 273525.283,
+      "rank": 81
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "BRB",
+      "ReporterName": "Barbados",
+      "total_exports": 265486.065,
+      "rank": 82
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "LCA",
+      "ReporterName": "St. Lucia",
+      "total_exports": 229187.89899999998,
+      "rank": 83
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "BLZ",
+      "ReporterName": "Belize",
+      "total_exports": 221959.15900000007,
+      "rank": 84
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "GUF",
+      "ReporterName": "French Guiana",
+      "total_exports": 204218.30099999995,
+      "rank": 85
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "HTI",
+      "ReporterName": "Haiti",
+      "total_exports": 82655.62400000001,
+      "rank": 86
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "SYC",
+      "ReporterName": "Seychelles",
+      "total_exports": 36410.081,
+      "rank": 87
+    },
+    {
+      "Year": 1992,
+      "ReporterISO3": "KIR",
+      "ReporterName": "Kiribati",
+      "total_exports": 8206.412,
+      "rank": 88
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "USA",
+      "ReporterName": "United States",
+      "total_exports": 878445635.1660004,
+      "rank": 1
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "DEU",
+      "ReporterName": "Germany",
+      "total_exports": 760149616,
+      "rank": 2
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "JPN",
+      "ReporterName": "Japan",
+      "total_exports": 721822149.483,
+      "rank": 3
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "FRA",
+      "ReporterName": "France",
+      "total_exports": 412546015.57399976,
+      "rank": 4
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "GBR",
+      "ReporterName": "United Kingdom",
+      "total_exports": 343399445.2529996,
+      "rank": 5
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "ITA",
+      "ReporterName": "Italy",
+      "total_exports": 337022296.3819995,
+      "rank": 6
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "CAN",
+      "ReporterName": "Canada",
+      "total_exports": 289263291.64699996,
+      "rank": 7
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "NLD",
+      "ReporterName": "Netherlands",
+      "total_exports": 262286510.308,
+      "rank": 8
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "BLX",
+      "ReporterName": "Belgium-Luxembourg",
+      "total_exports": 241723603.76700008,
+      "rank": 9
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "CHN",
+      "ReporterName": "China",
+      "total_exports": 183487892.05300003,
+      "rank": 10
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "OAS",
+      "ReporterName": "Other Asia, nes",
+      "total_exports": 167619835.28,
+      "rank": 11
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "KOR",
+      "ReporterName": "Korea, Rep.",
+      "total_exports": 164464230.90399998,
+      "rank": 12
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "SGP",
+      "ReporterName": "Singapore",
+      "total_exports": 148010943.916,
+      "rank": 13
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "CHE",
+      "ReporterName": "Switzerland",
+      "total_exports": 126369112.09100005,
+      "rank": 14
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "ESP",
+      "ReporterName": "Spain",
+      "total_exports": 121936952.88500006,
+      "rank": 15
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "MEX",
+      "ReporterName": "Mexico",
+      "total_exports": 103772829.528,
+      "rank": 16
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "SWE",
+      "ReporterName": "Sweden",
+      "total_exports": 99354952.52700001,
+      "rank": 17
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "MYS",
+      "ReporterName": "Malaysia",
+      "total_exports": 94254350.66400002,
+      "rank": 18
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "SAU",
+      "ReporterName": "Saudi Arabia",
+      "total_exports": 83976153.068,
+      "rank": 19
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "AUT",
+      "ReporterName": "Austria",
+      "total_exports": 80318151.36600006,
+      "rank": 20
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "AUS",
+      "ReporterName": "Australia",
+      "total_exports": 79705724.74000002,
+      "rank": 21
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "BRA",
+      "ReporterName": "Brazil",
+      "total_exports": 77401677.49099998,
+      "rank": 22
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "DNK",
+      "ReporterName": "Denmark",
+      "total_exports": 74341983.92699999,
+      "rank": 23
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "THA",
+      "ReporterName": "Thailand",
+      "total_exports": 74195258.21599993,
+      "rank": 24
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "IDN",
+      "ReporterName": "Indonesia",
+      "total_exports": 73645506.68499999,
+      "rank": 25
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "NOR",
+      "ReporterName": "Norway",
+      "total_exports": 63807745.038999975,
+      "rank": 26
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "IRL",
+      "ReporterName": "Ireland",
+      "total_exports": 57713016.912,
+      "rank": 27
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "HKG",
+      "ReporterName": "Hong Kong, China",
+      "total_exports": 57661714.386,
+      "rank": 28
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "ZAF",
+      "ReporterName": "South Africa",
+      "total_exports": 48531406.911000006,
+      "rank": 29
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "FIN",
+      "ReporterName": "Finland",
+      "total_exports": 46946795.386999995,
+      "rank": 30
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "IND",
+      "ReporterName": "India",
+      "total_exports": 44412904.026000015,
+      "rank": 31
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "PRT",
+      "ReporterName": "Portugal",
+      "total_exports": 30834723.218000002,
+      "rank": 32
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "VEN",
+      "ReporterName": "Venezuela",
+      "total_exports": 30740354.761000007,
+      "rank": 33
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "TUR",
+      "ReporterName": "Turkey",
+      "total_exports": 30697825.787000008,
+      "rank": 34
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "ISR",
+      "ReporterName": "Israel",
+      "total_exports": 29650628.448,
+      "rank": 35
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "POL",
+      "ReporterName": "Poland",
+      "total_exports": 28088208,
+      "rank": 36
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "ARG",
+      "ReporterName": "Argentina",
+      "total_exports": 26235490.434999995,
+      "rank": 37
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "CZE",
+      "ReporterName": "Czech Republic",
+      "total_exports": 25784398.106000006,
+      "rank": 38
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "PHL",
+      "ReporterName": "Philippines",
+      "total_exports": 22749597.693000007,
+      "rank": 39
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "KWT",
+      "ReporterName": "Kuwait",
+      "total_exports": 21038071.743000004,
+      "rank": 40
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "NZL",
+      "ReporterName": "New Zealand",
+      "total_exports": 20371565.81699999,
+      "rank": 41
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "DZA",
+      "ReporterName": "Algeria",
+      "total_exports": 20195330.563,
+      "rank": 42
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "CHL",
+      "ReporterName": "Chile",
+      "total_exports": 18616512.87199999,
+      "rank": 43
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "GRC",
+      "ReporterName": "Greece",
+      "total_exports": 17567412.098,
+      "rank": 44
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "HUN",
+      "ReporterName": "Hungary",
+      "total_exports": 16480117.927999998,
+      "rank": 45
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "COL",
+      "ReporterName": "Colombia",
+      "total_exports": 14246877.130999994,
+      "rank": 46
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "PAK",
+      "ReporterName": "Pakistan",
+      "total_exports": 13683400.973000003,
+      "rank": 47
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "SVN",
+      "ReporterName": "Slovenia",
+      "total_exports": 12165705.942000002,
+      "rank": 48
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "OMN",
+      "ReporterName": "Oman",
+      "total_exports": 10599020.621,
+      "rank": 49
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "ROM",
+      "ReporterName": "Romania",
+      "total_exports": 9784313.999,
+      "rank": 50
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "HRV",
+      "ReporterName": "Croatia",
+      "total_exports": 7807616.462999994,
+      "rank": 51
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "TUN",
+      "ReporterName": "Tunisia",
+      "total_exports": 7608989.089000001,
+      "rank": 52
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "MAR",
+      "ReporterName": "Morocco",
+      "total_exports": 7391889.790000001,
+      "rank": 53
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "PER",
+      "ReporterName": "Peru",
+      "total_exports": 6686753.860000001,
+      "rank": 54
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "QAT",
+      "ReporterName": "Qatar",
+      "total_exports": 6361658.249000001,
+      "rank": 55
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "ECU",
+      "ReporterName": "Ecuador",
+      "total_exports": 6039998.510999998,
+      "rank": 56
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "LKA",
+      "ReporterName": "Sri Lanka",
+      "total_exports": 5664673.917,
+      "rank": 57
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "GAB",
+      "ReporterName": "Gabon",
+      "total_exports": 5274038.134000001,
+      "rank": 58
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "BGD",
+      "ReporterName": "Bangladesh",
+      "total_exports": 4506187.342999999,
+      "rank": 59
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "BRN",
+      "ReporterName": "Brunei",
+      "total_exports": 4187894.738,
+      "rank": 60
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "MAC",
+      "ReporterName": "Macao",
+      "total_exports": 3526111.8419999997,
+      "rank": 61
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "TTO",
+      "ReporterName": "Trinidad and Tobago",
+      "total_exports": 3324205.071,
+      "rank": 62
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "URY",
+      "ReporterName": "Uruguay",
+      "total_exports": 3213063.3709999993,
+      "rank": 63
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "MUS",
+      "ReporterName": "Mauritius",
+      "total_exports": 2934176.0349999997,
+      "rank": 64
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "ISL",
+      "ReporterName": "Iceland",
+      "total_exports": 2798645.7200000007,
+      "rank": 65
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "KEN",
+      "ReporterName": "Kenya",
+      "total_exports": 2747268.968000001,
+      "rank": 66
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "GTM",
+      "ReporterName": "Guatemala",
+      "total_exports": 2676433.3750000005,
+      "rank": 67
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "ZWE",
+      "ReporterName": "Zimbabwe",
+      "total_exports": 2637835.458000001,
+      "rank": 68
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "MLT",
+      "ReporterName": "Malta",
+      "total_exports": 2493313.718,
+      "rank": 69
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "JAM",
+      "ReporterName": "Jamaica",
+      "total_exports": 2116641.071,
+      "rank": 70
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "JOR",
+      "ReporterName": "Jordan",
+      "total_exports": 2007846.369,
+      "rank": 71
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "COG",
+      "ReporterName": "Congo, Rep.",
+      "total_exports": 1930677.6769999997,
+      "rank": 72
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "ZMB",
+      "ReporterName": "Zambia",
+      "total_exports": 1841071.207,
+      "rank": 73
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "BOL",
+      "ReporterName": "Bolivia",
+      "total_exports": 1617875.1960000007,
+      "rank": 74
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "PRY",
+      "ReporterName": "Paraguay",
+      "total_exports": 1450435.6000000006,
+      "rank": 75
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "HND",
+      "ReporterName": "Honduras",
+      "total_exports": 1329516.1439999996,
+      "rank": 76
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "ARE",
+      "ReporterName": "United Arab Emirates",
+      "total_exports": 1160039.442,
+      "rank": 77
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "CYP",
+      "ReporterName": "Cyprus",
+      "total_exports": 830432.3160000001,
+      "rank": 78
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "FRO",
+      "ReporterName": "Faeroe Islands",
+      "total_exports": 656663.0400000002,
+      "rank": 79
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "GRL",
+      "ReporterName": "Greenland",
+      "total_exports": 626116.79,
+      "rank": 80
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "NIC",
+      "ReporterName": "Nicaragua",
+      "total_exports": 534984.1579999999,
+      "rank": 81
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "MDG",
+      "ReporterName": "Madagascar",
+      "total_exports": 523454.22899999993,
+      "rank": 82
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "FJI",
+      "ReporterName": "Fiji",
+      "total_exports": 500182.93399999983,
+      "rank": 83
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "MTQ",
+      "ReporterName": "Martinique",
+      "total_exports": 403954.457,
+      "rank": 84
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "REU",
+      "ReporterName": "Reunion",
+      "total_exports": 351429.413,
+      "rank": 85
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "BDI",
+      "ReporterName": "Burundi",
+      "total_exports": 316525.79000000004,
+      "rank": 86
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "BRB",
+      "ReporterName": "Barbados",
+      "total_exports": 270714.2270000001,
+      "rank": 87
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "GLP",
+      "ReporterName": "Guadeloupe",
+      "total_exports": 259375.75900000005,
+      "rank": 88
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "BLZ",
+      "ReporterName": "Belize",
+      "total_exports": 217968.92700000003,
+      "rank": 89
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "LCA",
+      "ReporterName": "St. Lucia",
+      "total_exports": 211670.376,
+      "rank": 90
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "GUF",
+      "ReporterName": "French Guiana",
+      "total_exports": 204276.482,
+      "rank": 91
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "CAF",
+      "ReporterName": "Central African Republic",
+      "total_exports": 183378.342,
+      "rank": 92
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "BTN",
+      "ReporterName": "Bhutan",
+      "total_exports": 131640.517,
+      "rank": 93
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "VCT",
+      "ReporterName": "St. Vincent and the Grenadines",
+      "total_exports": 108453.92000000003,
+      "rank": 94
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "DMA",
+      "ReporterName": "Dominica",
+      "total_exports": 93753.22800000002,
+      "rank": 95
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "HTI",
+      "ReporterName": "Haiti",
+      "total_exports": 91512.768,
+      "rank": 96
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "KNA",
+      "ReporterName": "St. Kitts and Nevis",
+      "total_exports": 49525.061,
+      "rank": 97
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "GRD",
+      "ReporterName": "Grenada",
+      "total_exports": 36279.72099999999,
+      "rank": 98
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "SYC",
+      "ReporterName": "Seychelles",
+      "total_exports": 30699.702999999998,
+      "rank": 99
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "KIR",
+      "ReporterName": "Kiribati",
+      "total_exports": 5254.590000000001,
+      "rank": 100
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "VUT",
+      "ReporterName": "Vanuatu",
+      "total_exports": 2727.0499999999997,
+      "rank": 101
+    },
+    {
+      "Year": 1993,
+      "ReporterISO3": "MSR",
+      "ReporterName": "Montserrat",
+      "total_exports": 1148.6779999999999,
+      "rank": 102
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "USA",
+      "ReporterName": "United States",
+      "total_exports": 963666298.4780006,
+      "rank": 1
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "DEU",
+      "ReporterName": "Germany",
+      "total_exports": 854200112,
+      "rank": 2
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "JPN",
+      "ReporterName": "Japan",
+      "total_exports": 791199818.9650004,
+      "rank": 3
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "FRA",
+      "ReporterName": "France",
+      "total_exports": 466614376.657,
+      "rank": 4
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "GBR",
+      "ReporterName": "United Kingdom",
+      "total_exports": 405715865.2689999,
+      "rank": 5
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "ITA",
+      "ReporterName": "Italy",
+      "total_exports": 380009086.5089998,
+      "rank": 6
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "CAN",
+      "ReporterName": "Canada",
+      "total_exports": 332509079.17499983,
+      "rank": 7
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "NLD",
+      "ReporterName": "Netherlands",
+      "total_exports": 291650401.1409999,
+      "rank": 8
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "BLX",
+      "ReporterName": "Belgium-Luxembourg",
+      "total_exports": 274539477.00400007,
+      "rank": 9
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "CHN",
+      "ReporterName": "China",
+      "total_exports": 242012521.78199983,
+      "rank": 10
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "SGP",
+      "ReporterName": "Singapore",
+      "total_exports": 193649100.18000007,
+      "rank": 11
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "KOR",
+      "ReporterName": "Korea, Rep.",
+      "total_exports": 192015335.478,
+      "rank": 12
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "OAS",
+      "ReporterName": "Other Asia, nes",
+      "total_exports": 183209338.1039999,
+      "rank": 13
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "ESP",
+      "ReporterName": "Spain",
+      "total_exports": 146375751.50399998,
+      "rank": 14
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "CHE",
+      "ReporterName": "Switzerland",
+      "total_exports": 140720043.30299997,
+      "rank": 15
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "SWE",
+      "ReporterName": "Sweden",
+      "total_exports": 122154223.59400004,
+      "rank": 16
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "MEX",
+      "ReporterName": "Mexico",
+      "total_exports": 121660687.81999998,
+      "rank": 17
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "MYS",
+      "ReporterName": "Malaysia",
+      "total_exports": 117685288.61899996,
+      "rank": 18
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "THA",
+      "ReporterName": "Thailand",
+      "total_exports": 90304943.60099997,
+      "rank": 19
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "AUS",
+      "ReporterName": "Australia",
+      "total_exports": 90178450.94399998,
+      "rank": 20
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "AUT",
+      "ReporterName": "Austria",
+      "total_exports": 90144367.71699992,
+      "rank": 21
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "BRA",
+      "ReporterName": "Brazil",
+      "total_exports": 87115651.72899996,
+      "rank": 22
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "SAU",
+      "ReporterName": "Saudi Arabia",
+      "total_exports": 85085686.51700002,
+      "rank": 23
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "DNK",
+      "ReporterName": "Denmark",
+      "total_exports": 83204735.359,
+      "rank": 24
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "IDN",
+      "ReporterName": "Indonesia",
+      "total_exports": 80106831.11299999,
+      "rank": 25
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "NOR",
+      "ReporterName": "Norway",
+      "total_exports": 69487058.40099998,
+      "rank": 26
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "IRL",
+      "ReporterName": "Ireland",
+      "total_exports": 68790246.73000002,
+      "rank": 27
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "FIN",
+      "ReporterName": "Finland",
+      "total_exports": 59522259.890999995,
+      "rank": 28
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "HKG",
+      "ReporterName": "Hong Kong, China",
+      "total_exports": 57472454.355,
+      "rank": 29
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "IND",
+      "ReporterName": "India",
+      "total_exports": 52618361.58399996,
+      "rank": 30
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "ZAF",
+      "ReporterName": "South Africa",
+      "total_exports": 50265433.93499997,
+      "rank": 31
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "TUR",
+      "ReporterName": "Turkey",
+      "total_exports": 36212059.937999986,
+      "rank": 32
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "PRT",
+      "ReporterName": "Portugal",
+      "total_exports": 35961466.03199999,
+      "rank": 33
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "POL",
+      "ReporterName": "Poland",
+      "total_exports": 34388738,
+      "rank": 34
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "ISR",
+      "ReporterName": "Israel",
+      "total_exports": 33867949.74700002,
+      "rank": 35
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "VEN",
+      "ReporterName": "Venezuela",
+      "total_exports": 33299302.869,
+      "rank": 36
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "ARG",
+      "ReporterName": "Argentina",
+      "total_exports": 31677303.01299998,
+      "rank": 37
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "CZE",
+      "ReporterName": "Czech Republic",
+      "total_exports": 28162888.291999992,
+      "rank": 38
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "PHL",
+      "ReporterName": "Philippines",
+      "total_exports": 26603779.73400001,
+      "rank": 39
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "KWT",
+      "ReporterName": "Kuwait",
+      "total_exports": 23929026.128,
+      "rank": 40
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "NZL",
+      "ReporterName": "New Zealand",
+      "total_exports": 23540620.913000003,
+      "rank": 41
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "CHL",
+      "ReporterName": "Chile",
+      "total_exports": 22737356.652000003,
+      "rank": 42
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "HUN",
+      "ReporterName": "Hungary",
+      "total_exports": 21399686,
+      "rank": 43
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "GRC",
+      "ReporterName": "Greece",
+      "total_exports": 18797967.619000006,
+      "rank": 44
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "DZA",
+      "ReporterName": "Algeria",
+      "total_exports": 17187612.513999995,
+      "rank": 45
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "COL",
+      "ReporterName": "Colombia",
+      "total_exports": 17075033.044999998,
+      "rank": 46
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "SVK",
+      "ReporterName": "Slovak Republic",
+      "total_exports": 13380454.45,
+      "rank": 47
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "ROM",
+      "ReporterName": "Romania",
+      "total_exports": 12302489.872000001,
+      "rank": 48
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "OMN",
+      "ReporterName": "Oman",
+      "total_exports": 10836594.939999998,
+      "rank": 49
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "TUN",
+      "ReporterName": "Tunisia",
+      "total_exports": 9168895.769,
+      "rank": 50
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "PER",
+      "ReporterName": "Peru",
+      "total_exports": 8777791.289999997,
+      "rank": 51
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "HRV",
+      "ReporterName": "Croatia",
+      "total_exports": 8520727.62,
+      "rank": 52
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "MAR",
+      "ReporterName": "Morocco",
+      "total_exports": 8069174.682,
+      "rank": 53
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "ECU",
+      "ReporterName": "Ecuador",
+      "total_exports": 7686700.177999998,
+      "rank": 54
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "EGY",
+      "ReporterName": "Egypt, Arab Rep.",
+      "total_exports": 6945083.47,
+      "rank": 55
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "LKA",
+      "ReporterName": "Sri Lanka",
+      "total_exports": 6384108.355999995,
+      "rank": 56
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "QAT",
+      "ReporterName": "Qatar",
+      "total_exports": 6292744.066,
+      "rank": 57
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "BHR",
+      "ReporterName": "Bahrain",
+      "total_exports": 6001364.897000002,
+      "rank": 58
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "BGD",
+      "ReporterName": "Bangladesh",
+      "total_exports": 4966653.904999997,
+      "rank": 59
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "GAB",
+      "ReporterName": "Gabon",
+      "total_exports": 4782075.937999998,
+      "rank": 60
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "CRI",
+      "ReporterName": "Costa Rica",
+      "total_exports": 4440874.596,
+      "rank": 61
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "BRN",
+      "ReporterName": "Brunei",
+      "total_exports": 4220619.042,
+      "rank": 62
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "LTU",
+      "ReporterName": "Lithuania",
+      "total_exports": 4058000.134,
+      "rank": 63
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "ZWE",
+      "ReporterName": "Zimbabwe",
+      "total_exports": 3934919.895000001,
+      "rank": 64
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "TTO",
+      "ReporterName": "Trinidad and Tobago",
+      "total_exports": 3908556.002000001,
+      "rank": 65
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "URY",
+      "ReporterName": "Uruguay",
+      "total_exports": 3828951.3429999994,
+      "rank": 66
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "MAC",
+      "ReporterName": "Macao",
+      "total_exports": 3664964.840999999,
+      "rank": 67
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "ISL",
+      "ReporterName": "Iceland",
+      "total_exports": 3253334.545,
+      "rank": 68
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "KEN",
+      "ReporterName": "Kenya",
+      "total_exports": 3237286.4189999974,
+      "rank": 69
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "GTM",
+      "ReporterName": "Guatemala",
+      "total_exports": 3004890.048,
+      "rank": 70
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "MLT",
+      "ReporterName": "Malta",
+      "total_exports": 2875486.1290000007,
+      "rank": 71
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "MUS",
+      "ReporterName": "Mauritius",
+      "total_exports": 2696018.941,
+      "rank": 72
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "JAM",
+      "ReporterName": "Jamaica",
+      "total_exports": 2351947.3809999996,
+      "rank": 73
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "JOR",
+      "ReporterName": "Jordan",
+      "total_exports": 2272552.0439999998,
+      "rank": 74
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "BOL",
+      "ReporterName": "Bolivia",
+      "total_exports": 2248461.0779999997,
+      "rank": 75
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "MKD",
+      "ReporterName": "North Macedonia",
+      "total_exports": 2172681.479,
+      "rank": 76
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "LVA",
+      "ReporterName": "Latvia",
+      "total_exports": 1979379.334,
+      "rank": 77
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "COG",
+      "ReporterName": "Congo, Rep.",
+      "total_exports": 1835607.8269999998,
+      "rank": 78
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "SLV",
+      "ReporterName": "El Salvador",
+      "total_exports": 1643594.0069999995,
+      "rank": 79
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "PRY",
+      "ReporterName": "Paraguay",
+      "total_exports": 1633664.9119999995,
+      "rank": 80
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "HND",
+      "ReporterName": "Honduras",
+      "total_exports": 1228095.1140000003,
+      "rank": 81
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "MDA",
+      "ReporterName": "Moldova",
+      "total_exports": 1131996.7819999994,
+      "rank": 82
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "SUR",
+      "ReporterName": "Suriname",
+      "total_exports": 1040902.1920000002,
+      "rank": 83
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "FJI",
+      "ReporterName": "Fiji",
+      "total_exports": 903143.5730000002,
+      "rank": 84
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "UGA",
+      "ReporterName": "Uganda",
+      "total_exports": 898214.9599999996,
+      "rank": 85
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "CYP",
+      "ReporterName": "Cyprus",
+      "total_exports": 886405.1659999995,
+      "rank": 86
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "NPL",
+      "ReporterName": "Nepal",
+      "total_exports": 769677.6450000003,
+      "rank": 87
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "NIC",
+      "ReporterName": "Nicaragua",
+      "total_exports": 702214.54,
+      "rank": 88
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "MDG",
+      "ReporterName": "Madagascar",
+      "total_exports": 653225.995,
+      "rank": 89
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "FRO",
+      "ReporterName": "Faeroe Islands",
+      "total_exports": 652835.7679999999,
+      "rank": 90
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "MWI",
+      "ReporterName": "Malawi",
+      "total_exports": 647042.5170000001,
+      "rank": 91
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "GRL",
+      "ReporterName": "Greenland",
+      "total_exports": 613482.868,
+      "rank": 92
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "MTQ",
+      "ReporterName": "Martinique",
+      "total_exports": 437208.47499999986,
+      "rank": 93
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "BDI",
+      "ReporterName": "Burundi",
+      "total_exports": 343193.4149999999,
+      "rank": 94
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "REU",
+      "ReporterName": "Reunion",
+      "total_exports": 341957.479,
+      "rank": 95
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "MOZ",
+      "ReporterName": "Mozambique",
+      "total_exports": 327954,
+      "rank": 96
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "TGO",
+      "ReporterName": "Togo",
+      "total_exports": 323469.152,
+      "rank": 97
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "GLP",
+      "ReporterName": "Guadeloupe",
+      "total_exports": 304517.16199999984,
+      "rank": 98
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "GUF",
+      "ReporterName": "French Guiana",
+      "total_exports": 297720.38800000004,
+      "rank": 99
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "BRB",
+      "ReporterName": "Barbados",
+      "total_exports": 269046.2009999999,
+      "rank": 100
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "BLZ",
+      "ReporterName": "Belize",
+      "total_exports": 238789.59100000001,
+      "rank": 101
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "LCA",
+      "ReporterName": "St. Lucia",
+      "total_exports": 166723.75100000002,
+      "rank": 102
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "CAF",
+      "ReporterName": "Central African Republic",
+      "total_exports": 162902.258,
+      "rank": 103
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "BTN",
+      "ReporterName": "Bhutan",
+      "total_exports": 132765.8,
+      "rank": 104
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "BMU",
+      "ReporterName": "Bermuda",
+      "total_exports": 131070.10899999998,
+      "rank": 105
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "VCT",
+      "ReporterName": "St. Vincent and the Grenadines",
+      "total_exports": 92338.006,
+      "rank": 106
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "DMA",
+      "ReporterName": "Dominica",
+      "total_exports": 88257.133,
+      "rank": 107
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "SYC",
+      "ReporterName": "Seychelles",
+      "total_exports": 47488.631,
+      "rank": 108
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "VUT",
+      "ReporterName": "Vanuatu",
+      "total_exports": 41468.305,
+      "rank": 109
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "GRD",
+      "ReporterName": "Grenada",
+      "total_exports": 39384.359999999986,
+      "rank": 110
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "KNA",
+      "ReporterName": "St. Kitts and Nevis",
+      "total_exports": 38903.471999999994,
+      "rank": 111
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "HTI",
+      "ReporterName": "Haiti",
+      "total_exports": 28594.430000000004,
+      "rank": 112
+    },
+    {
+      "Year": 1994,
+      "ReporterISO3": "KIR",
+      "ReporterName": "Kiribati",
+      "total_exports": 9969.646,
+      "rank": 113
+    },
+    {
+      "Year": 1995,
+      "ReporterISO3": "USA",
+      "ReporterName": "United States",
+      "total_exports": 1092883008.02,
+      "rank": 1
+    },
+    {
+      "Year": 1995,
+      "ReporterISO3": "DEU",
+      "ReporterName": "Germany",
+      "total_exports": 1047393502,
+      "rank": 2
+    },
+    {
+      "Year": 1995,
+      "ReporterISO3": "JPN",
+      "ReporterName": "Japan",
+      "total_exports": 885874705.4659997,
+      "rank": 3
+    },
+    {
+      "Year": 1995,
+      "ReporterISO3": "FRA",
+      "ReporterName": "France",
+      "total_exports": 568091217.4459994,
+      "rank": 4
+    },
+    {
+      "Year": 1995,
+      "ReporterISO3": "GBR",
+      "ReporterName": "United Kingdom",
+      "total_exports": 468744405.0839997,
+      "rank": 5
+    },
+    {
+      "Year": 1995,
+      "ReporterISO3": "ITA",
+      "ReporterName": "Italy",
+      "total_exports": 460882962.33100027,
+      "rank": 6
+    },
+    {
+      "Year": 1995,
+      "ReporterISO3": "CAN",
+      "ReporterName": "Canada",
+      "total_exports": 382235479.037,
+      "rank": 7
+    },
+    {
+      "Year": 1995,
+      "ReporterISO3": "NLD",
+      "ReporterName": "Netherlands",
+      "total_exports": 355252465.131,
+      "rank": 8
+    },
+    {
+      "Year": 1995,
+      "ReporterISO3": "BLX",
+      "ReporterName": "Belgium-Luxembourg",
+      "total_exports": 336307219.14500004,
+      "rank": 9
+    },
+    {
+      "Year": 1995,
+      "ReporterISO3": "CHN",
+      "ReporterName": "China",
+      "total_exports": 297559000.7170001,
+      "rank": 10
+    },
+    {
+      "Year": 1995,
+      "ReporterISO3": "KOR",
+      "ReporterName": "Korea, Rep.",
+      "total_exports": 250112900.141,
+      "rank": 11
+    },
+    {
+      "Year": 1995,
+      "ReporterISO3": "SGP",
+      "ReporterName": "Singapore",
+      "total_exports": 236526206.59699994,
+      "rank": 12
+    },
+    {
+      "Year": 1995,
+      "ReporterISO3": "OAS",
+      "ReporterName": "Other Asia, nes",
+      "total_exports": 219321810.0559999,
+      "rank": 13
+    },
+    {
+      "Year": 1995,
+      "ReporterISO3": "ESP",
+      "ReporterName": "Spain",
+      "total_exports": 179232110.931,
+      "rank": 14
+    },
+    {
+      "Year": 1995,
+      "ReporterISO3": "CHE",
+      "ReporterName": "Switzerland",
+      "total_exports": 163282221.2990001,
+      "rank": 15
+    },
+    {
+      "Year": 1995,
+      "ReporterISO3": "MEX",
+      "ReporterName": "Mexico",
+      "total_exports": 159081312.00800002,
+      "rank": 16
+    },
+    {
+      "Year": 1995,
+      "ReporterISO3": "SWE",
+      "ReporterName": "Sweden",
+      "total_exports": 154872645.01299998,
+      "rank": 17
+    },
+    {
+      "Year": 1995,
+      "ReporterISO3": "MYS",
+      "ReporterName": "Malaysia",
+      "total_exports": 147556299.5360001,
+      "rank": 18
+    },
+    {
+      "Year": 1995,
+      "ReporterISO3": "AUT",
+      "ReporterName": "Austria",
+      "total_exports": 115165864.27000001,
+      "rank": 19
+    },
+    {
+      "Year": 1995,
+      "ReporterISO3": "THA",
+      "ReporterName": "Thailand",
+      "total_exports": 112689042.849,
+      "rank": 20
+    },
+    {
+      "Year": 1995,
+      "ReporterISO3": "AUS",
+      "ReporterName": "Australia",
+      "total_exports": 100769357.34200005,
+      "rank": 21
+    },
+    {
+      "Year": 1995,
+      "ReporterISO3": "DNK",
+      "ReporterName": "Denmark",
+      "total_exports": 97578255.50599997,
+      "rank": 22
+    },
+    {
+      "Year": 1995,
+      "ReporterISO3": "SAU",
+      "ReporterName": "Saudi Arabia",
+      "total_exports": 97118995.40999997,
+      "rank": 23
+    },
+    {
+      "Year": 1995,
+      "ReporterISO3": "BRA",
+      "ReporterName": "Brazil",
+      "total_exports": 93009863.966,
+      "rank": 24
+    },
+    {
+      "Year": 1995,
+      "ReporterISO3": "IDN",
+      "ReporterName": "Indonesia",
+      "total_exports": 90835925.45900004,
+      "rank": 25
+    },
+    {
+      "Year": 1995,
+      "ReporterISO3": "IRL",
+      "ReporterName": "Ireland",
+      "total_exports": 87578683.15199998,
+      "rank": 26
+    },
+    {
+      "Year": 1995,
+      "ReporterISO3": "NOR",
+      "ReporterName": "Norway",
+      "total_exports": 83480641.91,
+      "rank": 27
+    },
+    {
+      "Year": 1995,
+      "ReporterISO3": "FIN",
+      "ReporterName": "Finland",
+      "total_exports": 80817045.67100005,
+      "rank": 28
+    },
+    {
+      "Year": 1995,
+      "ReporterISO3": "IND",
+      "ReporterName": "India",
+      "total_exports": 63299843.081,
+      "rank": 29
+    },
+    {
+      "Year": 1995,
+      "ReporterISO3": "HKG",
+      "ReporterName": "Hong Kong, China",
+      "total_exports": 59891680.75600004,
+      "rank": 30
+    },
+    {
+      "Year": 1995,
+      "ReporterISO3": "ZAF",
+      "ReporterName": "South Africa",
+      "total_exports": 56452484.06299998,
+      "rank": 31
+    },
+    {
+      "Year": 1995,
+      "ReporterISO3": "PRT",
+      "ReporterName": "Portugal",
+      "total_exports": 46739988.04799999,
+      "rank": 32
+    },
+    {
+      "Year": 1995,
+      "ReporterISO3": "POL",
+      "ReporterName": "Poland",
+      "total_exports": 45724260.032000005,
+      "rank": 33
+    },
+    {
+      "Year": 1995,
+      "ReporterISO3": "CZE",
+      "ReporterName": "Czech Republic",
+      "total_exports": 43371131.065,
+      "rank": 34
+    },
+    {
+      "Year": 1995,
+      "ReporterISO3": "TUR",
+      "ReporterName": "Turkey",
+      "total_exports": 43197251.991000004,
+      "rank": 35
+    },
+    {
+      "Year": 1995,
+      "ReporterISO3": "ARG",
+      "ReporterName": "Argentina",
+      "total_exports": 41925149.04100002,
+      "rank": 36
+    },
+    {
+      "Year": 1995,
+      "ReporterISO3": "VEN",
+      "ReporterName": "Venezuela",
+      "total_exports": 38186045.23800001,
+      "rank": 37
+    },
+    {
+      "Year": 1995,
+      "ReporterISO3": "ISR",
+      "ReporterName": "Israel",
+      "total_exports": 38094843.072,
+      "rank": 38
+    },
+    {
+      "Year": 1995,
+      "ReporterISO3": "PHL",
+      "ReporterName": "Philippines",
+      "total_exports": 34347653.194000006,
+      "rank": 39
+    }
+]
