@@ -1,46 +1,77 @@
-# Getting Started with Create React App
+# React Dashboard Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a modern, responsive dashboard application built with React, TypeScript, Tailwind CSS, and React Query. It features authentication using Auth0, efficient data fetching and caching, and a sleek user interface with animated components.
 
-## Available Scripts
+### Features
+- **Authentication**: Secure login and redirection using Auth0.
+- **Protected Routes**: Pages that require authentication, implemented using custom route guards.
+- **Dynamic Dashboard**: A responsive dashboard displaying various data metrics with animated charts and interactive features.
+- **State Management**: Efficient management of global and local states using React hooks and context.
+- **Loading and Error Handling**: Enhanced user experience with custom loading animations and error messages.
+- **Styling**: Tailwind CSS for quick, maintainable, and responsive styling.
 
-In the project directory, you can run:
+### Dashboard
 
-### `npm start`
+The dashboard in this application provides a visual representation of trade data using different types of charts. Each chart component is designed to present data interactively and efficiently. Here's a brief description of the charts used:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+1. **Line Chart**
+   - *Component*: `LineChartCard.tsx`
+   - *Description*: This component displays a line chart that visualizes the annual trade value for selected countries. It includes a country filter that allows users to 
+                    view trade data for specific countries.
+   - Features:
+       - Interactive dropdown to filter data by country
+       - Smooth transitions and hover effects to enhance user experience
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+2. **Bar Chart**
+   - *Component*: `BarChartCard.tsx`
+   - *Description*: The bar chart component presents trade rank changes among various countries. It provides an easy way to understand the comparative performance of 
+                    countries in trade rankings.
+   - Features:
+       - Loading and error handling with custom animations.
+       - Hover and transition effects for an engaging interface
 
-### `npm test`
+3. **Pie Chart**
+   - *Component*: `PieChartCard.tsx`
+   - *Description*: This component shows a pie chart of the top trade partners, displaying the share of trade for the top N partners. By default, it fetches and visualizes 
+                    data for the top 5 trade partners.
+   - Features:
+       - Clean and appealing gradient backgrounds
+       - Simple and intuitive representation of proportional data
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+4. **Area Chart**
+   - *Component*: `AreaChartCard.tsx`
+   - *Description*: The area chart component provides a cumulative view of trade values over time. It allows users to observe trends and the cumulative impact of trade data.
+   - Features:
+       - Smooth area transitions to visualize growth
+       - Responsive design and seamless loading animations
 
-### `npm run build`
+### Technologies Used
+- **React**: For building the user interface.
+- **TypeScript**: For type safety and better developer experience.
+- **Tailwind CSS**: For rapid and responsive UI development.
+- **React Query**: For efficient and optimized data fetching.
+- **React Router**: For routing and navigation.
+- **Auth0**: For secure user authentication.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Setup Instructions
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Prerequisites
+- Node.js
+- npm or yarn
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Installation
+1. **Clone the Repository**
+   - git clone `https://github.com/rishik-m/Analytics_Dashboard_SSO`
+   - cd `Analytics_Dashboard_SSO`
+2. **Install Dependencies Using `npm` Or using `yarn`**
+   - `npm install`
+   - `yarn install`
+3. **Environment Variables**
+   - Create a `.env` file in the root of the project.
+   - Add the following variables (replace with your own values):
+     - REACT_APP_AUTH0_DOMAIN=`your-auth0-domain`
+     - REACT_APP_AUTH0_CLIENT_ID=`your-auth0-client-id`
+4. **Run the Application Using `npm` Or using `yarn`**
+   - `npm start`
+   - `yarn start`
+   - The application will start on `http://localhost:3000` by default.
